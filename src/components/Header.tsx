@@ -23,7 +23,7 @@ const Header: React.FC = () => {
     return (
         <header className="bg-transparent fixed top-0 left-0 right-0 md:absolute z-50 mx-auto w-full">
             <Container className="!px-0">
-                <nav className="shadow-md md:shadow-none bg-white md:bg-transparent mx-auto flex justify-between items-start py-2 px-5 md:py-6">
+                <nav className="shadow-md md:shadow-none bg-transparent mx-auto flex justify-between items-start py-2 px-5 md:py-6">
                     {/* Logo */}
                     <Link href="/" className="flex items-center gap-2 -ml-6 md:-ml-12 -mt-2 md:-mt-4">
                         <Image
