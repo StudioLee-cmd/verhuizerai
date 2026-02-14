@@ -1,12 +1,12 @@
 export const siteDetails = {
-    siteName: 'KapperAI',
-    siteUrl: 'http://localhost:3000/',
+    siteName: 'VerhuizerAI',
+    siteUrl: 'https://verhuizerai.nl/',
     metadata: {
-        title: 'KapperAI - De slimme assistent voor jouw kapsalon',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. KapperAI regelt je agenda, telefoon en administratie volledig automatisch.',
+        title: 'VerhuizerAI - AI Telefoniste & Automatisering voor Verhuisbedrijven',
+        description: 'VerhuizerAI helpt verhuisbedrijven groeien met AI. Van automatische telefoonbeantwoording tot slimme planning & offertes.',
     },
     language: 'nl-nl',
     locale: 'nl-NL',
-    siteLogo: '/images/logo-transparent.png', // Transparent logo for dark mode support
+    siteLogo: '/images/logo.png',
     googleAnalyticsId: '', // e.g. G-XXXXXXX,
 }

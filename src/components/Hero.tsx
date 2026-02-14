@@ -6,6 +6,7 @@ import { heroDetails } from '@/data/hero';
 import Highlight from './Highlight';
 import VoiceDemo from './VoiceDemo';
 import FreeTrialModal from './FreeTrialModal';
+import Link from 'next/link';
 import LightRays from './LightRays';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import RotatingText from './RotatingText';
@@ -63,19 +64,19 @@ const Hero: React.FC = () => {
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                             className="mr-2"
                         >
-                            De grootste kans voor&nbsp;<Highlight color="primary">kappers</Highlight>
+                            De grootste kans voor&nbsp;<Highlight color="primary">verhuisbedrijven</Highlight>
                         </motion.span>
                         <br className="hidden md:block" />
                         <motion.span
                             style={{ x: xRight, opacity, display: 'inline-block' }}
                         >
-                            sinds de uitvinding van de
+                            sinds de uitvinding van
                         </motion.span>
                         <br className="hidden md:block" />
                         <motion.span
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                         >
-                            <Highlight color="secondary">schaar</Highlight>.
+                            <Highlight color="secondary">de verhuiswagen</Highlight>.
                         </motion.span>
                     </h1>
                 </motion.div>
@@ -101,20 +102,20 @@ const Hero: React.FC = () => {
 
                         <RotatingText
                             texts={[
-                                'Winst tot in de Puntjes 💇‍♀️',
-                                'Alles-in-1 Systeem ✂️',
-                                'Nooit Meer Gemiste Afspraken 📅',
-                                'Weg Met Losse Briefjes 🗑️',
-                                'Knippen Zonder Zorgen 💇‍♀️',
-                                'Je Salon in je Broekzak 📱',
-                                'Jouw AI Receptioniste 🤖',
-                                'Stop Omzetlekkages 💸',
-                                'Geen Gedoe Met Facturen 🧾',
+                                'Meer Verhuizingen 📦',
+                                'Volle Agenda 📅',
+                                'Geen Gemiste Oproepen 📞',
+                                'Slimme Planning 🚚',
+                                'Offertes in Minuten 📝',
+                                'Klantcontact Automatisering 🤖',
+                                'Meer Tijd, Minder Stress 🧘',
+                                'Hogere Omzet 📈',
+                                'Professionele Uitstraling ⭐',
+                                'Automatische Facturatie 🧾',
                                 'Alle Tools in 1 App 📱',
-                                'Meer Vrijheid, Minder Stress 🧘',
                                 '100% Jouw Eigen Stijl 🎨',
-                                'Klanten & AI in 1 Systeem 🤝',
-                                'Volgeboekte Agenda 📈'
+                                'Klanten & AI Samen 🤝',
+                                'Ondernemen Zonder Zorgen 🚀'
                             ]}
                             mainClassName="px-2 sm:px-3 bg-[#0EA5E9] text-white overflow-hidden py-0.5 sm:py-1 justify-center rounded-lg shadow-md"
                             staggerFrom="last"

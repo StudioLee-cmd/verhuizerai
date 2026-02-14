@@ -65,39 +65,33 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // HERO USPs (KAPPER EDITION)
-            "Winst tot in de Puntjes 💇‍♀️",
-            "Alles-in-1 Systeem ✂️",
-            "Nooit Meer Gemiste Afspraken 📅",
-            "Je Balie Eindelijk Opgeruimd ✨",
-            "Knippen Zonder Zorgen 💇‍♀️",
-            "Je Salon in je Broekzak 📱",
+            // HERO USPs (VERHUIZER EDITION)
+            "Meer Verhuizingen 📦",
+            "Alles-in-1 Systeem 🛠️",
+            "Geen Gemiste Oproepen 📞",
+            "Slimme Planning 🚚",
+            "Ondernemen Zonder Zorgen 🚀",
+            "Kantoor in je Broekzak 📱",
             "Jouw AI Receptioniste 🤖",
-            "Stop Omzetlekkages 💸",
-            "Geen Gedoe Met Facturen 🧾",
+            "Administratie op Orde 💡",
+            "Factuur Direct 🧾",
             "Alle Tools in 1 App 📱",
-            "Meer Vrijheid, Minder Stress 🧘",
-            "100% Jouw Eigen Stijl 🎨",
-            "Klanten & AI in 1 Systeem 🤝",
-            "Volgeboekte Agenda 📈",
-            "Klanten die terugkomen als een boemerang 🪃",
-            "Slapende klanten wakker schudden ⏰",
+            "Meer Vrijheid 🧘",
+            "Jouw Eigen Stijl 🎨",
+            "Volle Agenda 📈",
+            "Offertes die scoren 📝",
+            "Tevreden Klanten 😊",
 
-            // KAPPERS PUNS & FUN (PUNCHIER)
-            "Minder lullen, meer krullen 💇‍♂️",
-            "Tijd voor koffie & roddels ☕",
-            "Laat de telefoon maar rinkelen (AI pakt op) 📞",
-            "Laat de AI je agenda vullen 🤖",
-            "Föhnen, niet telefoneren 💨",
-            "Geen uitgroei in je planning 📅",
-            "Geknipt voor succes ✂️",
-            "Jij de schaar, AI de rest 💈",
-            "Van kapster naar top-ondernemer 🚀",
-            "Handen in het haar? Nergens voor nodig! 👐",
-            "Meer omzet in minder tijd ⏳",
-            "Altijd scherp, net als je schaar 🔪",
-            "Strakke coupe, strakke planning 📏",
-            "Eindelijk rustig lunchen 🥗"
+            // VERHUIZER PUNS & FUN
+            "Verhuizen zonder zorgen 📦",
+            "Tijd voor koffie & rit ☕",
+            "Laat AI de telefoon doen 📞",
+            "Geen gedoe met papierwerk 🧾",
+            "Slimmer plannen 🧠",
+            "Geen dubbele boekingen 📅",
+            "Eindelijk rustig rijden 🚚",
+            "Foutloze service ✅",
+            "Verhuizer van de toekomst 🚀"
         ];
 
         // Pick random 10 unique words

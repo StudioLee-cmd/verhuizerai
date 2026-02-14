@@ -1,2 +1,5 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://verhuizerai.nl/sitemap.xml
+Disallow: /aanmelding-gelukt

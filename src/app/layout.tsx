@@ -7,6 +7,8 @@ import Footer from "@/components/Footer";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import { siteDetails } from '@/data/siteDetails';
 
+import { Analytics } from "@vercel/analytics/next"
+
 import "./globals.css";
 
 const manrope = Manrope({ subsets: ['latin'] });
@@ -15,6 +17,7 @@ const caveat = Caveat({ subsets: ['latin'], variable: '--font-caveat' });
 const outfit = Outfit({ subsets: ['latin'], variable: '--font-outfit' });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(siteDetails.siteUrl),
   title: siteDetails.metadata.title,
   description: siteDetails.metadata.description,
   openGraph: {
@@ -59,6 +62,7 @@ export default function RootLayout({
             {children}
           </main>
           <Footer />
+          <Analytics />
         </ThemeProvider>
       </body>
     </html>
