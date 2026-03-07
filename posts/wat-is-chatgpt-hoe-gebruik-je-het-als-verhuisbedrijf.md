@@ -80,4 +80,4 @@ Met onze managed service hoef je zelf niets te doen. We houden alles draaiend â€
 
 ChatGPT is een handig hulpmiddel dat elke verhuizer gratis kan uitproberen. Maar het vervangt geen automatisering. Voor een compleet systeem dat je boekingen opvangt, no-shows vermindert, reviews verzamelt en je vindbaarheid verbetert, heb je een gespecialiseerd platform nodig.
 
-Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://studiolee.nl) om te ontdekken wat er mogelijk is.
+Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.
