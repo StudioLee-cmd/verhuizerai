@@ -42,4 +42,4 @@ Na elke geslaagde verhuizing is de klant opgelucht en tevreden. Dat is het perfe
 
 Verhuisbedrijven die AI inzetten, vullen hun agenda slimmer, verspillen minder tijd aan no-shows en bouwen sneller een sterke reputatie op.
 
-Ontdek hoe VerhuizerAI jouw bedrijf helpt op [verhuizerai.nl](https://verhuizerai.nl).
+Ontdek hoe VerhuizerAI jouw bedrijf helpt op [verhuizerai.nl](https://www.verhuizerai.nl).
