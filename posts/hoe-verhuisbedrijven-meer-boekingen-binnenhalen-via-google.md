@@ -106,7 +106,7 @@ Jij verhuist mensen. Wij zorgen dat ze jou vinden:
 
 Meer boekingen, geen gemiste aanvragen. Dat is het idee.
 
-**Ontdek wat VerhuizerAI voor jouw verhuisbedrijf doet.** Plan een gratis gesprek via verhuizerai.nl.
+**Ontdek wat VerhuizerAI voor jouw verhuisbedrijf doet.** Plan een gratis gesprek via [verhuizerai.nl](https://www.verhuizerai.nl).
 
 ---
 
