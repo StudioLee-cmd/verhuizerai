@@ -67,4 +67,4 @@ Verhuizen is stressvol — voor de klant én voor het verhuisbedrijf. Tussen de 
 - **Boekhouding?** Moneybird regelt je facturen en BTW.
 - **Compleet systeem?** [VerhuizerAI](/) combineert planning, facturatie, reviews en vindbaarheid in één — zonder commissie.
 
-Benieuwd wat VerhuizerAI voor jouw verhuisbedrijf kan betekenen? [Neem contact op](/contact).
+Benieuwd wat VerhuizerAI voor jouw verhuisbedrijf kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).
