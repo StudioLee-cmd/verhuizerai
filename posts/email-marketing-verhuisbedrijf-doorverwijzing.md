@@ -37,11 +37,11 @@ Na de initiële follow-up verschuif je de focus naar doorverwijzingen.
 
 **Bedankje bij doorverwijzing**: als een eerdere klant iemand doorverwijst en dat leidt tot een boeking, stuur een bedankje. Een fles wijn, een cadeaubon of een handgeschreven kaart. Dat kleine gebaar zorgt ervoor dat ze het opnieuw doen.
 
-**[Social media](/blog/social-media-voor-verhuisbedrijven) koppelen**: verwijs in je e-mails naar je Instagram of Facebook waar je foto's deelt van tevreden klanten bij hun nieuwe woning. Dit versterkt je geloofwaardigheid.
+**[Social media](/blog/social-media-voor-verhuizers) koppelen**: verwijs in je e-mails naar je Instagram of Facebook waar je foto's deelt van tevreden klanten bij hun nieuwe woning. Dit versterkt je geloofwaardigheid.
 
 ## Seizoenstips sturen
 
-Verhuizingen zijn seizoensgebonden — de [piekperiodes](/blog/piekperiodes-verhuisbedrijf) zijn in de zomer en rond einde maand. Speel daarop in:
+Verhuizingen zijn seizoensgebonden — de [piekperiodes](/blog/piekperiodes-verhuisbedrijf-zomer) zijn in de zomer en rond einde maand. Speel daarop in:
 
 **Januari**: "Nieuwjaarsvoornemen: dit jaar verhuizen? Begin nu met plannen en voorkom stress in het hoogseizoen."
 
@@ -66,7 +66,7 @@ De sleutel is consistentie, niet complexiteit. Liever elke maand een handmatige 
 - **Geen klantgegevens bewaren**: als je geen e-mailadressen verzamelt, kun je niemand benaderen
 - **Te commercieel communiceren**: een e-mail die aanvoelt als reclame wordt genegeerd
 - **Alleen mailen als het rustig is**: juist in drukke periodes is e-mail waardevol — je plant hiermee vooruit
-- **[Offerte-opvolging](/blog/offerte-verhuisbedrijf-verbeteren) en marketing verwarren**: offerte-opvolging is verkoop, marketing is relatie onderhouden. Beide zijn belangrijk, maar het zijn andere berichten
+- **[Offerte-opvolging](/blog/offerte-proces-verhuisbedrijf-verbeteren) en marketing verwarren**: offerte-opvolging is verkoop, marketing is relatie onderhouden. Beide zijn belangrijk, maar het zijn andere berichten
 
 ## Aan de slag
 

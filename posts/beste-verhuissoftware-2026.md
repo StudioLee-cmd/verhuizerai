@@ -43,7 +43,7 @@ Verhuizen is stressvol — voor de klant én voor het verhuisbedrijf. Tussen de 
 
 [VerhuizerAI](/) is een compleet AI-systeem voor verhuisbedrijven: planning, facturatie, automatische reviews via WhatsApp, AI-chatbot, Voice AI-telefonist en optimalisatie voor Google én AI-zoekmachines — zonder commissie.
 
-**Sterkste punt:** Alles in één systeem met AI: planning en agenda, facturatie, review-automatisering via WhatsApp, AI-chatbot die offerteaanvragen opvangt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-een-verhuisbedrijf-meer-klanten-krijgt-via-google). Geen commissie per opdracht.
+**Sterkste punt:** Alles in één systeem met AI: planning en agenda, facturatie, review-automatisering via WhatsApp, AI-chatbot die offerteaanvragen opvangt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-verhuisbedrijven-meer-boekingen-binnenhalen-via-google). Geen commissie per opdracht.
 
 **Nadeel:** De facturatie is minder diepgaand dan een dedicated boekhoudprogramma als Moneybird — voor complexe BTW-administratie kun je beide combineren.
 

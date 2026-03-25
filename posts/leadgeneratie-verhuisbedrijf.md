@@ -9,7 +9,7 @@ tags: ["leadgeneratie", "verhuisbedrijf", "klanten werven"]
 
 # Leadgeneratie als verhuisbedrijf: meer boekingen via slimme kanalen
 
-De verhuisbranche draait op [seizoenen](/blog/piekperiodes-verhuisbedrijf-grip-zomer-einde-maand) en aanbevelingen. In de zomer en rond de eerste van de maand is het druk — maar daarbuiten kan het stil zijn. Slimme leadgeneratie zorgt voor een constante stroom nieuwe boekingen.
+De verhuisbranche draait op [seizoenen](/blog/piekperiodes-verhuisbedrijf-zomer) en aanbevelingen. In de zomer en rond de eerste van de maand is het druk — maar daarbuiten kan het stil zijn. Slimme leadgeneratie zorgt voor een constante stroom nieuwe boekingen.
 
 ## Waarom diversificatie noodzakelijk is
 
@@ -37,7 +37,7 @@ Corporaties verhuizen regelmatig huurders — bij renovatie, sloop-nieuwbouw of 
 
 ### 3. Bedrijfsverhuizingen
 
-[Zakelijke verhuizingen](/blog/zakelijke-verhuizingen-stabielere-omzetbron) zijn groter, planbaaarder en beter betaald dan particuliere klussen. Benader:
+[Zakelijke verhuizingen](/blog/zakelijke-verhuizingen-stabiele-omzet) zijn groter, planbaaarder en beter betaald dan particuliere klussen. Benader:
 
 - Kantoorverhuurders
 - Bedrijvenmakelaars
@@ -61,14 +61,14 @@ Partner met bedrijven die dezelfde klant bedienen:
 
 ## Online leadgeneratie
 
-Je website en [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-verhuisbedrijf-eerste-keuze) zijn je digitale etalage:
+Je website en [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-verhuisbedrijf) zijn je digitale etalage:
 
 | Online kanaal | Wat het oplevert |
 |--------------|------------------|
 | Google zichtbaarheid | Directe zoekintentie-leads |
-| [Social media](/blog/social-media-verhuisbedrijven-online-zichtbaarheid) | Zichtbaarheid en vertrouwen |
-| [Email marketing](/blog/email-marketing-verhuisbedrijven-doorverwijzingen) | Heractivering en referrals |
-| [Website conversie](/blog/verhuiswebsite-conversiemachine-meer-boekingen) | Meer offerteaanvragen |
+| [Social media](/blog/social-media-verhuisbedrijven-boekingen) | Zichtbaarheid en vertrouwen |
+| [Email marketing](/blog/email-marketing-verhuisbedrijf-doorverwijzing) | Heractivering en referrals |
+| [Website conversie](/blog/verhuiswebsite-conversie-boekingen) | Meer offerteaanvragen |
 
 ## Het dal opvullen
 

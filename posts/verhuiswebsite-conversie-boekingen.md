@@ -24,7 +24,7 @@ Het offerteformulier is het hart van je verhuiswebsite. Houd het eenvoudig maar 
 
 Optioneel kun je vragen naar bijzonderheden (piano, kluis, smalle trappen). Maar beperk het totaal tot maximaal 6-8 velden. Hoe meer je vraagt, hoe minder mensen het invullen.
 
-Stuur direct een automatische bevestiging: "Bedankt voor je aanvraag! We nemen binnen 24 uur contact op." Die belofte moet je waarmaken — lees hoe je je [offerteproces verbetert](/blog/offerteproces-verhuisbedrijf-conversie).
+Stuur direct een automatische bevestiging: "Bedankt voor je aanvraag! We nemen binnen 24 uur contact op." Die belofte moet je waarmaken — lees hoe je je [offerteproces verbetert](/blog/offerte-proces-verhuisbedrijf-verbeteren).
 
 ## Vertrouwen wekken met reviews
 
@@ -55,7 +55,7 @@ Elke pagina moet een duidelijke call-to-action bevatten:
 - **Blog**: link naar het offerteformulier vanuit relevante artikelen
 - **Prijspagina**: "Ontvang een prijs op maat" na je tariefoverzicht
 
-Gebruik actieve, persoonlijke teksten. "Vraag jouw offerte aan" werkt beter dan "Contact opnemen". Combineer dit met de [social media strategie](/blog/social-media-verhuisbedrijven) voor maximaal verkeer naar je website.
+Gebruik actieve, persoonlijke teksten. "Vraag jouw offerte aan" werkt beter dan "Contact opnemen". Combineer dit met de [social media strategie](/blog/social-media-verhuisbedrijven-boekingen) voor maximaal verkeer naar je website.
 
 ## Conclusie
 

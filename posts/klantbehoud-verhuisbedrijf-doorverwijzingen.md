@@ -45,7 +45,7 @@ Maak doorverwijzen aantrekkelijk. Een gestructureerd verwijzingsprogramma levert
 
 **Maak het makkelijk**. Geef de klant een persoonlijke kortingscode die ze kunnen delen. Of stuur een mail met een link die ze kunnen doorsturen. Hoe minder moeite het kost, hoe vaker het gebeurt.
 
-**Deel je [portfolio](/blog/verhuisbedrijf-website-conversiemachine)**. Zorg dat je website projectfoto's en reviews laat zien. Klanten die je aanbevelen, sturen vaak je website mee. Als die er professioneel uitziet, is de deal al half gesloten.
+**Deel je [portfolio](/blog/klantbehoud-verhuisbedrijf-doorverwijzingen)**. Zorg dat je website projectfoto's en reviews laat zien. Klanten die je aanbevelen, sturen vaak je website mee. Als die er professioneel uitziet, is de deal al half gesloten.
 
 ## Digitaal contact houden
 

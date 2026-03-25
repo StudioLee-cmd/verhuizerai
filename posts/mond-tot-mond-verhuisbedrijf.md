@@ -40,7 +40,7 @@ Online mond-tot-mond is de moderne variant. Stimuleer dit via:
 
 - **Google reviews**: elke review is een digitale aanbeveling. Lees hoe je [meer reviews krijgt](/blog/meer-google-reviews-verhuisbedrijf)
 - **Social media**: vraag klanten om hun verhuiservaring te delen op Instagram of Facebook en je bedrijf te taggen
-- **Referral-links**: maak het makkelijk om je door te sturen — een simpele link naar je [offerteformulier](/blog/offerteproces-verhuisbedrijf-conversie)
+- **Referral-links**: maak het makkelijk om je door te sturen — een simpele link naar je [offerteformulier](/blog/offerte-proces-verhuisbedrijf-verbeteren)
 
 Eén Instagram-post van een tevreden klant bereikt gemiddeld 200-500 mensen — dat is gratis marketing aan precies de juiste doelgroep (mensen in dezelfde leeftijds- en inkomensgroep).
 

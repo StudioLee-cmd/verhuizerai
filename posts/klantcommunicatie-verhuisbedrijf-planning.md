@@ -17,13 +17,13 @@ De verhuisbedrijven die het beste scoren op [reviews](/blog/meer-google-reviews-
 
 ## Het eerste contact: vertrouwen winnen
 
-**Reageer snel op aanvragen**. Of het via je [website](/blog/verhuisbedrijf-website-conversiemachine), telefoon of mail is — reageer binnen een paar uur. Een klant die drie verhuisbedrijven benadert, kiest degene die het snelst en duidelijkst reageert.
+**Reageer snel op aanvragen**. Of het via je [website](/blog/klantbehoud-verhuisbedrijf-doorverwijzingen), telefoon of mail is — reageer binnen een paar uur. Een klant die drie verhuisbedrijven benadert, kiest degene die het snelst en duidelijkst reageert.
 
 **Stel de juiste vragen**. Niet alleen "wanneer en waarheen" maar ook: hoeveel kamers, bijzondere meubels, trap of lift, parkeermogelijkheden. Dit laat zien dat je ervaring hebt en meedenkt.
 
 **Bied een bezichtiging aan**. Voor grotere verhuizingen is een bezichtiging essentieel. Niet alleen om een exacte prijs te geven, maar ook om de klant te ontmoeten en vertrouwen op te bouwen. Een gezicht bij het bedrijf maakt een groot verschil.
 
-**Offerte snel en duidelijk**. Na de bezichtiging: stuur de [offerte](/blog/offerteproces-verhuisbedrijf) dezelfde dag. Specificeer wat er wel en niet is inbegrepen. Geen verrassingen op de factuur.
+**Offerte snel en duidelijk**. Na de bezichtiging: stuur de [offerte](/blog/leadgeneratie-verhuisbedrijf) dezelfde dag. Specificeer wat er wel en niet is inbegrepen. Geen verrassingen op de factuur.
 
 ## Voor de verhuisdag: verwachtingen managen
 

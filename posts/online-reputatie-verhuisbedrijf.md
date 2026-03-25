@@ -69,14 +69,14 @@ Een onbeantwoorde negatieve review is erger dan de review zelf. Reageer binnen 2
 
 Als meerdere reviews hetzelfde probleem noemen (bijv. "communicatie was onduidelijk"), dan is dat geen reviewprobleem maar een bedrijfsprobleem. Pak het op, verbeter het proces, en je toekomstige reviews verbeteren automatisch.
 
-Goede [klantcommunicatie van begin tot eind](/blog/klantcommunicatie-verhuisbedrijf-eerste-contact-verhuisdag) voorkomt de meeste negatieve reviews.
+Goede [klantcommunicatie van begin tot eind](/blog/klantcommunicatie-verhuisbedrijf-planning) voorkomt de meeste negatieve reviews.
 
 ## Je reputatie proactief beschermen
 
 Naast reviews verzamelen, kun je je reputatie actief versterken:
 
 - **Portfolio met foto's** — toon nette verhuizingen, beschermde meubels, professionele vrachtwagens
-- **Social media** — deel tevreden klanten (met toestemming), projectfoto's en bedrijfsnieuws op [social media](/blog/social-media-verhuisbedrijven-meer-boekingen)
+- **Social media** — deel tevreden klanten (met toestemming), projectfoto's en bedrijfsnieuws op [social media](/blog/social-media-verhuisbedrijven-boekingen)
 - **Website met testimonials** — integreer je beste Google Reviews op je website
 - **Certificeringen en verzekering** — vermeld je transportverzekering en eventuele keurmerken prominent
 
@@ -92,4 +92,4 @@ De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei in reviews of 
 
 In de verhuisbranche is vertrouwen alles. Klanten kiezen het bedrijf dat ze het meest vertrouwen, en dat vertrouwen wordt in 2026 grotendeels opgebouwd via online reviews. Door systematisch reviews te verzamelen, professioneel te reageren op negatieve feedback, en je reputatie actief te beschermen, maak je van je sterren je sterkste verkoopargument.
 
-Lees ook hoe je [klanten behoudt als verhuisbedrijf](/blog/klantbehoud-verhuisbedrijf-klant-ambassadeur) en hoe [email marketing meer doorverwijzingen oplevert](/blog/email-marketing-verhuisbedrijven).
+Lees ook hoe je [klanten behoudt als verhuisbedrijf](/blog/klantbehoud-verhuisbedrijf-doorverwijzingen) en hoe [email marketing meer doorverwijzingen oplevert](/blog/email-marketing-verhuisbedrijf-doorverwijzing).
