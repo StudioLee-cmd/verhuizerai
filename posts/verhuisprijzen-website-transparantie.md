@@ -7,8 +7,6 @@ image: "/images/blog/verhuisprijzen-website-transparantie.png"
 tags: ["prijzen communiceren", "verhuisbedrijf", "website"]
 ---
 
-# Verhuisprijzen op je website: waarom transparantie meer boekingen oplevert
-
 "Wat kost een verhuizing?" Het is de eerste vraag die elke potentiele klant stelt. Toch tonen de meeste verhuisbedrijven geen prijzen op hun website. "Elke verhuizing is anders." Klopt — maar klanten willen op z'n minst weten of ze in de juiste prijsklasse zitten.
 
 In dit artikel lees je hoe je als verhuisbedrijf prijstransparantie inzet als concurrentievoordeel.

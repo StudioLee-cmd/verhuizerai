@@ -7,9 +7,7 @@ image: "/images/blog/leadgeneratie-verhuisbedrijf.png"
 tags: ["leadgeneratie", "verhuisbedrijf", "klanten werven"]
 ---
 
-# Leadgeneratie als verhuisbedrijf: meer boekingen via slimme kanalen
-
-De verhuisbranche draait op [seizoenen](/blog/piekperiodes-verhuisbedrijf-zomer) en aanbevelingen. In de zomer en rond de eerste van de maand is het druk — maar daarbuiten kan het stil zijn. Slimme leadgeneratie zorgt voor een constante stroom nieuwe boekingen.
+De verhuisbranche draait op [seizoenen](/blog/piekperiodes-verhuisbedrijf-zomer-zomer) en aanbevelingen. In de zomer en rond de eerste van de maand is het druk — maar daarbuiten kan het stil zijn. Slimme leadgeneratie zorgt voor een constante stroom nieuwe boekingen.
 
 ## Waarom diversificatie noodzakelijk is
 

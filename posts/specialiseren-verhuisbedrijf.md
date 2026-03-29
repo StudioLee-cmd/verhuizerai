@@ -7,8 +7,6 @@ image: "/images/blog/specialiseren-verhuisbedrijf.png"
 tags: ["specialisatie", "verhuisbedrijf", "groei"]
 ---
 
-# Specialiseren als verhuisbedrijf: niche-focus die meer boekingen oplevert
-
 De verhuismarkt is competitief. Tientallen bedrijven bieden hetzelfde: "Wij verhuizen alles." Dat maakt je inwisselbaar en dwingt je om op prijs te concurreren. Specialisatie doorbreekt die cyclus.
 
 ## Waarom specialisatie werkt

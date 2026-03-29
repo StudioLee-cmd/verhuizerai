@@ -7,8 +7,6 @@ image: "/images/blog/branding-verhuisbedrijf.png"
 tags: ["branding", "verhuisbedrijf", "marketing"]
 ---
 
-# Branding als verhuisbedrijf: herkenbaar worden in een drukke markt
-
 Zoek op "verhuisbedrijf" in een willekeurige stad en je vindt tientallen aanbieders. Witte busjes, vergelijkbare diensten, vergelijkbare prijzen. Hoe zorg je dat klanten juist jou kiezen?
 
 Het antwoord is branding. Niet een duur logo of een catchy slogan, maar een herkenbare identiteit die vertrouwen wekt. In dit artikel leer je hoe je als verhuisbedrijf opvalt in een verzadigde markt.

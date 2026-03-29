@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-verhuisbedrijf-partnerschappen.png"
 tags: ["samenwerkingen", "verhuisbedrijf", "groei"]
 ---
 
-# Samenwerken als verhuisbedrijf: partnerschappen die boekingen opleveren
-
 Elke verhuizing is een keten van diensten: de woning verkopen, de verhuizing plannen, schoonmaken, opslaan, inrichten. Als verhuisbedrijf zit je midden in die keten. De vraag is: werk je samen met de andere schakels, of mis je de koppeling?
 
 ## Waarom samenwerkingen perfect passen bij verhuisbedrijven
@@ -18,7 +16,7 @@ Een verhuizing is een levensgebeurtenis. Klanten zijn gestrest en willen alles z
 Voordelen:
 - Warme leads van vertrouwde bronnen
 - Hogere boekingswaarde via pakketten
-- Minder [seizoensschommelingen](/blog/piekperiodes-verhuisbedrijf) door diversificatie
+- Minder [seizoensschommelingen](/blog/piekperiodes-verhuisbedrijf-zomer) door diversificatie
 - Sterkere [reputatie](/blog/online-reputatie-verhuisbedrijf)
 
 ## De beste partners voor verhuisbedrijven
@@ -51,7 +49,7 @@ Klanten die tijdelijk opslag nodig hebben (bij overbrugging, verbouwing, scheidi
 
 ## Zakelijke verhuizingen
 
-[Zakelijke verhuizingen](/blog/zakelijke-verhuizingen-stabielere-omzetbron) zijn een segment met veel samenwerkingskansen. Facility managers, kantoorinrichters en ICT-bedrijven — allemaal betrokken bij een kantoorverhuizing. Word hun vaste verhuispartner.
+[Zakelijke verhuizingen](/blog/zakelijke-verhuizingen-stabiele-omzet) zijn een segment met veel samenwerkingskansen. Facility managers, kantoorinrichters en ICT-bedrijven — allemaal betrokken bij een kantoorverhuizing. Word hun vaste verhuispartner.
 
 ## Online zichtbaar als partner
 

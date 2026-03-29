@@ -7,8 +7,6 @@ image: "/images/blog/google-bedrijfsprofiel-verhuisbedrijf.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
 ---
 
-# Google Bedrijfsprofiel als verhuisbedrijf: eerste keuze in jouw regio
-
 Wanneer iemand gaat verhuizen, is een van de eerste dingen die ze doen: "verhuisbedrijf [stad]" googelen. En wat ze dan zien is niet een lijst met websites — het is het Google Maps-blok met drie bedrijven, hun reviews, en een bel-knop. Dat is je Google Bedrijfsprofiel, en het bepaalt in veel gevallen of jij de opdracht krijgt of je concurrent.
 
 In dit artikel lees je hoe je als verhuisbedrijf je Google Bedrijfsprofiel zo optimaliseert dat je de eerste keuze wordt voor klanten in jouw regio.
