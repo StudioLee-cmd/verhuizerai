@@ -3,7 +3,7 @@ title: "Reviews automatisch verzamelen als verhuisbedrijf: direct na de verhuizi
 excerpt: "Tevreden klanten vergeten vaak een review achter te laten. Met automatische review-verzoeken direct na de verhuizing verzamel je structureel 5-sterren beoordelingen."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
-image: "/images/blog/reviews-automatisch-verzamelen-verhuisbedrijf.png"
+image: "/images/blog/reviews-automatisch-verzamelen-verhuisbedrijf.jpg"
 tags: ["Reviews", "Automatisering"]
 cluster: ""
 ---
