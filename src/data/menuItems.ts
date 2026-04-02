@@ -5,11 +5,11 @@ export const menuItems: IMenuItem[] = [
         text: "Diensten",
         url: "#",
         children: [
-            { text: "AI Chatbot", url: "/chatbot" },
-            { text: "Voice AI", url: "/voice-ai" },
-            { text: "SEO", url: "/seo" },
-            { text: "Social Media", url: "/social-media" },
-            { text: "Reviews", url: "/reviews" },
+            { text: "Chatbot voor Verhuizers", url: "/chatbot-voor-verhuizers" },
+            { text: "Voice AI voor Verhuizers", url: "/voice-ai-voor-verhuizers" },
+            { text: "SEO voor Verhuizers", url: "/seo-voor-verhuizers" },
+            { text: "Social Media voor Verhuizers", url: "/social-media-voor-verhuizers" },
+            { text: "Reviews voor Verhuizers", url: "/reviews-voor-verhuizers" },
             { text: "Review Pakket", url: "/review-pakket" },
         ]
     },
