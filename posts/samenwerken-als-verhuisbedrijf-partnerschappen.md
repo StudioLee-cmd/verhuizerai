@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-verhuisbedrijf-partnerschappen.png"
 tags: ["samenwerkingen", "verhuisbedrijf", "groei"]
+cluster: "samenwerkingen"
 ---
 
 Elke verhuizing is een keten van diensten: de woning verkopen, de verhuizing plannen, schoonmaken, opslaan, inrichten. Als verhuisbedrijf zit je midden in die keten. De vraag is: werk je samen met de andere schakels, of mis je de koppeling?

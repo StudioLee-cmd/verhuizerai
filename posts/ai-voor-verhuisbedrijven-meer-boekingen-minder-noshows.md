@@ -5,6 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-verhuisbedrijven-meer-boekingen-minder-noshows.png"
 tags: ["AI", "Automatisering", "Verhuizers"]
+cluster: "ai-automatisering"
 ---
 
 Verhuizen is voor klanten een stressvolle gebeurtenis — en voor verhuisbedrijven een logistieke puzzel. Tijdvensters, trappen, liften, verkeer, extra dozen op het laatste moment: elk detail telt. AI helpt verhuisbedrijven die puzzel slimmer te leggen.

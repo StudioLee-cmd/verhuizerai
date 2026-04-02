@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-verhuisbedrijven-meer-boekingen-binnenhalen-via-google.png"
 tags: ["Vindbaarheid", "Google", "Boekingen", "Verhuizen"]
+cluster: "vindbaarheid"
 ---
 
 ## Verhuizen begint online — en jij moet daar zijn

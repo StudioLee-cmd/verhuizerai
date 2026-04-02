@@ -5,6 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-automatiseren-verhuisbedrijf.jpg"
 tags: ["Reviews", "Marketing", "Groei"]
+cluster: "review-automatisering"
 ---
 
 ## Waarom reviews cruciaal zijn voor verhuisbedrijven

@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offerte-proces-verhuisbedrijf-verbeteren.png"
 tags: ["Verhuisbedrijf", "Offertes", "Conversie"]
+cluster: "offerte-proces"
 ---
 
 ## Waarom snelheid van reageren alles bepaalt

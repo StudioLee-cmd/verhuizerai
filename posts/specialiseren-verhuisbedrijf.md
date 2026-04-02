@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-verhuisbedrijf.png"
 tags: ["specialisatie", "verhuisbedrijf", "groei"]
+cluster: "specialisatie"
 ---
 
 De verhuismarkt is competitief. Tientallen bedrijven bieden hetzelfde: "Wij verhuizen alles." Dat maakt je inwisselbaar en dwingt je om op prijs te concurreren. Specialisatie doorbreekt die cyclus.

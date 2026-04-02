@@ -5,6 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/piekperiodes-verhuisbedrijf-zomer-zomer.png"
 tags: ["Verhuisbedrijf", "Piekperiodes", "Planning"]
+cluster: "seizoenswerk"
 ---
 
 ## De verhuispiek: zegen en uitdaging

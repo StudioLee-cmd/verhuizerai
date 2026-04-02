@@ -5,6 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-verhuisbedrijf.png"
 tags: ["branding", "verhuisbedrijf", "marketing"]
+cluster: "branding"
 ---
 
 Zoek op "verhuisbedrijf" in een willekeurige stad en je vindt tientallen aanbieders. Witte busjes, vergelijkbare diensten, vergelijkbare prijzen. Hoe zorg je dat klanten juist jou kiezen?

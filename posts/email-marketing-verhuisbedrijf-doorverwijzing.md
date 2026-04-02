@@ -7,6 +7,7 @@ image: "/images/blog/email-marketing-verhuisbedrijf-doorverwijzing.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "verhuisbedrijf", "doorverwijzing"]
+cluster: "email-marketing"
 ---
 
 ## Waarom verhuisbedrijven e-mail over het hoofd zien

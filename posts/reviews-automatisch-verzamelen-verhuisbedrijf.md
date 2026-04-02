@@ -5,6 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-automatisch-verzamelen-verhuisbedrijf.png"
 tags: ["Reviews", "Automatisering"]
+cluster: ""
 ---
 
 Na een verhuizing is iedereen moe. De dozen moeten uitgepakt, het nieuwe huis moet ingericht en het leven gaat door. Dat is precies het moment waarop je klant vergeet om een review achter te laten — ook al was die dolblij met je service.

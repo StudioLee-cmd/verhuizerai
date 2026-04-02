@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mond-verhuisbedrijf.png"
 tags: ["Mond-tot-mond", "Marketing", "Groei"]
+cluster: "mond-tot-mondreclame"
 ---
 
 ## De kracht van mond-tot-mond in de verhuisbranche

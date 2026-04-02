@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-verhuisbedrijf.png"
 tags: ["leadgeneratie", "verhuisbedrijf", "klanten werven"]
+cluster: "lead-opvolging"
 ---
 
 De verhuisbranche draait op [seizoenen](/blog/piekperiodes-verhuisbedrijf-zomer-zomer) en aanbevelingen. In de zomer en rond de eerste van de maand is het druk — maar daarbuiten kan het stil zijn. Slimme leadgeneratie zorgt voor een constante stroom nieuwe boekingen.

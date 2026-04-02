@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuiswebsite-conversie-boekingen.png"
 tags: ["Website", "Conversie", "Online boeken"]
+cluster: "website-conversie"
 ---
 
 ## Waarom je website je beste verkoper is
