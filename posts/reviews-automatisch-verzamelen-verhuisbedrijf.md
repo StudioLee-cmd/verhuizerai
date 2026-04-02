@@ -1,7 +1,7 @@
 ---
 title: "Reviews automatisch verzamelen als verhuisbedrijf"
 excerpt: "Verzamel automatisch 5-sterren reviews na elke verhuizing. Praktische tips en tools voor verhuisbedrijven."
-date: "2026-04-01"
+date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-automatisch-verzamelen-verhuisbedrijf.png"
 tags: ["Reviews", "Automatisering"]
