@@ -71,6 +71,6 @@ Bied een nieuwe datum aan, maar communiceer dat je de oorspronkelijke datum vrij
 
 ## Conclusie
 
-No-shows bij verhuizingen voorkom je met drie maatregelen: een aanbetaling die commitment toont, automatische herinneringen die de klant betrokken houden en een helder annuleringsbeleid dat verwachtingen schept.
+No-shows bij verhuizingen voorkom je met drie maatregelen: een aanbetaling die commitment toont, [automatische herinneringen](/chatbot) die de klant betrokken houden en een helder annuleringsbeleid dat verwachtingen schept.
 
 Benieuwd hoe VerhuizerAI je boekingen en communicatie automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt alles — jij hoeft er maar 15 minuten per maand aan te besteden.
