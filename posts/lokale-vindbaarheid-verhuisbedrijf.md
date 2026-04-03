@@ -11,7 +11,7 @@ tags: ["Lokale SEO", "Vindbaarheid", "Verhuizen", "Google Maps"]
 
 Verhuizen is een lokale dienst. Niemand huurt een verhuisbedrijf uit Maastricht als ze in Groningen wonen. Klanten zoeken "verhuisbedrijf [stad]" of "verhuizer bij mij in de buurt" en boeken bij een van de eerste resultaten. Als jij daar niet bij staat, gaan die boekingen naar je concurrent.
 
-Het goede nieuws: lokale SEO is voor verhuisbedrijven relatief eenvoudig te winnen. De meeste concurrenten doen er niets aan — een volledig Google Bedrijfsprofiel en een paar reviews zetten je al op voorsprong.
+Het goede nieuws: [lokale SEO](/seo) is voor verhuisbedrijven relatief eenvoudig te winnen. De meeste concurrenten doen er niets aan — een volledig Google Bedrijfsprofiel en een paar reviews zetten je al op voorsprong.
 
 ## Google Bedrijfsprofiel: je belangrijkste asset
 
