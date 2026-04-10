@@ -57,4 +57,4 @@ Vergelijk je organische verkeer voor en na het starten van je blog. De groei is 
 
 Een blog kost tijd, geen geld. Elk artikel dat je publiceert, werkt maanden en jaren voor je door. Het trekt klanten via Google die anders nooit van je hadden gehoord. Voor verhuisbedrijven die willen groeien zonder advertentiebudget is het de meest effectieve strategie.
 
-Wil je weten welke blogonderwerpen het meeste verkeer opleveren voor jouw verhuisbedrijf? Vraag een [gratis scan](/gratis-scan) aan en ontvang een content-plan op maat.
+Professionele [SEO](/seo) combineert blogcontent met technische optimalisatie. Wil je weten welke blogonderwerpen het meeste verkeer opleveren voor jouw verhuisbedrijf? Vraag een [gratis scan](/gratis-scan) aan en ontvang een content-plan op maat.
