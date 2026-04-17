@@ -1,75 +1,34 @@
 ---
-title: "Lokale vindbaarheid als verhuisbedrijf"
-excerpt: "Klanten zoeken 'verhuisbedrijf bij mij in de buurt' — verschijn jij bovenaan? Ontdek hoe je met lokale SEO meer boekingen uit je regio haalt."
-date: "2026-04-03"
+title: "Lokale vindbaarheid als verhuisbedrijf: meer boekingen via Google"
+excerpt: "Klanten zoeken online naar een verhuisbedrijf in de buurt. Zo zorg je dat jouw bedrijf bovenaan verschijnt."
+date: "2026-04-17"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-vindbaarheid-verhuisbedrijf.jpg"
-tags: ["Lokale SEO", "Vindbaarheid", "Verhuizen", "Google Maps"]
+tags: ["Vindbaarheid", "Google", "Boekingen"]
 ---
 
-## Waarom lokale vindbaarheid essentieel is voor verhuisbedrijven
+## Klanten zoeken lokaal naar een verhuizer
 
-Verhuizen is een lokale dienst. Niemand huurt een verhuisbedrijf uit Maastricht als ze in Groningen wonen. Klanten zoeken "verhuisbedrijf [stad]" of "verhuizer bij mij in de buurt" en boeken bij een van de eerste resultaten. Als jij daar niet bij staat, gaan die boekingen naar je concurrent.
+Wanneer iemand gaat verhuizen, is de eerste stap vaak Google: "verhuisbedrijf [plaatsnaam]" of "verhuizen kosten [regio]." De bedrijven die bovenaan verschijnen krijgen de meeste offerteaanvragen. Wie niet zichtbaar is, bestaat niet voor deze klant.
 
-Het goede nieuws: [lokale SEO](/seo) is voor verhuisbedrijven relatief eenvoudig te winnen. De meeste concurrenten doen er niets aan — een volledig Google Bedrijfsprofiel en een paar reviews zetten je al op voorsprong.
+Het goede nieuws: lokale vindbaarheid als verhuisbedrijf is relatief makkelijk te verbeteren. De concurrentie is in veel regio's beperkt en de meeste verhuizers investeren nauwelijks in hun online aanwezigheid. Een paar gerichte stappen maken al een groot verschil.
 
-## Google Bedrijfsprofiel: je belangrijkste asset
+## Google Bedrijfsprofiel compleet maken
 
-Je Google Bedrijfsprofiel bepaalt of je verschijnt in het lokale zoekpakket (de drie resultaten met kaart). Vul het volledig in:
+Je Google profiel is het eerste wat klanten zien. Zorg dat het volledig is ingevuld: al je diensten (particulier, zakelijk, internationaal, inboedel opslaan), je werkgebied, telefoonnummer en recente foto's.
 
-- **Categorie:** "Verhuisbedrijf" als primair
-- **Werkgebied:** Definieer de gemeenten waar je actief bent
-- **Diensten:** Particuliere verhuizingen, kantoorverhuizingen, inboedeltransport, opslag
-- **Foto's:** Je vrachtwagen, een team in actie, een netjes ingepakte lading
+Foto's van je team in actie, een opgeruimde verhuiswagen en tevreden klanten bij hun nieuwe woning wekken vertrouwen. Voeg na elke verhuizing een foto toe. [Reviews](/reviews) zijn essentieel: vraag elke tevreden klant om een Google beoordeling direct na de verhuisdag.
 
-Upload wekelijks een foto van een afgeronde verhuizing. Google beloont actieve profielen met een hogere ranking.
+## Website die converteert
 
-## Reviews zijn beslissend
+Maak het bezoekers makkelijk om een offerte aan te vragen. Een duidelijk offerteformulier met verhuisdatum, huidige en nieuwe adres en geschat volume is genoeg. Hoe minder velden, hoe meer aanvragen.
 
-Bij verhuizingen is vertrouwen alles. Klanten laten vreemden hun hele inboedel dragen — ze willen zeker weten dat het goed komt. Reviews zijn het bewijs.
+Maak pagina's voor je belangrijkste zoekwoorden: "Verhuisbedrijf [stad]", "Verhuizen [regio] kosten." Overweeg een [professionele website](/gratis-website) als je er nog geen hebt of als je huidige site verouderd is.
 
-Vraag na elke verhuizing om een review. Het perfecte moment: dezelfde avond, als de klant opgelucht in zijn nieuwe woning zit. Stuur een WhatsApp met een directe link naar je Google-reviewpagina.
+![Verhuiswagen voor een Nederlands rijtjeshuis](/images/blog/lokale-vindbaarheid-verhuisbedrijf-2.jpg)
 
-![Professioneel ingepakte verhuisdozen met kleurcodering](/images/blog/lokale-vindbaarheid-verhuisbedrijf-2.jpg)
+## Content voor meer zichtbaarheid
 
-## Lokale content op je website
+Artikelen over "Wat kost een verhuizing?", "Verhuischecklist" of "Tips voor het inpakken van breekbare spullen" trekken precies de mensen aan die binnenkort gaan verhuizen. Ze lezen je tips, vertrouwen je en vragen een offerte aan.
 
-Schrijf blogartikelen die lokale zoekvragen beantwoorden:
-
-- "Verhuizen in [stad]: parkeervergunning en praktische tips"
-- "Verhuisbedrijf [regio]: wat kost een verhuizing?"
-- "Tips voor verhuizen naar [wijk]: wat je moet weten"
-
-Elke pagina met lokale termen is een extra ingang in Google. Hoe meer relevante pagina's, hoe sterker je lokale autoriteit.
-
-## NAP-consistentie controleren
-
-Je bedrijfsnaam, adres en telefoonnummer moeten overal identiek zijn — website, Google, Facebook, Yelp, KvK, branchegidsen. Eén verschil (bijvoorbeeld een ander telefoonnummer op Facebook) verwart Google en schaadt je ranking.
-
-Check al je vermeldingen en corrigeer afwijkingen. Meld je ook aan bij verhuisplatforms en branchegidsen — elke vermelding met correcte gegevens versterkt je lokale autoriteit.
-
-## Seizoensgebonden content als troef
-
-Verhuisbedrijven hebben een seizoenspatroon: zomer en einde maand zijn piek. Schrijf content die inspeelt op die pieken:
-
-- "Verhuizen in de zomer: plan op tijd voor de drukste maanden"
-- "Einde maand verhuizen: waarom je twee weken van tevoren moet boeken"
-- "Verhuizen in de winter: goedkoper en sneller beschikbaar"
-
-Seizoensgebonden content rankt op het moment dat klanten het hardst zoeken — precies wanneer je de boekingen nodig hebt.
-
-## Veelgestelde vragen
-
-### Hoe lang duurt het voordat lokale SEO resultaat oplevert?
-
-Eerste verbetering na 4-8 weken. Volledig effect na 3-6 maanden met regelmatige reviews en content.
-
-### Moet ik Google Ads gebruiken naast SEO?
-
-Ads geven direct zichtbaarheid maar kosten per klik. SEO bouwt langetermijnverkeer op. De beste strategie: SEO als basis, Ads als versneller in het begin.
-
-## Conclusie
-
-Lokale vindbaarheid als verhuisbedrijf verbeter je met een compleet Google Bedrijfsprofiel, actieve reviewverzameling en lokale content. Begin vandaag — je concurrenten doen het waarschijnlijk nog niet.
-
-Wil je weten hoe VerhuizerAI je online vindbaarheid automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij verhuist.
+Meer weten over [SEO voor verhuizers](/seo)? Begin met je Google profiel en bouw van daaruit. Vraag een [gratis scan](/gratis-scan) aan voor een persoonlijk advies.
