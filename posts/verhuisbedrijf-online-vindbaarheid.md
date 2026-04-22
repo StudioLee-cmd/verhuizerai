@@ -2,11 +2,11 @@
 title: "Online vindbaarheid voor verhuisbedrijven: zo word je gevonden"
 excerpt: "De meeste mensen zoeken een verhuisbedrijf via Google. Ontdek hoe je met lokale SEO bovenaan verschijnt zonder te adverteren."
 date: "2026-04-06"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-online-vindbaarheid.jpg"
 tags: ["SEO", "Verhuisbedrijf", "Marketing"]
 ---
-
 ## 90 procent begint bij Google
 
 Wanneer iemand gaat verhuizen, is Google de eerste stop. "Verhuisbedrijf [stad]", "verhuizen kosten", "verhuizers in de buurt." Als jouw bedrijf daar niet verschijnt, gaat die klant naar een concurrent die dat wel doet.

@@ -2,11 +2,11 @@
 title: "Klant annuleert verhuizing: 5 stappen om de schade te beperken"
 excerpt: "Een klant annuleert vlak voor de verhuisdag. Wat doe je? Vijf concrete stappen om de schade te beperken en je dag te redden."
 date: "2026-04-12"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klant-annuleert-verhuizing-stappen.jpg"
 tags: ["No-shows", "Planning", "Groei"]
 ---
-
 ## Het telefoontje dat je niet wilt krijgen
 
 Vrijdagmiddag, drie uur. De bus is gepakt, het team staat klaar voor maandag. Dan belt de klant: "We hebben besloten om toch niet te verhuizen." Of erger: "We gaan met een ander bedrijf." Je zit met een lege maandag, een team dat betaald moet worden en een planning die niet meer klopt.

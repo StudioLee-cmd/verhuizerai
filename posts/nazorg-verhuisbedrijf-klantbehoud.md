@@ -2,11 +2,11 @@
 title: "Nazorg als verhuisbedrijf: van eenmalige klant naar ambassadeur"
 excerpt: "Een verhuizing is eenmalig, maar een tevreden klant verwijst jaren door. Ontdek hoe nazorg je verhuisbedrijf laat groeien."
 date: "2026-04-05"
+cluster: "nazorg"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-verhuisbedrijf-klantbehoud.jpg"
 tags: ["Nazorg", "Verhuizen", "Klantbehoud"]
 ---
-
 ## De verhuizing is klaar — en dan?
 
 De laatste doos is binnen, de bus is leeg, je factuur is verstuurd. De meeste verhuisbedrijven stoppen hier. Klant geholpen, klaar. Op naar de volgende.

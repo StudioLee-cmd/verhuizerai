@@ -2,11 +2,11 @@
 title: "Verhuisafspraken automatisch bevestigen en herinneren"
 excerpt: "Vergeten verhuisdata, verkeerde tijden, niet-voorbereide klanten. Automatische herinneringen lossen dit op voor verhuisbedrijven."
 date: "2026-04-05"
+cluster: "afspraak-herinneringen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisafspraak-herinnering-automatisch.jpg"
 tags: ["Herinneringen", "Verhuizen", "Planning"]
 ---
-
 ## De klant die niet klaar was
 
 Je team staat om 8:00 voor de deur. De klant doet open in pyjama. "Was dat vandaag?" De helft is nog niet ingepakt. Je team staat twee uur te wachten terwijl de klant paniekert met dozen.

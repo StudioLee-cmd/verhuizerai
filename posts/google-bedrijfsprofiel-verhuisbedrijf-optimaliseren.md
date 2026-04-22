@@ -2,11 +2,11 @@
 title: "Google Bedrijfsprofiel als verhuisbedrijf: zo optimaliseer je het"
 excerpt: "Je Google Bedrijfsprofiel is het eerste wat klanten zien. Zo optimaliseer je het als verhuisbedrijf voor meer boekingen."
 date: "2026-04-18"
+cluster: "google-bedrijfsprofiel"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-verhuisbedrijf-optimaliseren.jpg"
 tags: ["Google", "Vindbaarheid", "Boekingen"]
 ---
-
 ## Waarom je Google profiel belangrijker is dan je website
 
 Wanneer iemand zoekt op "verhuisbedrijf [stad]", verschijnt het kaartresultaat met drie bedrijven voordat de reguliere zoekresultaten beginnen. Die drie plekken krijgen meer dan 70 procent van alle klikken. Als je daar niet bij staat, mis je het grootste deel van je potentiele klanten.

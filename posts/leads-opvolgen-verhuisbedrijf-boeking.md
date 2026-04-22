@@ -2,11 +2,11 @@
 title: "Leads opvolgen als verhuisbedrijf: van offerte naar boeking"
 excerpt: "Veel offertes maar weinig boekingen? Leer hoe je als verhuisbedrijf je opvolging verbetert en meer verhuizingen binnenhaalt."
 date: "2026-04-04"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-verhuisbedrijf-boeking.jpg"
 tags: ["Leads", "Opvolging", "Verhuisbedrijf"]
 ---
-
 ## Waarom verhuisbedrijven leads verliezen
 
 Een verhuizing is stressvol. De klant wil zekerheid: wanneer kom je, wat kost het precies en ben je betrouwbaar? Wie het snelst die zekerheid biedt, wint de boeking. Verhuisbedrijven die 48 uur wachten met reageren verliezen 70% van hun aanvragen aan snellere concurrenten.

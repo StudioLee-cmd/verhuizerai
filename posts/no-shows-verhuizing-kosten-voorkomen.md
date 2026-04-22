@@ -2,11 +2,11 @@
 title: "Wat kost een no-show je als verhuisbedrijf?"
 excerpt: "Een no-show op verhuisdag kost je team, bus en planning. Zo bereken je de schade en voorkom je het."
 date: "2026-04-15"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verhuizing-kosten-voorkomen.jpg"
 tags: ["No-shows", "Kosten", "Planning"]
 ---
-
 Twee verhuizers, een vrachtwagen, een volle dag ingepland. Om acht uur staan ze voor de deur. Geen reactie. Telefoon gaat over op voicemail. Na een half uur wachten is het duidelijk: de klant komt niet. Een complete verhuisdag verspild.
 
 Bij een verhuisbedrijf is een no-show niet alleen een gemiste afspraak. Het is een heel team dat niets doet, een vrachtwagen die leeg rondrijdt, en een dag omzet die je niet meer terughaalt. De schade is groter dan bij welke andere branche dan ook.

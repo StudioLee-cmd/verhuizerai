@@ -2,11 +2,11 @@
 title: "Portfolio voor verhuisbedrijven: welke foto's werken"
 excerpt: "Portfolio als verhuisbedrijf: welke zes soorten foto's zakelijke en premium klanten overtuigen, en welke je website net zo goed kan schrappen."
 date: "2026-04-21"
+cluster: "portfolio"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-verhuisbedrijf-zakelijke-klanten.jpg"
 tags: ["Verhuisbedrijf", "Portfolio", "Zakelijke klanten", "Conversie"]
 ---
-
 De meeste verhuisbedrijven hebben ergens op hun website een rijtje foto's onder de naam "portfolio" of "ons werk". Vrijwel altijd zijn het dezelfde zes plaatjes: een verhuiswagen met het logo erop, twee mannen die een bank dragen, een hoop dozen op een oprit, en een close-up van folie rond een tafel. Die foto's verkopen nul klussen. Ze bevestigen alleen dat je inderdaad een verhuisbedrijf bent, maar laten niet zien waarom jij het betere verhuisbedrijf bent.
 
 Deze gids loopt door zes soorten portfolio-foto's die wél overtuigen — specifiek voor zakelijke verhuizingen en premium particulieren, twee klantgroepen die hogere marges betalen en waarvoor je website de beslissing maakt. Plus drie veelvoorkomende foto's die je net zo goed kunt schrappen omdat ze je case verzwakken.

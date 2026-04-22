@@ -2,11 +2,11 @@
 title: "No-shows voorkomen als verhuisbedrijf: bevestigingsstrategie die werkt"
 excerpt: "Een no-show kost een verhuisbedrijf gemakkelijk 800 euro per dag. Lees hoe je met automatische bevestigingen no-shows voorkomt."
 date: "2026-04-08"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-no-shows-voorkomen-bevestiging.jpg"
 tags: ["No-shows", "Verhuisbedrijf", "Klantcommunicatie"]
 ---
-
 ## Wat een no-show jou echt kost
 
 Het is dinsdagochtend 7:30. Jij staat met twee verhuizers en een bakwagen voor een huis. De afspraak: 8:00 uur, complete inboedelverhuizing. Je belt aan. Niemand thuis. Geen reactie op je telefoon. Geen sleutelafspraak. Een uur later rij je terug naar de werkplaats. Drie mensen, een bakwagen, een halve dag — voor niets.

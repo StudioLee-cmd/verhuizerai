@@ -2,11 +2,11 @@
 title: "Dalperiode verhuisbedrijf: zo houd je de winter agenda vol"
 excerpt: "De zomer is voorbij en de telefoon wordt stiller. Zo benut je als verhuisbedrijf de winter slim en houd je je agenda vol tot het voorjaar."
 date: "2026-04-16"
+cluster: "seizoenswerk"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dalperiode-verhuisbedrijf-agenda-vol-houden.jpg"
 tags: ["Verhuizen", "Seizoen", "Bedrijfsvoering"]
 ---
-
 ## De dalperiode is geen stilstand, het is een kans
 
 Eind september. De laatste piekweek is voorbij, de telefoon rinkelt minder en de busjes staan vaker stil. Voor veel verhuisbedrijven is dit het moment waarop de paniek toeneemt, of waarop er besloten wordt om "even rustig aan te doen". Beide zijn fouten. De winter is geen verloren tijd, het is een markt op zichzelf met andere klanten, andere triggers en andere prijzen.

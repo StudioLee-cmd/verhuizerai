@@ -2,11 +2,11 @@
 title: "Reviews na een verhuizing: wanneer en hoe je het vraagt"
 excerpt: "Na een geslaagde verhuizing is de klant opgelucht. Dat is het perfecte moment voor een review. Zo vraag je het zonder ongemakkelijk te zijn."
 date: "2026-04-12"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-na-verhuizing-beste-moment.jpg"
 tags: ["Reviews", "Klanttevredenheid", "Groei"]
 ---
-
 ## Verhuisklanten schrijven de beste reviews
 
 Een verhuizing is stressvol. Wekenlang inpakken, het hele leven in dozen, de spanning of alles heel aankomt. Als jij dat soepel regelt, is de opluchting enorm. Die emotie levert de meest gedetailleerde en overtuigende reviews op.

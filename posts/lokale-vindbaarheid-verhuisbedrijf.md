@@ -2,11 +2,11 @@
 title: "Lokale vindbaarheid als verhuisbedrijf: meer boekingen via Google"
 excerpt: "Klanten zoeken online naar een verhuisbedrijf in de buurt. Zo zorg je dat jouw bedrijf bovenaan verschijnt."
 date: "2026-04-17"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-vindbaarheid-verhuisbedrijf.jpg"
 tags: ["Vindbaarheid", "Google", "Boekingen"]
 ---
-
 ## Klanten zoeken lokaal naar een verhuizer
 
 Wanneer iemand gaat verhuizen, is de eerste stap vaak Google: "verhuisbedrijf [plaatsnaam]" of "verhuizen kosten [regio]." De bedrijven die bovenaan verschijnen krijgen de meeste offerteaanvragen. Wie niet zichtbaar is, bestaat niet voor deze klant.

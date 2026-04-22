@@ -2,11 +2,11 @@
 title: "Verhuisbedrijf automatiseren: van aanvraag tot verhuisdag"
 excerpt: "Verhuisbedrijven besteden uren aan offertes en planning. Ontdek hoe automatisering je hele proces stroomlijnt."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-automatiseren.jpg"
 tags: ["Automatisering", "Verhuisbedrijf", "Efficiëntie"]
 ---
-
 ## Van de eerste aanvraag tot de laatste doos
 
 Een verhuizing begint weken van tevoren. De klant vraagt een offerte aan, je plant een bezichtiging, maakt een inventarislijst, stelt een offerte op, plant de verhuisdag in, coördineert met je team, regelt de verhuiswagen en houdt de klant op de hoogte. Na de verhuizing volgt de factuur en eventuele nazorg.

@@ -2,11 +2,11 @@
 title: "Aanbetaling bij verhuizing: zo bescherm je je planning"
 excerpt: "Annuleringen en no-shows kosten verhuisbedrijven duizenden euros per jaar. Ontdek hoe je met een aanbetaling je planning beschermt zonder klanten af te schrikken."
 date: "2026-04-11"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/aanbetaling-verhuizing-planning-beschermen.jpg"
 tags: ["No-shows", "Planning", "Groei"]
 ---
-
 ## Waarom een aanbetaling logisch is als verhuizer
 
 Een verhuizing plannen vraagt om verhuiswagens, personeel en materiaal. Als een klant op het laatste moment annuleert, zit je met lege uren die je niet meer kunt vullen. Twee annuleringen per maand kosten al snel 1.000 tot 2.000 euro aan misgelopen omzet. Tel daar de personeelskosten bij op en het wordt een serieus probleem.

@@ -2,11 +2,11 @@
 title: "Nazorg na de verhuizing: zo houd je klanten als verhuizer"
 excerpt: "De verhuizing is klaar, maar het klantcontact hoeft niet te stoppen. Ontdek hoe nazorg je als verhuizer meer reviews, aanbevelingen en terugkerende klanten oplevert."
 date: "2026-04-14"
+cluster: "nazorg"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-verhuizing-klant-behouden.jpg"
 tags: ["Nazorg", "Klantrelatie", "Verhuizer Tips"]
 ---
-
 ## Na de verhuizing begint het echte werk
 
 De meeste verhuizers beschouwen een klus als afgerond zodra de laatste doos is uitgeladen. Handen schudden, factuur sturen, door naar de volgende opdracht. Maar de slimste verhuisbedrijven weten dat het klantcontact na de verhuizing het meeste oplevert.

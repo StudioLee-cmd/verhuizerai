@@ -2,11 +2,11 @@
 title: "Blog schrijven als verhuisbedrijf: hoe content je vindbaarheid versterkt"
 excerpt: "Een blog op je verhuiswebsite trekt klanten via Google. Zo start je met bloggen als verhuisbedrijf, ook zonder schrijfervaring."
 date: "2026-04-09"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/blog-schrijven-verhuisbedrijf-seo-content.jpg"
 tags: ["Vindbaarheid", "Verhuizer", "SEO"]
 ---
-
 ## Waarom een blog als verhuisbedrijf
 
 Je website heeft een homepage, een dienstenpagina en een contactformulier. Maar hoeveel pagina's indexeert Google? Waarschijnlijk vijf tot tien. Dat zijn vijf tot tien kansen om gevonden te worden. Veel te weinig.

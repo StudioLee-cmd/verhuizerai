@@ -2,11 +2,11 @@
 title: "No-shows als verhuisbedrijf: wat het je kost en hoe je het oplost"
 excerpt: "Een klant die op de verhuisdag niet klaar staat of afzegt kost je honderden euro's. Zo voorkom je het."
 date: "2026-04-17"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verhuisbedrijf-kosten.jpg"
 tags: ["No-shows", "Omzet", "Planning"]
 ---
-
 ## De verhuiswagen staat klaar maar de klant niet
 
 Je team is er, de verhuiswagen staat voor de deur, alles is ingepland. Maar de klant opent niet, heeft niets ingepakt of belt een uur van tevoren af. Bij een verhuisbedrijf is een no-show extra pijnlijk: je hebt niet alleen een monteur maar een heel team en een vrachtwagen gereserveerd.

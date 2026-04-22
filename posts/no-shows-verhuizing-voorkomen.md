@@ -2,11 +2,11 @@
 title: "No-shows bij verhuizingen voorkomen"
 excerpt: "Een verhuizing die op het laatste moment niet doorgaat kost je een volledige werkdag en team. Leer hoe je als verhuisbedrijf no-shows voorkomt en je planning beschermt."
 date: "2026-04-03"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verhuizing-voorkomen.jpg"
 tags: ["No-shows", "Planning", "Verhuizen"]
 ---
-
 ## Waarom een no-show als verhuizer extra pijnlijk is
 
 Een gemiste schilderafspraak kost je een dagdeel. Een gemiste verhuizing kost je een volledige werkdag, een team van twee tot vier man en een vrachtwagen die leeg terugrijdt. De financiële impact is direct: €500 tot €1.500 aan verloren omzet per no-show, afhankelijk van de omvang.

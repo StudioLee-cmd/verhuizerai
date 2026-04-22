@@ -2,11 +2,11 @@
 title: "Als verhuisbedrijf gevonden worden op Google"
 excerpt: "Klanten die een verhuizing plannen zoeken op Google. Zo zorg je dat jouw verhuisbedrijf bovenaan verschijnt wanneer ze zoeken in jouw regio."
 date: "2026-04-19"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-gevonden-worden-google.jpg"
 tags: ["Vindbaarheid", "Google", "Groei"]
 ---
-
 ## Klanten zoeken, maar vinden ze jou?
 
 "Verhuisbedrijf Amsterdam", "verhuizers offerte", "verhuisservice bij mij in de buurt." Duizenden mensen typen deze zoekopdrachten elke maand in Google. De verhuisbedrijven die bovenaan staan, krijgen de meeste offerteaanvragen. De rest krijgt kruimels.

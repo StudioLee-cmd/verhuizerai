@@ -2,11 +2,11 @@
 title: "Klanttevredenheid meten verhuisbedrijf: NPS en actie"
 excerpt: "Het NPS-systeem voor verhuisbedrijven: hoe je klanttevredenheid structureel meet na elke verhuizing, en wat je met de cijfers doet om doorverwijzingen te verdubbelen."
 date: "2026-04-22"
+cluster: "klanttevredenheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-meten-verhuisbedrijf-nps-score.jpg"
 tags: ["Verhuisbedrijf", "Klanttevredenheid", "NPS", "Retentie"]
 ---
-
 De meeste verhuisbedrijven weten aan het eind van een verhuizing niet of de klant echt tevreden was. Ze zien een vriendelijke zwaai, krijgen de factuur betaald en gaan door naar de volgende opdracht. Of de klant twee maanden later alsnog een negatieve Google-review plaatst of juist iemand anders naar jou doorverwijst, is een open vraag. En die open vraag kost gemiddeld een verhuisbedrijf tussen de 15 en 30 procent potentiële doorverwijsomzet per jaar.
 
 Klanttevredenheid structureel meten is daarom niet een "leuk om te doen"-initiatief. Het is de enige manier om te weten of je operationeel op koers zit voor lange-termijn-groei of voor langzame afbraak van je online reputatie. In deze gids staat hoe je met het NPS-systeem (Net Promoter Score) elke verhuizing in minder dan 30 seconden meetbaar maakt, en wat je daarna concreet doet met die cijfers om van 40 naar 60 procent doorverwijsratio te gaan.

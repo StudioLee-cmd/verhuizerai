@@ -2,11 +2,11 @@
 title: "Reviews verzamelen als verhuisbedrijf: automatische aanpak"
 excerpt: "Verhuisbedrijven leven van vertrouwen. Ontdek hoe je automatisch Google reviews verzamelt na elke verhuizing en je reputatie versterkt."
 date: "2026-04-07"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-verhuisbedrijf-automatisch.jpg"
 tags: ["Reviews", "Verhuisbedrijf", "Automatisering"]
 ---
-
 ## Vertrouwen is alles in de verhuisbranche
 
 Een gezin gaat verhuizen. Al hun bezittingen, van de bank tot de fotoalbums, worden toevertrouwd aan een verhuisbedrijf dat ze nog nooit hebben ontmoet. De keuze voor dat bedrijf is gebaseerd op een ding: vertrouwen.
