@@ -27,6 +27,8 @@ Daar komt bij dat een verhuizing een one-shot-event is. Een loodgieter kan op zi
 
 ## De 4 categorieën meerwerk in een verhuizing
 
+![Verhuiswagen-interieur met gestapelde dozen, werkhandschoenen, klembord en plakband op een verhuisdeken](/images/blog/meerwerk-prijzen-verhuisbedrijf-vooraf-vs-achteraf-2.jpg)
+
 Op basis van praktijkdata van Nederlandse verhuisbedrijven dekken vier categorieën circa 90 procent van alle meerwerk-incidenten.
 
 ### 1. Inboedel-omvang (35-50% van meerwerk-gevallen)
