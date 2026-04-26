@@ -2,6 +2,8 @@ import { IMenuItem, ISocials } from "@/types";
 
 export const footerDetails: {
     subheading: string;
+    services: IMenuItem[];
+    general: IMenuItem[];
     quickLinks: IMenuItem[];
     email: string;
     telephone: string;
@@ -12,22 +14,38 @@ export const footerDetails: {
     legalName: string;
 } = {
     subheading: "Focus op de verhuizingen, wij op de rest. Wij regelen je telefoontjes, planning en marketing, zodat jij kunt doen waar je goed in bent.",
-    quickLinks: [
-        { text: "Functies", url: "/#features" },
+    services: [
+        { text: "Chatbot voor Verhuisbedrijven", url: "/chatbot" },
+        { text: "Voice AI voor Verhuisbedrijven", url: "/voice-ai" },
+        { text: "SEO voor Verhuisbedrijven", url: "/seo" },
+        { text: "Social Media voor Verhuisbedrijven", url: "/social-media" },
+        { text: "Reviews voor Verhuisbedrijven", url: "/reviews" },
+        { text: "Review Pakket", url: "/review-pakket" },
+        { text: "CRM voor Verhuisbedrijven", url: "/crm" },
+    ],
+    general: [
         { text: "Tarieven", url: "/tarieven" },
         { text: "Gratis Scan", url: "/gratis-scan" },
+        { text: "Gratis Website", url: "/gratis-website" },
         { text: "Blog", url: "/blog" },
-        { text: "Chatbot voor Verhuizers", url: "/chatbot" },
-        { text: "Voice AI voor Verhuizers", url: "/voice-ai" },
-        { text: "SEO voor Verhuizers", url: "/seo" },
-        { text: "Social Media", url: "/social-media" },
-        { text: "Reviews", url: "/reviews" },
-        { text: "Review Pakket", url: "/review-pakket" }
+    ],
+    quickLinks: [
+        { text: "Chatbot voor Verhuisbedrijven", url: "/chatbot" },
+        { text: "Voice AI voor Verhuisbedrijven", url: "/voice-ai" },
+        { text: "SEO voor Verhuisbedrijven", url: "/seo" },
+        { text: "Social Media voor Verhuisbedrijven", url: "/social-media" },
+        { text: "Reviews voor Verhuisbedrijven", url: "/reviews" },
+        { text: "Review Pakket", url: "/review-pakket" },
+        { text: "CRM voor Verhuisbedrijven", url: "/crm" },
+        { text: "Tarieven", url: "/tarieven" },
+        { text: "Gratis Scan", url: "/gratis-scan" },
+        { text: "Gratis Website", url: "/gratis-website" },
+        { text: "Blog", url: "/blog" },
     ],
     email: 'tim@verhuizerai.nl',
     telephone: '+31612345678',
     socials: {
-        instagram: 'https://www.instagram.com',
+instagram: 'https://www.instagram.com',
         linkedin: 'https://www.linkedin.com',
     },
     kvk: '98933353',

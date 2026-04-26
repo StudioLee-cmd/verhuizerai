@@ -11,6 +11,7 @@ export const menuItems: IMenuItem[] = [
             { text: "Social Media voor Verhuizers", url: "/social-media" },
             { text: "Reviews voor Verhuizers", url: "/reviews" },
             { text: "Review Pakket", url: "/review-pakket" },
+            { text: "CRM voor Verhuisbedrijven", url: "/crm" },
         ]
     },
     {
