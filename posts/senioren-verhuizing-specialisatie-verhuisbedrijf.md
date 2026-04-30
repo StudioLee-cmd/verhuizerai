@@ -1,7 +1,7 @@
 ---
 title: "Senioren-verhuizing als specialisatie: empathische niche met premium-marge"
 slug: senioren-verhuizing-specialisatie-verhuisbedrijf
-date: 2026-04-30
+date: 2026-04-29
 excerpt: "Senioren van eigen woning naar zorginstelling verhuizen vraagt andere skills, ander tempo en andere prijsstrategie. Cijfers, valkuilen, en wanneer deze niche écht rendabel is."
 image: "/images/blog/senioren-verhuizing-specialisatie-verhuisbedrijf.jpg"
 authorSlug: "tim-van-der-lee"
