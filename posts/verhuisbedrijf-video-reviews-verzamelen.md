@@ -1,7 +1,7 @@
 ---
 title: "Video-reviews verzamelen als verhuisbedrijf: het verschil tussen 4 en 5 sterren"
 slug: verhuisbedrijf-video-reviews-verzamelen
-date: 2026-05-01
+date: "2026-05-01"
 excerpt: "Tekst-reviews zijn standaard. Video-reviews bouwen 6× meer vertrouwen op. Hoe verzamel je ze als verhuisbedrijf zonder klanten ongemakkelijk te maken?"
 image: "/images/blog/verhuisbedrijf-video-reviews-verzamelen.jpg"
 authorSlug: "tim-van-der-lee"
