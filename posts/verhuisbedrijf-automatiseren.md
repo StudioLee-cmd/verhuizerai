@@ -2,7 +2,7 @@
 title: "Verhuisbedrijf automatiseren: van aanvraag tot verhuisdag"
 excerpt: "Verhuisbedrijven besteden uren aan offertes en planning. Ontdek hoe automatisering je hele proces stroomlijnt."
 date: "2026-04-06"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-automatiseren.jpg"
 tags: ["Automatisering", "Verhuisbedrijf", "Efficiëntie"]

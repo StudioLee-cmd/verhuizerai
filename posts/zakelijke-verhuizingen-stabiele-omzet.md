@@ -5,7 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/zakelijke-verhuizingen-stabiele-omzet.png"
 tags: ["Verhuisbedrijf", "Zakelijk", "B2B"]
-cluster: "zakelijke-verhuizingen"
+cluster: "automatisering"
 ---
 
 ## Waarom zakelijke verhuizingen aantrekkelijker zijn

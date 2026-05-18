@@ -2,7 +2,7 @@
 title: "Leads opvolgen als verhuisbedrijf: van offerte naar boeking"
 excerpt: "Veel offertes maar weinig boekingen? Leer hoe je als verhuisbedrijf je opvolging verbetert en meer verhuizingen binnenhaalt."
 date: "2026-04-04"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-verhuisbedrijf-boeking.jpg"
 tags: ["Leads", "Opvolging", "Verhuisbedrijf"]

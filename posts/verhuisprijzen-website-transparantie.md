@@ -5,7 +5,7 @@ date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisprijzen-website-transparantie.png"
 tags: ["prijzen communiceren", "verhuisbedrijf", "website"]
-cluster: "prijzen-communiceren"
+cluster: "website"
 ---
 
 "Wat kost een verhuizing?" Het is de eerste vraag die elke potentiele klant stelt. Toch tonen de meeste verhuisbedrijven geen prijzen op hun website. "Elke verhuizing is anders." Klopt — maar klanten willen op z'n minst weten of ze in de juiste prijsklasse zitten.

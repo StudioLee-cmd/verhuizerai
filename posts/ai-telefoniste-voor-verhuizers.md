@@ -5,7 +5,7 @@ date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-verhuizers.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
-cluster: ""
+cluster: "voice-ai"
 ---
 
 Het meest frustrerende moment voor een verhuizer? Je staat net met een zware kast op een smalle trap, of je bestuurt de verhuislift. Je concentratie is maximaal. En dan... gaat je telefoon. Je voelt hem trillen in je broekzak. Je weet dat het een potentiële klant kan zijn met een mooie verhuizing.

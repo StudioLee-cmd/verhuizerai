@@ -5,7 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-verhuisbedrijf.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 ---
 
 Wanneer iemand gaat verhuizen, is een van de eerste dingen die ze doen: "verhuisbedrijf [stad]" googelen. En wat ze dan zien is niet een lijst met websites — het is het Google Maps-blok met drie bedrijven, hun reviews, en een bel-knop. Dat is je Google Bedrijfsprofiel, en het bepaalt in veel gevallen of jij de opdracht krijgt of je concurrent.

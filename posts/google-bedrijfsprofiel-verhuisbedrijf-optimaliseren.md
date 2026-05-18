@@ -2,7 +2,7 @@
 title: "Google Bedrijfsprofiel als verhuisbedrijf: zo optimaliseer je het"
 excerpt: "Je Google Bedrijfsprofiel is het eerste wat klanten zien. Zo optimaliseer je het als verhuisbedrijf voor meer boekingen."
 date: "2026-04-18"
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-verhuisbedrijf-optimaliseren.jpg"
 tags: ["Google", "Vindbaarheid", "Boekingen"]

@@ -2,7 +2,7 @@
 title: "Verhuisafspraken automatisch bevestigen en herinneren"
 excerpt: "Vergeten verhuisdata, verkeerde tijden, niet-voorbereide klanten. Automatische herinneringen lossen dit op voor verhuisbedrijven."
 date: "2026-04-05"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisafspraak-herinnering-automatisch.jpg"
 tags: ["Herinneringen", "Verhuizen", "Planning"]

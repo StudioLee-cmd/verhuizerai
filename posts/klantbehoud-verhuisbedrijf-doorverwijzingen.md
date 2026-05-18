@@ -7,7 +7,7 @@ image: "/images/blog/klantbehoud-verhuisbedrijf-doorverwijzingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantbehoud", "verhuisbedrijf", "doorverwijzingen"]
-cluster: "crm-klantbeheer"
+cluster: "automatisering"
 ---
 
 ## Waarom klantbehoud anders werkt bij verhuizen

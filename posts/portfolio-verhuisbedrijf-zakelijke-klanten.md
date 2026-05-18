@@ -2,7 +2,7 @@
 title: "Portfolio voor verhuisbedrijven: welke foto's werken"
 excerpt: "Portfolio als verhuisbedrijf: welke zes soorten foto's zakelijke en premium klanten overtuigen, en welke je website net zo goed kan schrappen."
 date: "2026-04-21"
-cluster: "portfolio"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-verhuisbedrijf-zakelijke-klanten.jpg"
 tags: ["Verhuisbedrijf", "Portfolio", "Zakelijke klanten", "Conversie"]

@@ -2,7 +2,7 @@
 title: "Meerwerk-prijzen voor verhuisbedrijven: vooraf of achteraf?"
 excerpt: "Meerwerk is voor verhuisbedrijven dé bron van prijsdiscussie. Zo communiceer je extra dozen, trappen, parkeerafstand en uitloop vooraf — en factureer je achteraf zonder ruzie."
 date: "2026-04-25"
-cluster: "prijzen-communiceren"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meerwerk-prijzen-verhuisbedrijf-vooraf-vs-achteraf.jpg"
 tags: ["Verhuisbedrijf", "Prijzen", "Meerwerk", "Klantcommunicatie"]

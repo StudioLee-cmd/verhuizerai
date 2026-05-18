@@ -5,7 +5,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-verhuizers-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
-cluster: ""
+cluster: "automatisering"
 ---
 
 Het runnen van een verhuisbedrijf anno 2026 is topsport. Je bent niet alleen de krachtpatser die hele inboedels verplaatst, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel ondernemers die wij spreken, staan de hele dag te sjouwen, maar als ze eerlijk kijken, zijn ze 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, offertes maken en facturen doen.

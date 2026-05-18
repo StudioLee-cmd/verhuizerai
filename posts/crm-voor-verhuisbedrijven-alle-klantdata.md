@@ -6,7 +6,7 @@ excerpt: "Een CRM voor verhuisbedrijven elimineert Excel-chaos en versnelt offer
 image: "/images/blog/crm-voor-verhuisbedrijven-alle-klantdata.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["CRM", "Klantbeheer", "Software", "Verhuisbedrijf", "Admin"]
-cluster: "crm-klantbeheer"
+cluster: "automatisering"
 ---
 
 **In het kort:**

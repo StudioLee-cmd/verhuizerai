@@ -5,7 +5,7 @@ date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-24-uur-offerte.jpg"
 tags: ["Offertes", "Snelheid", "Verhuisbedrijf"]
-cluster: "offerte-proces"
+cluster: "automatisering"
 ---
 
 Het beslissings-window bij verhuisklanten is kort en onbarmhartig. Een persoon die een huis heeft gekocht of een huur heeft opgezegd doorloopt binnen 2 tot 3 weken de volgende stappen: 3 tot 5 verhuisbedrijven contacteren, offertes ontvangen, vergelijken, kiezen. Het verhuisbedrijf dat binnen 24 uur een realistische bandbreedte-offerte levert, zit in de shortlist. Dat daarna 6 uur wacht om te reageren is uit de race. Voor Nederlandse verhuisbedrijven die deze snelheid niet halen betekent dit dat ze structureel 40 tot 60 procent van hun aanvragen verliezen aan concurrenten die niet per se beter zijn, maar wel sneller.

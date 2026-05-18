@@ -5,7 +5,7 @@ date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-verhuizer-app.png"
 tags: ["Elite Plan", "Client App", "Innovatie"]
-cluster: ""
+cluster: "website"
 ---
 
 Als je vooral voor particulieren werkt is een goede prijs en betrouwbaarheid belangrijk. Maar werk je voor zakelijke klanten? Makelaars, vastgoedbeheerders, woningbouwverenigingen of bedrijven die vaak expats verhuizen? Dan draait alles om **GEMAK**, **INZICHT** en **SNELHEID**.

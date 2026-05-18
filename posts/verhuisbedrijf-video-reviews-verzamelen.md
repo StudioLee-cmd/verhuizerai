@@ -6,7 +6,7 @@ excerpt: "Tekst-reviews zijn standaard. Video-reviews bouwen 6× meer vertrouwen
 image: "/images/blog/verhuisbedrijf-video-reviews-verzamelen.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Video Reviews", "Reputatie", "Conversie", "Vertrouwen", "Verhuisbedrijf"]
-cluster: "review-automatisering"
+cluster: "reviews"
 ---
 
 Een verhuisbedrijf met 200 tekst-reviews en 4,7 sterren mag op papier indrukwekkend lijken — maar bij een directe vergelijking met een concurrent met 80 tekst-reviews én 12 video-reviews wint de tweede. Niet door cijfers, maar door psychologie: een 30-seconden video van een tevreden klant met dozen op de achtergrond bouwt 6 keer meer vertrouwen op dan dezelfde boodschap in tekst. In 2026 is video-reviews verzamelen een van de minst-benutte conversie-hefbomen voor Nederlandse verhuisbedrijven.

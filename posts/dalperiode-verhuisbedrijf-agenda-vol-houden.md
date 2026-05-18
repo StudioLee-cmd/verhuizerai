@@ -2,7 +2,7 @@
 title: "Dalperiode verhuisbedrijf: zo houd je de winter agenda vol"
 excerpt: "De zomer is voorbij en de telefoon wordt stiller. Zo benut je als verhuisbedrijf de winter slim en houd je je agenda vol tot het voorjaar."
 date: "2026-04-16"
-cluster: "seizoenswerk"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dalperiode-verhuisbedrijf-agenda-vol-houden.jpg"
 tags: ["Verhuizen", "Seizoen", "Bedrijfsvoering"]

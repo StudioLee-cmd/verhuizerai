@@ -2,7 +2,7 @@
 title: "Klanttevredenheid meten verhuisbedrijf: NPS en actie"
 excerpt: "Het NPS-systeem voor verhuisbedrijven: hoe je klanttevredenheid structureel meet na elke verhuizing, en wat je met de cijfers doet om doorverwijzingen te verdubbelen."
 date: "2026-04-22"
-cluster: "klanttevredenheid"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-meten-verhuisbedrijf-nps-score.jpg"
 tags: ["Verhuisbedrijf", "Klanttevredenheid", "NPS", "Retentie"]

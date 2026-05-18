@@ -5,7 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-verhuisbedrijf.png"
 tags: ["Reputatie", "Reviews", "Groei"]
-cluster: "online-reputatie"
+cluster: "reviews"
 ---
 
 Een verhuizing is voor de meeste mensen een van de stressvollste gebeurtenissen van het jaar. Ze vertrouwen al hun bezittingen toe aan vreemden. Die drempel is enorm — en daarom is online reputatie voor verhuisbedrijven misschien wel belangrijker dan voor welke andere branche dan ook.

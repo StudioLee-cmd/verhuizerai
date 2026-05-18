@@ -5,7 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-verhuisbedrijf-meer-boekingen.jpg"
 tags: ["Lead opvolging", "Verkoop", "Groei"]
-cluster: "lead-opvolging"
+cluster: "automatisering"
 ---
 
 ## Waarom verhuizers de meeste offerteaanvragen verliezen

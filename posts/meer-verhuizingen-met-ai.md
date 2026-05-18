@@ -5,7 +5,7 @@ date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-verhuizingen-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
-cluster: ""
+cluster: "reviews"
 ---
 
 Als je zelf een verhuizer zoekt, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een bedrijf 3,4 sterren? Dan scroll je door, want je vertrouwt ze niet met je spullen. Heeft hij 4,9 sterren met 200 reviews? Dan vraag je direct een offerte aan. In de verhuisbranche, waar vertrouwen alles is (klanten geven hun hele hebben en houden aan jou mee), is jouw online reputatie je belangrijkste bezit.

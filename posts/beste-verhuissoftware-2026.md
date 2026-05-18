@@ -5,7 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-verhuissoftware-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
-cluster: "software-vergelijking"
+cluster: "automatisering"
 ---
 
 Verhuizen is stressvol — voor de klant én voor het verhuisbedrijf. Tussen de offertes, planning en de verhuizingen zelf heb je weinig tijd voor marketing of administratie. Welke software helpt jou als verhuizer écht vooruit in 2026?

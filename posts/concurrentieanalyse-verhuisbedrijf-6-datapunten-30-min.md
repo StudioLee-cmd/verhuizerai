@@ -6,7 +6,7 @@ excerpt: "Concurrentieanalyse voor verhuisbedrijven hoeft geen weken te duren. M
 image: "/images/blog/concurrentieanalyse-verhuisbedrijf-6-datapunten-30-min.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Concurrentieanalyse", "Verhuisbedrijf", "Marktonderzoek", "Lokale SEO", "Strategie"]
-cluster: "concurrentieanalyse"
+cluster: "branding"
 ---
 
 Een Nederlands verhuisbedrijf dat in 2026 met dezelfde tarieven en dezelfde marketing-strategie werkt als vorig jaar, verliest gemiddeld 8 tot 14 procent marktaandeel per jaar aan concurrenten die wel actief op de markt reageren. Het probleem is niet de wil om concurrenten in de gaten te houden — het is dat de meeste verhuisbedrijven denken dat een goede concurrentieanalyse weken werk en een marketing-bureau vraagt. In de praktijk zit 80 procent van de bruikbare informatie in 6 datapunten die je in 30 minuten zelf kunt verzamelen voor je 5 grootste lokale concurrenten. Dit artikel laat zien welke 6, hoe je ze ophaalt, en wat je ermee doet.

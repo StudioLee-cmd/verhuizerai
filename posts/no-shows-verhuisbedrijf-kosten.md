@@ -2,7 +2,7 @@
 title: "No-shows als verhuisbedrijf: wat het je kost en hoe je het oplost"
 excerpt: "Een klant die op de verhuisdag niet klaar staat of afzegt kost je honderden euro's. Zo voorkom je het."
 date: "2026-04-17"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verhuisbedrijf-kosten.jpg"
 tags: ["No-shows", "Omzet", "Planning"]

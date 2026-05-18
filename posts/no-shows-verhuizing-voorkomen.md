@@ -2,7 +2,7 @@
 title: "No-shows bij verhuizingen voorkomen"
 excerpt: "Een verhuizing die op het laatste moment niet doorgaat kost je een volledige werkdag en team. Leer hoe je als verhuisbedrijf no-shows voorkomt en je planning beschermt."
 date: "2026-04-03"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verhuizing-voorkomen.jpg"
 tags: ["No-shows", "Planning", "Verhuizen"]

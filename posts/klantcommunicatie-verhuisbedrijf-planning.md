@@ -7,7 +7,7 @@ image: "/images/blog/klantcommunicatie-verhuisbedrijf-planning.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantcommunicatie", "verhuisbedrijf", "planning"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 ## Waarom communicatie het verschil maakt bij verhuizen

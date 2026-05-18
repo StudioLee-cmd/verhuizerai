@@ -5,7 +5,7 @@ date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-verhuisbedrijf-eerste-uur.jpg"
 tags: ["Lead-opvolging", "Verhuisbedrijf", "Conversie"]
-cluster: "lead-opvolging"
+cluster: "automatisering"
 ---
 
 ## In het kort

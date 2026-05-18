@@ -6,7 +6,7 @@ excerpt: "WhatsApp Business voor verhuisbedrijven: 5 essentiele flows, broadcast
 image: "/images/blog/whatsapp-business-verhuisbedrijven-opzet-flows.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Klantcommunicatie", "WhatsApp", "Automatisering", "Verhuisbedrijf"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

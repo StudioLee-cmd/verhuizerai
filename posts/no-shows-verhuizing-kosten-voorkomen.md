@@ -2,7 +2,7 @@
 title: "Wat kost een no-show je als verhuisbedrijf?"
 excerpt: "Een no-show op verhuisdag kost je team, bus en planning. Zo bereken je de schade en voorkom je het."
 date: "2026-04-15"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verhuizing-kosten-voorkomen.jpg"
 tags: ["No-shows", "Kosten", "Planning"]
