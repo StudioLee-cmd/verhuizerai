@@ -3,7 +3,7 @@ title: "Piekperiodes als verhuisbedrijf: zo houd je grip op zomer en einde maand
 excerpt: "Zomer en einde maand: als verhuisbedrijf word je platgebeld. Maar hoe houd je grip op planning, personeel en klanttevredenheid?"
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
-image: "/images/blog/piekperiodes-verhuisbedrijf-zomer-zomer.png"
+image: "/images/blog/piekperiodes-verhuisbedrijf-zomer.png"
 tags: ["Verhuisbedrijf", "Piekperiodes", "Planning"]
 cluster: "automatisering"
 ---

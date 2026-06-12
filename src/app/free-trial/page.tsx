@@ -67,6 +67,8 @@ const FreeTrialPage = () => {
                 body: JSON.stringify({
                     email: formData.email,
                     business_name: formData.businessName,
+                    bedrijfsnaam: formData.businessName,
+                    source: 'verhuizerai-free-trial',
                     niche: formData.niche,
                     name: formData.businessName, // Fallback name
                     source: 'website_signup_page',

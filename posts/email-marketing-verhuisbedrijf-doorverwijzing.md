@@ -42,7 +42,7 @@ Na de initiële follow-up verschuif je de focus naar doorverwijzingen.
 
 ## Seizoenstips sturen
 
-Verhuizingen zijn seizoensgebonden — de [piekperiodes](/blog/piekperiodes-verhuisbedrijf-zomer-zomer) zijn in de zomer en rond einde maand. Speel daarop in:
+Verhuizingen zijn seizoensgebonden — de [piekperiodes](/blog/piekperiodes-verhuisbedrijf-zomer) zijn in de zomer en rond einde maand. Speel daarop in:
 
 **Januari**: "Nieuwjaarsvoornemen: dit jaar verhuizen? Begin nu met plannen en voorkom stress in het hoogseizoen."
 
