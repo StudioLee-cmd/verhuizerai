@@ -1,5 +1,6 @@
 ---
 title: "Blog schrijven als verhuisbedrijf: hoe content je vindbaarheid versterkt"
+seoTitle: "Blog schrijven als verhuisbedrijf"
 excerpt: "Een blog op je verhuiswebsite trekt klanten via Google. Zo start je met bloggen als verhuisbedrijf, ook zonder schrijfervaring."
 date: "2026-04-09"
 cluster: "vindbaarheid"

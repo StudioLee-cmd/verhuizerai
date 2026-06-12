@@ -1,5 +1,6 @@
 ---
 title: "Branding als verhuisbedrijf: herkenbaar worden in een drukke markt"
+seoTitle: "Branding als verhuisbedrijf"
 excerpt: "In een markt vol verhuisbedrijven win je op herkenbaarheid. Leer hoe je als verhuizer een sterk merk opbouwt dat klanten kiezen."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"

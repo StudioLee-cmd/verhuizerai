@@ -1,5 +1,6 @@
 ---
 title: "Online reputatie als verhuisbedrijf: reviews die het verschil maken"
+seoTitle: "Online reputatie als verhuisbedrijf"
 excerpt: "Klanten kiezen een verhuisbedrijf op basis van vertrouwen. Ontdek hoe je je online reputatie opbouwt en beschermt voor meer boekingen."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

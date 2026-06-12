@@ -1,6 +1,7 @@
 ---
 title: "Social media voor verhuisbedrijven: meer boekingen via online zichtbaarheid"
-excerpt: "Ontdek hoe verhuisbedrijven social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor verhuisbedrijven in 2026."
+seoTitle: "Social media voor verhuisbedrijven"
+excerpt: "Ontdek hoe verhuisbedrijven social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-verhuisbedrijven-boekingen.png"

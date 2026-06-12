@@ -1,6 +1,7 @@
 ---
 title: "No-shows als verhuisbedrijf: wat het je kost en hoe je het oplost"
-excerpt: "Een klant die op de verhuisdag niet klaar staat of afzegt kost je honderden euro's. Zo voorkom je het."
+seoTitle: "No-shows als verhuisbedrijf"
+excerpt: "Een klant die op de verhuisdag niet klaar staat of afzegt kost je honderden euro's. Zo voorkom je het. Met aanbetalingen en slimme herinneringen."
 date: "2026-04-17"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

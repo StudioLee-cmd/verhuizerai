@@ -1,6 +1,6 @@
 ---
 title: "Aanbetaling bij verhuizing: zo bescherm je je planning"
-excerpt: "Annuleringen en no-shows kosten verhuisbedrijven duizenden euros per jaar. Ontdek hoe je met een aanbetaling je planning beschermt zonder klanten af te schrikken."
+excerpt: "Annuleringen en no-shows kosten verhuisbedrijven duizenden euro's per jaar. Zo bescherm je met een aanbetaling je planning zonder af te schrikken."
 date: "2026-04-11"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

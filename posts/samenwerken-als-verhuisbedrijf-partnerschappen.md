@@ -1,5 +1,6 @@
 ---
 title: "Samenwerken als verhuisbedrijf: partnerschappen die boekingen opleveren"
+seoTitle: "Samenwerken als verhuisbedrijf"
 excerpt: "Strategische samenwerkingen met makelaars, schoonmaakbedrijven en opslagbedrijven helpen verhuizers aan een constante stroom boekingen."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,6 @@
 ---
 title: "Social Media voor Verhuizers die een Hekel hebben aan Social Media (De \"Luie Methode\")"
+seoTitle: "Social media voor verhuizers: de luie methode"
 excerpt: "Geen dansjes op TikTok. Gewoon je spierballen en wagens tonen. Met onze AI bouw je een portfolio van je verhuizingen op Instagram in 5 seconden per week."
 date: "2026-01-15"
 authorSlug: "tim-van-der-lee"

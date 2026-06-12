@@ -1,6 +1,6 @@
 ---
 title: "De perfecte verhuiservaring: van offerte tot nazorg"
-excerpt: "Leer hoe je als verhuisbedrijf een klantbeleving biedt die leidt tot reviews en aanbevelingen."
+excerpt: "Leer hoe je als verhuisbedrijf een klantbeleving biedt die leidt tot reviews en aanbevelingen. Van eerste offerte tot nazorg: elk contactmoment telt."
 date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/perfecte-verhuiservaring-offerte-nazorg.png"

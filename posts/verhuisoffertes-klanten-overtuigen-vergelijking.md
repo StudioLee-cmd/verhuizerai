@@ -1,5 +1,6 @@
 ---
 title: "Verhuisoffertes: zo overtuig je klanten als ze jou vergelijken met de concurrent"
+seoTitle: "Verhuisoffertes: overtuig klanten die vergelijken"
 excerpt: "Klanten vragen gemiddeld drie offertes aan. De verhuizer die het beste communiceert, wint de boeking. Zo onderscheid je je offerte."
 date: "2026-04-10"
 cluster: "automatisering"

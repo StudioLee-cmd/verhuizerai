@@ -1,6 +1,6 @@
 ---
 title: "Hoe verhuisbedrijven meer boekingen binnenhalen via Google"
-excerpt: "Mensen die gaan verhuizen, zoeken online naar een betrouwbaar verhuisbedrijf. Wie bovenaan staat op het juiste moment, krijgt de boeking. Dit is hoe je daar staat."
+excerpt: "Mensen die gaan verhuizen, zoeken online naar een betrouwbaar verhuisbedrijf. Wie bovenaan staat op het juiste moment, krijgt de boeking."
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-verhuisbedrijven-meer-boekingen-binnenhalen-via-google.png"

@@ -1,6 +1,7 @@
 ---
 title: "Beste verhuissoftware 2026: tools voor verhuisbedrijven vergeleken"
-excerpt: "Welke software helpt jouw verhuisbedrijf groeien? Een eerlijke vergelijking van de beste tools voor verhuizers in 2026."
+seoTitle: "Beste verhuissoftware 2026"
+excerpt: "Welke software helpt jouw verhuisbedrijf groeien? Een eerlijke vergelijking van de beste tools voor verhuizers in 2026. Met prijzen."
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-verhuissoftware-2026.png"

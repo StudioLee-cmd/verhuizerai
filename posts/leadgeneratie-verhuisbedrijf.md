@@ -1,6 +1,7 @@
 ---
 title: "Leadgeneratie als verhuisbedrijf: meer boekingen via slimme kanalen"
-excerpt: "Google is niet het enige kanaal voor nieuwe boekingen. Ontdek welke leadbronnen verhuisbedrijven vaak missen."
+seoTitle: "Leadgeneratie als verhuisbedrijf"
+excerpt: "Google is niet het enige kanaal voor nieuwe boekingen. Ontdek welke leadbronnen verhuisbedrijven vaak missen. Met praktische voorbeelden."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-verhuisbedrijf.png"

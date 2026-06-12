@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel als verhuisbedrijf: eerste keuze in jouw regio"
+seoTitle: "Google Bedrijfsprofiel als verhuisbedrijf"
 excerpt: "Meer lokale zichtbaarheid als verhuisbedrijf? Ontdek hoe je met je Google Bedrijfsprofiel de eerste keuze wordt in jouw regio."
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"

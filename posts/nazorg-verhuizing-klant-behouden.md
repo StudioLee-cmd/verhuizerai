@@ -1,6 +1,6 @@
 ---
 title: "Nazorg na de verhuizing: zo houd je klanten als verhuizer"
-excerpt: "De verhuizing is klaar, maar het klantcontact hoeft niet te stoppen. Ontdek hoe nazorg je als verhuizer meer reviews, aanbevelingen en terugkerende klanten oplevert."
+excerpt: "De verhuizing is klaar, maar het klantcontact hoeft niet te stoppen. Zo levert nazorg je als verhuizer reviews, aanbevelingen en vaste klanten op."
 date: "2026-04-14"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

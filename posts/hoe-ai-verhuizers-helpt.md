@@ -1,5 +1,6 @@
 ---
 title: "Hoe AI Verhuizers Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)"
+seoTitle: "Hoe AI Verhuizers Helpt Bij Het Besparen Van Tijd"
 excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van verhuisbedrijven kan automatiseren. Van planning tot offertes: dit is je nieuwe digitale planner."
 date: "2025-12-15"
 authorSlug: "tim-van-der-lee"

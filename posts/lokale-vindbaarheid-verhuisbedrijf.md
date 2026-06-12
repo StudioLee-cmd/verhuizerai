@@ -1,6 +1,7 @@
 ---
 title: "Lokale vindbaarheid als verhuisbedrijf: meer boekingen via Google"
-excerpt: "Klanten zoeken online naar een verhuisbedrijf in de buurt. Zo zorg je dat jouw bedrijf bovenaan verschijnt."
+seoTitle: "Lokale vindbaarheid als verhuisbedrijf"
+excerpt: "Klanten zoeken online naar een verhuisbedrijf in de buurt. Zo zorg je dat jouw bedrijf bovenaan verschijnt. Met lokale SEO-tips."
 date: "2026-04-17"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"

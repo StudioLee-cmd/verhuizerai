@@ -1,6 +1,6 @@
 ---
 title: "Nazorg bij je verhuisbedrijf: zo maak je van klanten fans"
-excerpt: "Leer hoe je als verhuisbedrijf via nazorg meer reviews en doorverwijzingen genereert."
+excerpt: "Leer hoe je als verhuisbedrijf via nazorg meer reviews en doorverwijzingen genereert. Van bedankje tot follow-up: vijf momenten die het verschil maken."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-verhuisbedrijf-tevreden-klanten.jpg"

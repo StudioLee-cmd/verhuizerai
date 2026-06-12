@@ -1,8 +1,9 @@
 ---
 title: "Klantbehoud als verhuisbedrijf: van tevreden klant naar ambassadeur"
+seoTitle: "Klantbehoud als verhuisbedrijf"
 slug: "klantbehoud-verhuisbedrijf-doorverwijzingen"
 date: "2026-03-22"
-excerpt: "Een verhuizing is eenmalig, maar de waarde van een tevreden klant niet. Ontdek hoe je als verhuisbedrijf doorverwijzingen stimuleert en je klantennetwerk laat groeien."
+excerpt: "Een verhuizing is eenmalig, de waarde van een tevreden klant niet. Zo stimuleer je als verhuisbedrijf doorverwijzingen en groeit je netwerk."
 image: "/images/blog/klantbehoud-verhuisbedrijf-doorverwijzingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"

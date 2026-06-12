@@ -1,6 +1,6 @@
 ---
 title: "Verhuisbedrijf: binnen 24 uur offerte sturen als standaard"
-excerpt: "Klanten vragen 3 tot 5 verhuisoffertes aan en kiezen de snelste eerste bruikbare offerte. Hier is hoe je als verhuisbedrijf consistent binnen 24 uur een realistische offerte stuurt."
+excerpt: "Klanten vragen 3 tot 5 verhuisoffertes aan en kiezen de snelste bruikbare. Zo stuur je als verhuisbedrijf consistent binnen 24 uur een offerte."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-24-uur-offerte.jpg"

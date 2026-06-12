@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel als verhuisbedrijf: zo optimaliseer je het"
+seoTitle: "Google Bedrijfsprofiel als verhuisbedrijf"
 excerpt: "Je Google Bedrijfsprofiel is het eerste wat klanten zien. Zo optimaliseer je het als verhuisbedrijf voor meer boekingen."
 date: "2026-04-18"
 cluster: "vindbaarheid"

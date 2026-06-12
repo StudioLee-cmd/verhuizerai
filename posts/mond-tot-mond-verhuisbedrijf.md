@@ -1,6 +1,7 @@
 ---
 title: "Mond-tot-mondreclame als verhuisbedrijf: klanten als ambassadeurs"
-excerpt: "Ontdek hoe je als verhuisbedrijf tevreden klanten omzet in actieve doorverwijzers die nieuwe boekingen opleveren."
+seoTitle: "Mond-tot-mondreclame als verhuisbedrijf"
+excerpt: "Ontdek hoe je als verhuisbedrijf tevreden klanten omzet in actieve doorverwijzers die nieuwe boekingen opleveren. Met concrete acties."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mond-verhuisbedrijf.png"

@@ -1,6 +1,7 @@
 ---
 title: "De Elite Verhuizer App: Geef je klanten hun eigen \"Verhuis App\" (En bind B2B klanten)"
-excerpt: "Onderscheid jezelf van de dozenschuivers. Met de Client App in het Elite plan kunnen jouw vaste klanten (Makelaars, Woningbouw) zelf verhuizingen melden en status inzien."
+seoTitle: "De Elite Verhuizer App"
+excerpt: "Onderscheid jezelf van dozenschuivers. Met de Client App in het Elite plan melden vaste klanten zoals makelaars zelf verhuizingen en zien ze de status."
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-verhuizer-app.png"

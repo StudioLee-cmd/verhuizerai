@@ -1,6 +1,7 @@
 ---
 title: "Specialiseren als verhuisbedrijf: niche-focus die meer boekingen oplevert"
-excerpt: "Niet elk verhuisbedrijf hoeft alles te doen. Ontdek hoe specialisatie je onderscheidt en betere klanten trekt."
+seoTitle: "Specialiseren als verhuisbedrijf"
+excerpt: "Niet elk verhuisbedrijf hoeft alles te doen. Ontdek hoe specialisatie je onderscheidt en betere klanten trekt. Met vijf kansrijke niches."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-verhuisbedrijf.png"

@@ -1,5 +1,6 @@
 ---
 title: "Email marketing voor verhuisbedrijven: follow-up die leidt tot doorverwijzingen"
+seoTitle: "Email marketing voor verhuisbedrijven"
 slug: "email-marketing-verhuisbedrijf-doorverwijzing"
 date: "2026-03-21"
 excerpt: "Een verhuizing is eenmalig, maar de mensen eromheen verhuizen ook. Slim email marketing levert je doorverwijzingen op die niets kosten."

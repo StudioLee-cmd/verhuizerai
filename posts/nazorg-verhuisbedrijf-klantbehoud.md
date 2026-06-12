@@ -1,5 +1,6 @@
 ---
 title: "Nazorg als verhuisbedrijf: van eenmalige klant naar ambassadeur"
+seoTitle: "Nazorg als verhuisbedrijf"
 excerpt: "Een verhuizing is eenmalig, maar een tevreden klant verwijst jaren door. Ontdek hoe nazorg je verhuisbedrijf laat groeien."
 date: "2026-04-05"
 cluster: "automatisering"

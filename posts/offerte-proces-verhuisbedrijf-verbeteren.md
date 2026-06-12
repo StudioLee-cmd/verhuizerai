@@ -1,5 +1,6 @@
 ---
 title: "Het offerteproces van je verhuisbedrijf verbeteren: sneller en meer conversie"
+seoTitle: "Het offerteproces van je verhuisbedrijf verbeteren"
 excerpt: "De eerste verhuizer die reageert, krijgt de klus. Zo digitaliseer je je offerteproces voor snellere opvolging en meer boekingen."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"

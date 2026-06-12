@@ -1,5 +1,6 @@
 ---
 title: "Online vindbaarheid voor verhuisbedrijven: zo word je gevonden"
+seoTitle: "Online vindbaarheid voor verhuisbedrijven"
 excerpt: "De meeste mensen zoeken een verhuisbedrijf via Google. Ontdek hoe je met lokale SEO bovenaan verschijnt zonder te adverteren."
 date: "2026-04-06"
 cluster: "vindbaarheid"

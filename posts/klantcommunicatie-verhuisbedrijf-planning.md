@@ -1,5 +1,6 @@
 ---
 title: "Klantcommunicatie als verhuisbedrijf: van eerste contact tot verhuisdag"
+seoTitle: "Klantcommunicatie als verhuisbedrijf"
 slug: "klantcommunicatie-verhuisbedrijf-planning"
 date: "2026-03-23"
 excerpt: "Een verhuizing is stressvol. Goede communicatie neemt onzekerheid weg en maakt het verschil tussen een tevreden klant en een klacht."

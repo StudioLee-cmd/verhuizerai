@@ -1,5 +1,6 @@
 ---
 title: "Klant annuleert verhuizing: 5 stappen om de schade te beperken"
+seoTitle: "Klant annuleert verhuizing"
 excerpt: "Een klant annuleert vlak voor de verhuisdag. Wat doe je? Vijf concrete stappen om de schade te beperken en je dag te redden."
 date: "2026-04-12"
 cluster: "automatisering"

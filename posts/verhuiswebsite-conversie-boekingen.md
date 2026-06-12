@@ -1,6 +1,6 @@
 ---
 title: "Je verhuiswebsite laten converteren: meer boekingen online"
-excerpt: "Leer hoe je als verhuisbedrijf je website omzet in een boekingsmachine die 24/7 offerteaanvragen binnenhaalt."
+excerpt: "Leer hoe je als verhuisbedrijf je website omzet in een boekingsmachine die 24/7 offerteaanvragen binnenhaalt. Met vijf verbeterpunten."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuiswebsite-conversie-boekingen.png"

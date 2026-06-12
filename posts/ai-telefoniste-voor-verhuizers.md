@@ -1,6 +1,7 @@
 ---
 title: "Het Einde van de \"Telefoon tijdens het Sjouwen\": 24/7 Bereikbaar Zonder Personeel"
-excerpt: "Mis nooit meer een verhuizing omdat je met een bankstel op de trap staat. Onze Voice AI neemt op, plant afspraken en beantwoordt vragen. Veilig en winstgevend."
+seoTitle: "Het Einde van de \"Telefoon tijdens het Sjouwen\""
+excerpt: "Mis nooit meer een verhuizing omdat je met een bankstel op de trap staat. Onze Voice AI neemt op, plant afspraken en beantwoordt vragen."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-verhuizers.png"

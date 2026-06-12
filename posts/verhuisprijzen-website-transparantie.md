@@ -1,5 +1,6 @@
 ---
 title: "Verhuisprijzen op je website: waarom transparantie meer boekingen oplevert"
+seoTitle: "Verhuisprijzen op je website"
 excerpt: "Klanten vergelijken verhuisbedrijven op prijs. Leer hoe je als verhuizer prijstransparantie inzet om meer boekingen te krijgen."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"

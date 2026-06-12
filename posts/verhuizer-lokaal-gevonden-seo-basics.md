@@ -1,5 +1,6 @@
 ---
 title: "Verhuizer lokaal gevonden worden: 5 SEO-basics met direct effect"
+seoTitle: "Verhuizer lokaal gevonden worden"
 excerpt: "Verhuizers concurreren in een winner-takes-most-markt. Deze 5 SEO-basics brengen je van pagina 2 naar de top-3 voor 'verhuizer [stad]'."
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"

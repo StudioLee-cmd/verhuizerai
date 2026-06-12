@@ -1,5 +1,6 @@
 ---
 title: "Zakelijke verhuizingen: een stabielere omzetbron dan particulier"
+seoTitle: "Zakelijke verhuizingen"
 excerpt: "Particuliere verhuizingen zijn seizoensgebonden en prijsgevoelig. Zakelijke verhuizingen bieden stabiliteit, hogere marges en terugkerende klanten."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
