@@ -22,7 +22,7 @@ const FreeTrialPage = () => {
     const [formData, setFormData] = useState({
         email: '',
         businessName: '',
-        niche: 'Verhuisbedrijven',
+        niche: 'verhuizer',
         termsAccepted: false,
     });
     const [isLoading, setIsLoading] = useState(false);
