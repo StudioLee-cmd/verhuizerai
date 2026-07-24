@@ -92,4 +92,4 @@ Lees ook ons artikel over [het offerteproces verbeteren](/blog/offerte-proces-ve
 
 Je Google Bedrijfsprofiel is de eerste indruk die de meeste klanten van je verhuisbedrijf krijgen. Een compleet, actief en goed beoordeeld profiel is het verschil tussen een volle en een lege planning. Investeer in reviews, upload regelmatig foto's, beantwoord vragen, en houd je profiel actief met posts.
 
-Wil je hulp bij het versterken van je online zichtbaarheid als verhuisbedrijf? Bekijk wat [VerhuizerAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het versterken van je online zichtbaarheid als verhuisbedrijf? Bekijk wat [VerhuizerAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).
