@@ -8,10 +8,9 @@ image: "/images/blog/meer-verhuizingen-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
 cluster: "reviews"
 ---
-
 Als je zelf een verhuizer zoekt, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een bedrijf 3,4 sterren? Dan scroll je door, want je vertrouwt ze niet met je spullen. Heeft hij 4,9 sterren met 200 reviews? Dan vraag je direct een offerte aan. In de verhuisbranche, waar vertrouwen alles is (klanten geven hun hele hebben en houden aan jou mee), is jouw online reputatie je belangrijkste bezit.
 
-Voor jouw bedrijf zijn Google Reviews de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant eigenlijk niet. Zeker bij complete inboedels of kostbare stukken willen klanten zekerheid. Maar hoe kom je aan die reviews zonder te smeken?
+Voor jouw bedrijf zijn [Google Reviews](/reviews) de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant eigenlijk niet. Zeker bij complete inboedels of kostbare stukken willen klanten zekerheid. Maar hoe kom je aan die reviews zonder te smeken?
 
 ## Het Probleem: De "Vergeet-Factor"
 
