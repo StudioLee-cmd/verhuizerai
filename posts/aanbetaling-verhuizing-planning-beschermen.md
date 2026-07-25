@@ -63,6 +63,8 @@ Als een klant echt niet wil betalen: dat is een signaal. Klanten die geen aanbet
 
 Bij twijfelgevallen kun je een kleinere aanbetaling aanbieden (10% in plaats van 25%) of de aanbetaling pas een week na de offerte vragen in plaats van direct. Flexibiliteit toont goodwill zonder je beleid te ondermijnen.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klant-annuleert-verhuizing-stappen" class="text-dark fw-semibold">Klant annuleert verhuizing: 5 stappen om de schade te beperken</a> →</p></div></div></div>
+
 ## Professionele planning begint bij duidelijke afspraken
 
 Een aanbetaling is geen bureaucratische hobbel. Het is een teken van professionaliteit. Het laat klanten zien dat je je tijd serieus neemt en dat je een betrouwbaar bedrijf runt. De meeste klanten respecteren dat.
