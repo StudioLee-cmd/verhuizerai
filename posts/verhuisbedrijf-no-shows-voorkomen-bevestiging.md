@@ -133,6 +133,8 @@ Reken even mee:
 
 Totaal: ruim 1.200 euro per maand extra winst. Dat is 14.400 euro per jaar, voor minder dan 100 euro per maand setup.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-verhuisbedrijf-kosten" class="text-dark fw-semibold">No-shows als verhuisbedrijf: wat het je kost en hoe je het oplost</a> →</p></div></div></div>
+
 ## Begin deze week
 
 1. Schrijf je vijf berichtsjablonen (bevestiging, 14 dagen, 7 dagen, 48 uur, 24 uur)
