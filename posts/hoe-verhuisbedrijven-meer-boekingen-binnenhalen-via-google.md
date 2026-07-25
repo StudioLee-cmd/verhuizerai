@@ -7,7 +7,6 @@ image: "/images/blog/hoe-verhuisbedrijven-meer-boekingen-binnenhalen-via-google.
 tags: ["Vindbaarheid", "Google", "Boekingen", "Verhuizen"]
 cluster: "vindbaarheid"
 ---
-
 ## Verhuizen begint online — en jij moet daar zijn
 
 Iemand heeft net een huis gekocht of een huurwoning gevonden. De verhuisdatum staat vast. Ze zoeken een verhuisbedrijf. Ze typen "verhuisbedrijf [stad]" in Google, vergelijken drie resultaten met reviews en een prijs, en boeken dezelfde dag.
@@ -33,7 +32,7 @@ Een volledig profiel scoort aantoonbaar hoger in Maps dan een leeg profiel.
 
 ## Stap 2: Reviews zijn je beste verkoper
 
-Mensen vertrouwen een verhuisbedrijf met 60 reviews en 4,8 sterren veel meer dan een bedrijf met 10 reviews. Ze geven hun inboedel aan je mee — dat is een groot vertrouwen.
+Mensen [vertrouwen](/reviews) een verhuisbedrijf met 60 reviews en 4,8 sterren veel meer dan een bedrijf met 10 reviews. Ze geven hun inboedel aan je mee — dat is een groot vertrouwen.
 
 Na elke verhuizing automatisch een WhatsApp sturen:
 
