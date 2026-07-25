@@ -102,6 +102,8 @@ Tussenliggende startset: koppel je factuursoftware aan een simpele automation di
 
 Complete startset: wij zetten in onze managed service de volledige NPS-flow op: trigger, inbox, dashboard, maandelijkse rapportage. Je hoeft alleen nog de Detractors te bellen. Bekijk de [tarieven](/tarieven) om te zien wat dit kost.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/digitale-werkbon-verhuisbedrijf-bus-naar-crm" class="text-dark fw-semibold">Digitale werkbon verhuisbedrijf: van de bus naar je CRM</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als je NPS-score na zes maanden niet meetbaar is gestegen, krijg je je investering terug. Vraag een [gratis scan](/gratis-scan) aan om te laten analyseren hoe jouw klantreis scoort, of bekijk hoe een goede [website](/gratis-website) met NPS-feedback gekoppeld aan je boekingsflow je conversie én tevredenheid tegelijk kan verbeteren. Jij verhuist, wij regelen de rest.
