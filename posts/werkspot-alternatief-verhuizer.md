@@ -7,7 +7,6 @@ image: "/images/blog/werkspot-alternatief-verhuizer.jpg"
 tags: ["Vergelijking", "Werkspot", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Het Werkspot-model: wat het je echt kost
 
 Werkspot rekent €15 tot €30 per reactie op een aanvraag. Niet per gewonnen klus — per reactie. Of je de klus krijgt of niet, je betaalt. Bij 20 reacties per maand zit je al snel op €300 tot €600 aan leadkosten, terwijl je slechts een fractie van die leads daadwerkelijk omzet in werk.
@@ -68,6 +67,8 @@ Wat dat betekent in de praktijk:
 Jouw bijdrage: **15 minuten per maand**. Dat is alles. De rest doen wij. Dat is geen software kopen — dat is een traditioneel marketingbureau vervangen voor een fractie van de prijs.
 
 Met managed service zorgen wij dat je betrouwbaarheid en zorgvuldigheid centraal staan. Reviews van tevreden klanten, professionele content en een sterk Google-profiel overtuigen klanten beter dan de laagste prijs op Werkspot.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-verhuizers-helpt" class="text-dark fw-semibold">Hoe AI Verhuizers Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)</a> →</p></div></div></div>
 
 ## Wat je opbouwt blijft van jou
 
