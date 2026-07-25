@@ -8,8 +8,7 @@ image: "/images/blog/social-media-voor-verhuizers.png"
 tags: ["Social Media", "Branding", "Automatisering"]
 cluster: "social-media"
 ---
-
-Ik hoor het je denken: "Social Media? Daar heb ik toch geen tijd voor? Ik ben verhuizer, geen influencer! Ik ga echt geen dansjes doen op TikTok of elke dag mijn lunch posten." En je hebt groot gelijk. Dat moet je ook helemaal niet willen. Jij bent een vakman, geen clown.
+Ik hoor het je denken: "[Social Media](/social-media)? Daar heb ik toch geen tijd voor? Ik ben verhuizer, geen influencer! Ik ga echt geen dansjes doen op TikTok of elke dag mijn lunch posten." En je hebt groot gelijk. Dat moet je ook helemaal niet willen. Jij bent een vakman, geen clown.
 
 Maar er is een realiteit waar we niet omheen kunnen: Social Media is jouw moderne visitekaartje en portfolio. Vroeger keek men in de Gouden Gids of vroeg men de buurman. Nu checken ze je Instagram of Facebook pagina. Mensen willen zien **wie hun spullen gaat verhuizen**. Zien ze een professioneel team, nette wagens en blije klanten? Dan huren ze je in. Een feed vol met "voor en na" foto's en volle verhuiswagens straalt **Betrouwbaarheid** en **Succes** uit.
 
