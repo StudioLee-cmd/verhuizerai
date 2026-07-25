@@ -7,7 +7,6 @@ image: "/images/blog/google-bedrijfsprofiel-diensten-verhuisbedrijf.jpg"
 tags: ["Google", "Vindbaarheid", "Marketing", "Verhuisbedrijf"]
 cluster: "vindbaarheid"
 ---
-
 ## In het kort
 
 - **De Diensten-sectie van je Google Bedrijfsprofiel staat bij de meeste verhuisbedrijven leeg.** Juist daar word je gevonden per type klus, niet alleen op het algemene "verhuisbedrijf".
@@ -28,7 +27,7 @@ De achterliggende reden is simpel. Google gebruikt je dienst-omschrijvingen als 
 
 ## Het verschil tussen je categorie en je diensten
 
-Voordat je begint, moet één veelgemaakte verwarring weg. Een categorie en een dienst zijn niet hetzelfde in je Google Bedrijfsprofiel.
+Voordat je begint, moet één veelgemaakte verwarring weg. Een categorie en een dienst zijn niet hetzelfde in je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-verhuisbedrijf-optimaliseren).
 
 Een **categorie** beschrijft wát voor bedrijf je bent. Je hebt één hoofdcategorie (bijvoorbeeld "Verhuisbedrijf") en je mag tot negen extra categorieën toevoegen, zoals "Opslagfaciliteit" of "Koeriersdienst". De hoofdcategorie weegt het zwaarst voor je lokale ranking, dus kies hem bewust.
 
