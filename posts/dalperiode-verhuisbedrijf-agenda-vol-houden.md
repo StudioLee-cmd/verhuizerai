@@ -92,6 +92,8 @@ Lagere volumes maken elke gemiste lead nog pijnlijker. In de winter mag je geen 
 - WhatsApp Business met automatische welkomst en afwezigheidsberichten plus templates voor offerte-bevestigingen.
 - Reviewverzoek 48 uur na elke afgeronde verhuizing, automatisch via WhatsApp. In de winter kun je gemiddeld 2 tot 3 reviews per week verzamelen, wat je positie versterkt voor de piekmaanden.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-meten-verhuisbedrijf-nps-score" class="text-dark fw-semibold">Klanttevredenheid meten verhuisbedrijf: NPS en actie</a> →</p></div></div></div>
+
 ## De winter gebruiken om je bedrijf te verbouwen
 
 Naast omzetgenererende activiteiten is de winter de enige periode waarin je echt aan je bedrijf kunt werken in plaats van in je bedrijf. Vier dingen die niemand in juni doet maar nu prima passen:
