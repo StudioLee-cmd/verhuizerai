@@ -7,7 +7,6 @@ image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-verhuisbedrijf.png"
 tags: ["Tools", "ChatGPT", "Verhuizers"]
 cluster: "automatisering"
 ---
-
 ChatGPT is de populairste AI-tool ter wereld. Miljoenen mensen gebruiken het voor teksten, antwoorden en zelfs afbeeldingen. Maar kan het je verhuisbedrijf Ã©cht laten groeien? In dit artikel leggen we uit wat ChatGPT is, hoe je het slim inzet als verhuizer, en waarom een gespecialiseerd managed platform als VerhuizerAI structureel meer oplevert.
 
 ## Wat is ChatGPT?
@@ -79,6 +78,6 @@ Met onze managed service hoef je zelf niets te doen. We houden alles draaiend â€
 
 ## Conclusie
 
-ChatGPT is een handig hulpmiddel dat elke verhuizer gratis kan uitproberen. Maar het vervangt geen automatisering. Voor een compleet systeem dat je boekingen opvangt, no-shows vermindert, reviews verzamelt en je vindbaarheid verbetert, heb je een gespecialiseerd platform nodig.
+ChatGPT is een handig hulpmiddel dat elke verhuizer gratis kan uitproberen. Maar het vervangt geen [automatisering](/automatisering). Voor een compleet systeem dat je boekingen opvangt, no-shows vermindert, reviews verzamelt en je vindbaarheid verbetert, heb je een gespecialiseerd platform nodig.
 
 Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.
