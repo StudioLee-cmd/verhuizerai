@@ -7,10 +7,9 @@ image: "/images/blog/reviews-automatiseren-verhuisbedrijf.jpg"
 tags: ["Reviews", "Marketing", "Groei"]
 cluster: "reviews"
 ---
-
 ## Waarom reviews cruciaal zijn voor verhuisbedrijven
 
-Een verhuizing is een stressvolle ervaring. Klanten vertrouwen hun hele inboedel toe aan mensen die ze niet kennen. Wat lezen ze voordat ze een verhuisbedrijf kiezen? Reviews.
+Een verhuizing is een stressvolle ervaring. Klanten [vertrouwen](/reviews) hun hele inboedel toe aan mensen die ze niet kennen. Wat lezen ze voordat ze een verhuisbedrijf kiezen? Reviews.
 
 93 procent van de consumenten leest reviews voordat ze contact opnemen. Een verhuisbedrijf met 50 positieve reviews wint altijd van een concurrent met 3. Het is simpel: meer reviews = meer vertrouwen = meer boekingen.
 
@@ -48,7 +47,7 @@ Stel een duidelijke workflow in: verhuizing voltooid → WhatsApp dag 0 → heri
 
 ## Google Reviews vs andere platforms
 
-Focus op Google Reviews — die verschijnen direct in zoekresultaten en op Google Maps. Andere platforms (Trustpilot, Facebook) zijn een bonus, maar Google is waar je klanten je vinden.
+Focus op [Google Reviews](/blog/meer-verhuizingen-met-ai) — die verschijnen direct in zoekresultaten en op Google Maps. Andere platforms (Trustpilot, Facebook) zijn een bonus, maar Google is waar je klanten je vinden.
 
 Google Reviews hebben direct impact op je zichtbaarheid. Een verhuisbedrijf met 60 reviews en een 4,7-score verschijnt hoger in de zoekresultaten dan een concurrent met 10 reviews en een 5,0-score. Volume telt zwaarder dan perfectie.
 
