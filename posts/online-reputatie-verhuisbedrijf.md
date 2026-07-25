@@ -8,8 +8,7 @@ image: "/images/blog/online-reputatie-verhuisbedrijf.png"
 tags: ["Reputatie", "Reviews", "Groei"]
 cluster: "reviews"
 ---
-
-Een verhuizing is voor de meeste mensen een van de stressvollste gebeurtenissen van het jaar. Ze vertrouwen al hun bezittingen toe aan vreemden. Die drempel is enorm — en daarom is online reputatie voor verhuisbedrijven misschien wel belangrijker dan voor welke andere branche dan ook.
+Een verhuizing is voor de meeste mensen een van de stressvollste gebeurtenissen van het jaar. Ze [vertrouwen](/reviews) al hun bezittingen toe aan vreemden. Die drempel is enorm — en daarom is online reputatie voor verhuisbedrijven misschien wel belangrijker dan voor welke andere branche dan ook.
 
 Eén slechte review over beschadigde meubels kan tientallen potentiële klanten afschrikken. Maar een sterke reputatie met tientallen positieve reviews? Die verkoopt je dienst zonder dat je er ook maar iets voor hoeft te doen.
 
