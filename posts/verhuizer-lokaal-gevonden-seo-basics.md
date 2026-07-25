@@ -8,7 +8,6 @@ image: "/images/blog/verhuizer-lokaal-gevonden-seo-basics.jpg"
 tags: ["SEO", "Local", "Verhuizer"]
 cluster: "vindbaarheid"
 ---
-
 "Verhuizer Utrecht". "Verhuisbedrijf Amsterdam-West". Deze zoekopdrachten gaan bijna allemaal naar de top-3 in Google Maps. Sta je op pagina 2 of lager? Dan krijg je minder dan 2 procent van de klikken en dus bijna geen leads uit Google. Voor verhuizers die vooral particuliere klussen draaien, is dat de snelste weg naar een lege agenda.
 
 De goede kans: lokale SEO voor verhuizers is relatief simpel. De meeste concurrenten besteden er nauwelijks aandacht aan. Met 5 basis-dingen goed invullen klim je in 2 tot 3 maanden de lokale top-3 binnen. Dit artikel geeft de exacte volgorde.
@@ -114,6 +113,8 @@ Verwachte resultaten:
 - Week 4-6: eerste klim in Google Maps-ranking merkbaar.
 - Week 8-12: top-3 voor hoofdstad haalbaar.
 - Maand 4-6: dominante positie, ook voor wijken en combinaties ("verhuizer Amsterdam West").
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/blog-schrijven-verhuisbedrijf-seo-content" class="text-dark fw-semibold">Blog schrijven als verhuisbedrijf: hoe content je vindbaarheid versterkt</a> →</p></div></div></div>
 
 ## Wat dit je oplevert
 
