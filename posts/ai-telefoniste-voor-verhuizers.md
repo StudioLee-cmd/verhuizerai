@@ -8,7 +8,6 @@ image: "/images/blog/ai-telefoniste-voor-verhuizers.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
 cluster: "voice-ai"
 ---
-
 Het meest frustrerende moment voor een verhuizer? Je staat net met een zware kast op een smalle trap, of je bestuurt de verhuislift. Je concentratie is maximaal. En dan... gaat je telefoon. Je voelt hem trillen in je broekzak. Je weet dat het een potentiële klant kan zijn met een mooie verhuizing.
 
 Maar je kunt niet opnemen. Je hebt je handen vol, letterlijk. En als je nu stopt, is het onveilig. Dus je laat hem gaan. Je denkt: "Ik bel straks wel terug."
@@ -23,13 +22,15 @@ Je telefoon blijft gewoon in de cabine. Jij blijft gefocust op de klus. Dat werk
 
 ## Voice AI: Je nieuwe planner die nooit pauze heeft
 
-Onze Voice AI is geen krakend bandje met een irritant keuzemenu ("Toets 1 voor planning..."). Klanten haten dat en hangen op. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze klinkt vriendelijk, professioneel, empathisch en ze weet alles van je bedrijf.
+Onze [Voice AI](/voice-ai) is geen krakend bandje met een irritant keuzemenu ("Toets 1 voor planning..."). Klanten haten dat en hangen op. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze klinkt vriendelijk, professioneel, empathisch en ze weet alles van je bedrijf.
 
 ### Wat Sarah voor je doet:
 - **24/7 Opnemen:** Ook als jij vrij bent, slaapt, onder de douche staat of op vakantie bent. Je bedrijf is altijd 'open'. Een klant die op zondagavond belt omdat ze onverwachts hulp nodig hebben? Sarah staat ze te woord.
 - **Slimme Agenda & Offertes:** Sarah kan direct vragen naar de details. "Hoeveel kamers?", "Wat is het oude en nieuwe adres?", "Is er een lift aanwezig?". Ze kan op basis daarvan een indicatie geven of een taxatiebezoek inplannen in jouw agenda.
 - **Vragen beantwoorden:** "Verhuren jullie ook verhuisdozen?", "Hebben jullie een verhuislift?", "Zijn mijn spullen verzekerd?". Sarah is getraind op jouw specifieke bedrijfsinformatie en geeft netjes antwoord.
 - **Intelligent Filteren:** Je kunt instellen wie er doorverbonden moet worden. Belt je partner of een belangrijke zakelijke klant? Dan kan de AI ze doorsturen. Belt een onbekende nummer of een verkoper? De AI handelt het af.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/spoedtarief-automatiseren-verhuisbedrijf" class="text-dark fw-semibold">Spoedtarief automatiseren als verhuisbedrijf: AI legt uit</a> →</p></div></div></div>
 
 ## Het bespaart je niet alleen stress, het levert geld op
 
