@@ -7,7 +7,6 @@ image: "/images/blog/nazorg-verhuisbedrijf-tevreden-klanten.jpg"
 tags: ["Nazorg", "Klantrelatie", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom nazorg loont voor verhuisbedrijven
 
 Een verhuizing is voor de meeste mensen een eenmalige gebeurtenis — ze verhuizen niet elk jaar. Dat maakt nazorg extra waardevol. Want hoewel de klant misschien niet snel weer verhuist, kent hij of zij genoeg mensen die dat wél gaan doen.
@@ -32,7 +31,7 @@ Dit kost je 5 minuten per klant. Maar het verschil is enorm: klanten voelen zich
 
 Reviews zijn cruciaal voor verhuisbedrijven. Potentiële klanten vertrouwen op ervaringen van anderen — zeker bij een dienst waar ze hun hele inboedel aan je toevertrouwen.
 
-Effectief reviews verzamelen:
+Effectief [reviews verzamelen](/reviews):
 - **Vraag op het juiste moment**: 2-3 dagen na de verhuizing, als de tevredenheid nog vers is
 - **Maak het makkelijk**: stuur een directe link naar je Google Reviews
 - **Wees specifiek**: "Zou je willen delen hoe je de verhuizing hebt ervaren?"
@@ -60,6 +59,8 @@ Nazorg is ook een commerciële kans. Na een verhuizing hebben mensen vaak behoef
 - **Kleine verhuizing later**: een extra kast of bank die later nog verhuisd moet worden
 
 Door deze diensten aan te bieden, help je de klant en creëer je extra omzet. Win-win.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/nazorg-verhuisbedrijf-klantbehoud" class="text-dark fw-semibold">Nazorg als verhuisbedrijf: van eenmalige klant naar ambassadeur</a> →</p></div></div></div>
 
 ## Een nazorg-systeem opzetten
 
