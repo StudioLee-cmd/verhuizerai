@@ -7,7 +7,6 @@ image: "/images/blog/lead-opvolging-verhuisbedrijf-meer-boekingen.jpg"
 tags: ["Lead opvolging", "Verkoop", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom verhuizers de meeste offerteaanvragen verliezen
 
 Een verhuizing is stressvol. Mensen willen snel duidelijkheid: wat kost het, wanneer kan het, en is het bedrijf betrouwbaar? Ze sturen offerteaanvragen naar drie tot vijf verhuisbedrijven — en kiezen het bedrijf dat als eerste een helder antwoord geeft.
@@ -28,7 +27,7 @@ Het hoeft geen volledige offerte te zijn. Een korte reactie met "Ik heb je aanvr
 
 ![Verhuiswagen op straat](/images/blog/lead-opvolging-verhuisbedrijf-meer-boekingen-2.jpg)
 
-Als verhuizer ben je overdag bezig met verhuizingen. Bellen of mailen kan niet. Automatische opvolging is de oplossing.
+Als verhuizer ben je overdag bezig met verhuizingen. Bellen of mailen kan niet. [Automatische opvolging](/automatisering) is de oplossing.
 
 De flow:
 
@@ -62,6 +61,8 @@ Automatisering is in piekperiodes essentieel:
 - Alternatieve datums voorstellen: "Twee dagen eerder is er nog plek — scheelt ook in kosten"
 
 Elke aanvraag in de piekperiode is potentieel duizenden euro's waard. Geen enkele mag onbeantwoord blijven.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leads-opvolgen-verhuisbedrijf-boeking" class="text-dark fw-semibold">Leads opvolgen als verhuisbedrijf: van offerte naar boeking</a> →</p></div></div></div>
 
 ## Van offerte naar getekende boeking
 
