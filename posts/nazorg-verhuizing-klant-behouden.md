@@ -57,6 +57,8 @@ Je hoeft dit niet handmatig te doen. Met een eenvoudige [chatbot](/chatbot) en a
 
 Eenmaal ingesteld, loopt het voor elke klant. Je hoeft alleen nog te reageren als er een vraag of probleem binnenkomt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dalperiode-verhuisbedrijf-agenda-vol-houden" class="text-dark fw-semibold">Dalperiode verhuisbedrijf: zo houd je de winter agenda vol</a> →</p></div></div></div>
+
 ## Maak nazorg onderdeel van je standaardproces
 
 De verhuizers die het beste scoren op Google hebben niet per se de mooiste trucks of de laagste prijzen. Ze hebben de beste nazorg. Elke klant die een opvolgbericht krijgt, voelt zich gewaardeerd. En gewaardeerde klanten zijn de beste ambassadeurs die je kunt hebben.
