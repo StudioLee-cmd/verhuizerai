@@ -56,6 +56,8 @@ Die opvolging maakt het verschil. De klant die twijfelt, krijgt een duwtje. De k
 
 Na 5 dagen zonder reactie: een laatste bericht. "Ik begrijp dat je het druk hebt met de verhuisvoorbereiding. Mocht je nog interesse hebben, dan reserveer ik graag een datum voor je." Kort, niet opdringerig, met een duidelijke call to action.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/wat-kost-ai-verhuisbedrijf-roi" class="text-dark fw-semibold">Wat kost AI voor een verhuisbedrijf? Realistische ROI</a> →</p></div></div></div>
+
 ## Conclusie: de offerte is je visitekaartje
 
 Je offerte is het moment waarop de klant beslist. Maak hem snel, duidelijk, transparant en persoonlijk. Voeg social proof toe en volg op. Het verhuisbedrijf dat dit het beste doet, wint de boeking, ongeacht of het de goedkoopste is.
