@@ -60,6 +60,8 @@ Elke annulering is een les. Drie aanpassingen die het aantal annuleringen struct
 
 **Schriftelijke opdracht:** een mondelinge afspraak is te vrijblijvend. Stuur altijd een opdrachtbevestiging per e-mail en vraag om schriftelijk akkoord.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/werkspot-alternatief-verhuizer" class="text-dark fw-semibold">Werkspot alternatief voor verhuizer: directe klanten</a> →</p></div></div></div>
+
 ## Annuleringen horen erbij, chaos niet
 
 Je kunt niet elke annulering voorkomen. Maar je kunt wel zorgen dat ze je bedrijf niet ontwrichten. Met duidelijke voorwaarden, een aanbetaling en een plan B voor lege dagen beperk je de schade tot een minimum.
