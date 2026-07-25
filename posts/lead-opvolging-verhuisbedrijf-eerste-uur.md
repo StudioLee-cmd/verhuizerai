@@ -7,7 +7,6 @@ image: "/images/blog/lead-opvolging-verhuisbedrijf-eerste-uur.jpg"
 tags: ["Lead-opvolging", "Verhuisbedrijf", "Conversie"]
 cluster: "automatisering"
 ---
-
 ## In het kort
 
 - **Een verhuislead die binnen 5 minuten antwoord krijgt converteert 10x beter** dan eentje die na 24 uur antwoord krijgt.
@@ -131,6 +130,8 @@ Met foto's en goede intake-info werken offertes zonder bezichtiging in 60-70 pro
 ### Kan ik dit ook voor offertes-opvolging gebruiken?
 
 Absoluut. Stuur een vriendelijke check-in 24-48 uur na je offerte als de klant nog niet heeft geboekt. Onze pagina over [reviews voor verhuisbedrijven](/reviews) gaat dieper in op klant-communicatie en feedback.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/beste-verhuissoftware-2026" class="text-dark fw-semibold">Beste verhuissoftware 2026: tools voor verhuisbedrijven vergeleken</a> →</p></div></div></div>
 
 ## Klaar om je leads te laten doorzetten?
 
