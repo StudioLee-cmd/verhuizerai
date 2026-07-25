@@ -7,8 +7,7 @@ image: "/images/blog/perfecte-verhuiservaring-offerte-nazorg.png"
 tags: ["Klantbeleving", "Service", "Groei"]
 cluster: "automatisering"
 ---
-
-Een verhuizing is voor de meeste mensen een stressvolle gebeurtenis. Ze vertrouwen hun hele inboedel toe aan vreemden en hopen dat alles goed gaat. Verhuisbedrijven die dat begrijpen en er actief op inspelen, bouwen een reputatie op die zorgt voor volle agenda's en wachtlijsten.
+Een verhuizing is voor de meeste mensen een stressvolle gebeurtenis. Ze [vertrouwen](/reviews) hun hele inboedel toe aan vreemden en hopen dat alles goed gaat. Verhuisbedrijven die dat begrijpen en er actief op inspelen, bouwen een reputatie op die zorgt voor volle agenda's en wachtlijsten.
 
 De klantbeleving begint niet op de verhuisdag. Het begint bij het eerste contactmoment en eindigt pas wanneer de klant in zijn nieuwe huis zit en terugdenkt: "Dat ging soepel." In dit artikel lees je hoe je die complete ervaring vormgeeft.
 
@@ -54,6 +53,6 @@ Overweeg een klein attentie: een kaart met "Welkom in je nieuwe thuis" of een fl
 
 ## Conclusie
 
-Klantbeleving bij een verhuisbedrijf is geen luxe — het is je belangrijkste marketingkanaal. Van het eerste telefoontje tot de nazorg na de verhuizing: elk contactmoment is een kans om indruk te maken. Die indruk vertaalt zich in reviews, aanbevelingen en een volle planning.
+Klantbeleving bij een verhuisbedrijf is geen luxe — het is je belangrijkste marketingkanaal. Van het eerste telefoontje tot de [nazorg na de verhuizing](/blog/nazorg-verhuizing-klant-behouden): elk contactmoment is een kans om indruk te maken. Die indruk vertaalt zich in reviews, aanbevelingen en een volle planning.
 
 Wil je ontdekken hoe je jouw klantreis kunt verbeteren? Vraag een [gratis scan aan](/gratis-scan) en krijg direct inzicht.
