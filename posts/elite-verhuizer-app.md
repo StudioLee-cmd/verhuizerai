@@ -8,7 +8,6 @@ image: "/images/blog/elite-verhuizer-app.png"
 tags: ["Elite Plan", "Client App", "Innovatie"]
 cluster: "website"
 ---
-
 Als je vooral voor particulieren werkt is een goede prijs en betrouwbaarheid belangrijk. Maar werk je voor zakelijke klanten? Makelaars, vastgoedbeheerders, woningbouwverenigingen of bedrijven die vaak expats verhuizen? Dan draait alles om **GEMAK**, **INZICHT** en **SNELHEID**.
 
 Deze partijen hebben vaak tientallen verhuizingen per jaar. Ze worden gek van bellen, mailen en appen over "wanneer kunnen jullie?", "wat kost het?", "is de verhuizing al klaar?". Ze verdrinken in de communicatie. Ze willen grip op hun planning.
@@ -17,7 +16,7 @@ Deze partijen hebben vaak tientallen verhuizingen per jaar. Ze worden gek van be
 
 Stel je voor. Je gaat in gesprek met een groot makelaarskantoor in jouw regio. Je zegt niet: "Hier is mijn kaartje, bel me maar." Nee, je pakt je telefoon en zegt: "Hier is mijn eigen app. Als je een klant hebt die gaat verhuizen, meld je het hier direct aan, en wij regelen de rest."
 
-Als 'Elite' gebruiker van VerhuizerAI bouwen wij een eigen app voor jouw bedrijf (PWA). Met **jouw logo, jouw kleuren en jouw naam**. Jouw zakelijke klanten kunnen die installeren op hun telefoon. Het lijkt alsof jij tienduizenden euro's in software hebt geïnvesteerd.
+Als 'Elite' gebruiker van VerhuizerAI bouwen wij een eigen app voor jouw bedrijf (PWA). Met **jouw logo, jouw kleuren en jouw naam**. Jouw [zakelijke klanten](/blog/portfolio-verhuisbedrijf-zakelijke-klanten) kunnen die installeren op hun telefoon. Het lijkt alsof jij tienduizenden euro's in software hebt geïnvesteerd.
 
 ### Wat kan de klant in de app?
 - **Direct Melden:** Nieuwe verhuizing? Adressen invoeren, datum kiezen, bijzonderheden (piano, lift nodig) aanvinken en verzenden. Het staat direct in jouw systeem als aanvraag. Geen telefoontjes meer.
