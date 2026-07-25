@@ -65,10 +65,10 @@ const AanmeldingGeluktPage = () => {
                             Terug naar Home
                         </Link>
                         <Link
-                            href="https://app.verhuizerai.nl"
+                            href="https://airs-app.vercel.app/vragenlijst?niche=verhuizer"
                             className="inline-flex items-center justify-center px-8 py-4 text-base font-bold text-white bg-blue-600 rounded-xl hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl"
                         >
-                            Naar Inloggen <BsArrowRight className="ml-2" />
+                            Vul je bedrijfsprofiel in <BsArrowRight className="ml-2" />
                         </Link>
                     </div>
                 </div>
