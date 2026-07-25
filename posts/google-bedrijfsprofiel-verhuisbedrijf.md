@@ -8,14 +8,13 @@ image: "/images/blog/google-bedrijfsprofiel-verhuisbedrijf.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
-
 Wanneer iemand gaat verhuizen, is een van de eerste dingen die ze doen: "verhuisbedrijf [stad]" googelen. En wat ze dan zien is niet een lijst met websites — het is het Google Maps-blok met drie bedrijven, hun reviews, en een bel-knop. Dat is je Google Bedrijfsprofiel, en het bepaalt in veel gevallen of jij de opdracht krijgt of je concurrent.
 
 In dit artikel lees je hoe je als verhuisbedrijf je Google Bedrijfsprofiel zo optimaliseert dat je de eerste keuze wordt voor klanten in jouw regio.
 
 ## Hoe Google bepaalt welk verhuisbedrijf bovenaan staat
 
-Google's lokale rangschikking is gebaseerd op drie factoren: relevantie, afstand en prominentie. Relevantie gaat over hoe goed je profiel past bij de zoekopdracht. Afstand spreekt voor zich. Prominentie wordt bepaald door je online reputatie — reviews, website-autoriteit en activiteit op je profiel.
+Google's lokale rangschikking is gebaseerd op drie factoren: relevantie, afstand en prominentie. Relevantie gaat over hoe goed je profiel past bij de zoekopdracht. Afstand spreekt voor zich. Prominentie wordt bepaald door je online [reputatie](/reviews) — reviews, website-autoriteit en activiteit op je profiel.
 
 Op afstand heb je weinig invloed. Op relevantie en prominentie kun je enorm veel doen. En het begint allemaal bij een compleet en actief profiel.
 
@@ -82,7 +81,7 @@ Deze antwoorden verschijnen direct in je profiel en beantwoorden vragen die pote
 
 ## Je profiel koppelen aan je website
 
-Zorg dat je website en je Google Bedrijfsprofiel dezelfde informatie tonen: zelfde bedrijfsnaam, zelfde adres, zelfde telefoonnummer (NAP-consistentie). Inconsistenties verwarren Google en kunnen je ranking negatief beïnvloeden.
+Zorg dat je website en je [Google Bedrijfsprofiel](/blog/google-qa-verhuisbedrijf-prijs-en-spoed-vooraf) dezelfde informatie tonen: zelfde bedrijfsnaam, zelfde adres, zelfde telefoonnummer (NAP-consistentie). Inconsistenties verwarren Google en kunnen je ranking negatief beïnvloeden.
 
 Link vanuit je Bedrijfsprofiel naar een specifieke landingspagina op je website — bij voorkeur je offerte-pagina of een pagina over je verhuisdiensten, niet alleen je homepage.
 
