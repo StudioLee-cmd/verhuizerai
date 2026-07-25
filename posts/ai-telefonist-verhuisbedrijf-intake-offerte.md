@@ -7,7 +7,6 @@ image: "/images/blog/ai-telefonist-verhuisbedrijf-intake-offerte.jpg"
 cluster: "voice-ai"
 tags: ["Voice AI", "Verhuisbedrijf Intake", "Offerte Process"]
 ---
-
 Een gezin gaat over twee maanden verhuizen en belt drie verhuisbedrijven voor offertes. Bedrijf één neemt op, vraagt naar adres en datum, en zegt: "We sturen vanavond een offerte." Bedrijf twee gaat naar voicemail. Bedrijf drie laat een AI telefonist opnemen die in vier minuten de woonoppervlakte, het aantal verdiepingen, de bezittingen, de afstand en de datum uitvraagt, plus om foto's vraagt van de inboedel via WhatsApp. Het gezin krijgt twee uur later een gedetailleerde offerte van bedrijf drie, een korte van bedrijf één, en niets van bedrijf twee. Drie keer raden welk bedrijf de opdracht krijgt.
 
 Voor een verhuisbedrijf is de eerste oproep meestal de hele wedstrijd. Of de klant binnen 24 uur een goede offerte heeft, of niet. Een AI telefonist die de intake doet, kan dat proces met een dag versnellen en de afsluitingskans met 30 tot 50 procent verhogen. Maar slechte AI scripts schaden meer dan ze opleveren. Dit artikel laat zien hoe je voice AI voor een verhuisbedrijf inzet, met de intake-vragen die het verschil maken.
@@ -167,6 +166,8 @@ Vraag het na de gesprek. Een korte SMS of WhatsApp na het gesprek: "Hoe was de i
 ### Kan de AI ook offertes berekenen?
 
 Niet zelf. De AI verzamelt info en stuurt die door naar een planner of een offerte-engine. De finale offerte komt nog van een mens of een berekening-systeem.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-telefoniste-voor-verhuizers" class="text-dark fw-semibold"></a> →</p></div></div></div>
 
 ## Klaar om je intake te laten draaien?
 
