@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Social Media", "Instagram", "Contentkalender"]
 cluster: "social-media"
 ---
-
 Je hebt net een wasmachine drie hoog naar beneden gedragen en een volle bus gelost. 's Avonds op de bank bedenk je dat je eigenlijk al twee weken niets op Instagram hebt gezet. Je pakt je telefoon, opent de app, tikt op het plusje en dan blijf je hangen. Wat moet ik hier nou op zetten? Scherm dicht, morgen weer een volle dag.
 
 Herkenbaar, en het ligt niet aan jou. Het probleem is niet dat je niets te laten zien hebt, want een verhuisbedrijf zit vol met content. Het probleem is dat je elke keer opnieuw vanaf nul begint. Een vaste contentkalender haalt dat gepieker weg: je hoeft niet meer te bedenken wat je post, je kijkt gewoon wat er voor vandaag klaarstaat.
@@ -95,7 +94,7 @@ Die drie stappen kosten samen een paar uur per maand. Precies de paar uur die in
 
 ## Locatie en hashtags: zo vinden mensen in jouw regio je
 
-Een mooie post die niemand in jouw werkgebied ziet, levert geen aanvragen op. Daarom is elke post ook een kans om lokaal gevonden te worden. Voeg een locatie-tag van je stad of regio toe en gebruik een vaste set lokale hashtags, bijvoorbeeld je plaatsnaam met "verhuizen" en "verhuisbedrijf".
+Een mooie post die niemand in jouw werkgebied ziet, levert geen aanvragen op. Daarom is elke post ook een kans om [lokaal gevonden](/blog/verhuizer-lokaal-gevonden-seo-basics) te worden. Voeg een locatie-tag van je stad of regio toe en gebruik een vaste set lokale hashtags, bijvoorbeeld je plaatsnaam met "verhuizen" en "verhuisbedrijf".
 
 Die lokale activiteit op social media versterkt ook je positie in Google. Wie jouw stad plus "verhuisbedrijf" zoekt, kiest eerder een bedrijf dat overal zichtbaar en actief is. Wil je daar bewust op sturen, lees dan hoe [lokale SEO voor verhuisbedrijven](/seo) en je social media samen je vindbaarheid optrekken. Ze versterken elkaar in dezelfde regio.
 
