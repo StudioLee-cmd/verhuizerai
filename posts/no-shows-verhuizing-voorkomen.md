@@ -69,6 +69,8 @@ Niet wettelijk verplicht, maar het is marktstandaard en klanten verwachten het. 
 
 Bied een nieuwe datum aan, maar communiceer dat je de oorspronkelijke datum vrijgeeft voor andere boekingen. Als de nieuwe datum meer dan een maand later is, vraag een nieuwe aanbetaling voor de teamreservering.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/aanbetaling-verhuizing-planning-beschermen" class="text-dark fw-semibold">Aanbetaling bij verhuizing: zo bescherm je je planning</a> →</p></div></div></div>
+
 ## Conclusie
 
 No-shows bij verhuizingen voorkom je met drie maatregelen: een aanbetaling die commitment toont, [automatische herinneringen](/chatbot) die de klant betrokken houden en een helder annuleringsbeleid dat verwachtingen schept.
