@@ -83,6 +83,8 @@ Een realistisch plan om je portfolio te upgraden:
 
 Wil je dit proces snel doorlopen, dan kan een [gratis scan](/gratis-scan) van jouw huidige website ons helpen om concreet aan te geven welke 5 nieuwe foto's jij in de komende 4 weken moet verzamelen om je conversie fors te verbeteren. Meer over [tarieven](/tarieven) voor managed visual-content productie en websiteoptimalisatie in een apart pakket.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elite-verhuizer-app" class="text-dark fw-semibold"></a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als je drie maanden na de portfolio-upgrade niet meer of betere aanvragen krijgt, krijg je je investering terug. Jij verhuist, wij zorgen dat je website verhuizingen verkoopt.
