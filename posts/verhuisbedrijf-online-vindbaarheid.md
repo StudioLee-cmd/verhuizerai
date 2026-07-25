@@ -78,6 +78,8 @@ De slimste aanpak: gebruik platformen voor direct resultaat, en bouw tegelijk je
 
 Begin met SEO voor de lange termijn. Zet Google Ads in voor snelle pieken, bijvoorbeeld in het voorjaar wanneer het verhuisseizoen begint.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/verhuisbedrijf-gevonden-worden-google" class="text-dark fw-semibold">Als verhuisbedrijf gevonden worden op Google</a> →</p></div></div></div>
+
 ## Snel aan de slag
 
 1. **Vandaag:** optimaliseer je Google Bedrijfsprofiel (30 minuten)
