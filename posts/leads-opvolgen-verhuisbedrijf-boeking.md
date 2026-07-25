@@ -71,6 +71,8 @@ Een digitale offerte-tool kan de snelheid verhogen, maar de persoonlijke toelich
 
 Minder dan je denkt. De investering verdient zichzelf terug met 1-2 extra boekingen per maand.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lead-opvolging-verhuisbedrijf-meer-boekingen" class="text-dark fw-semibold">Lead opvolging als verhuisbedrijf: meer boekingen</a> →</p></div></div></div>
+
 ## Conclusie
 
 Als verhuisbedrijf ligt het verschil tussen een goede en een uitzonderlijke omzet in de opvolging. Snelheid, structuur en persoonlijke aandacht maken het verschil. Automatiseer wat kan, persoonlijk waar het telt.
