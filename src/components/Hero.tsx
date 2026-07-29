@@ -5,7 +5,7 @@ import React, { useState, useEffect } from 'react';
 
 import { heroDetails } from '@/data/hero';
 import Highlight from './Highlight';
-import VoiceDemo from './VoiceDemo';
+import DemoPlayer from './DemoPlayer';
 const StartChoiceModalLazy = dynamic(() => import('./StartChoiceModal'), { ssr: false });
 import Link from 'next/link';
 // ⚡ ogl (~17 KB WebGL) hoort niet in de kritieke bundle: deze laag is decoratief
@@ -144,7 +144,7 @@ const Hero: React.FC = () => {
                         >
                             Start Nu
                         </button>
-                        <VoiceDemo />
+                        <DemoPlayer />
                     </div>
                 </motion.div>
 
