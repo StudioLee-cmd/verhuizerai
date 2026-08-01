@@ -59,7 +59,7 @@ Een verhuisadvertentie verkoopt geen dienst maar het wegnemen van stress. De men
 
 Drie dingen doen het werk. Laat echte mensen zien, niet een gehuurde stockfoto van een lachend stel met een verhuisdoos. Noem de stad of de wijk gewoon bij naam, want herkenning is bij lokaal werk het halve vertrouwen. En zet er een concreet vervolg onder: een offerte binnen 24 uur, een vrijblijvende inschatting via de app, iets dat een dag oplevert in plaats van een gesprek.
 
-Het beeldmateriaal hoef je niet apart te maken. De video's en foto's die je toch al voor je kanalen schiet, werken vaak beter als advertentie dan iets dat eruitziet als een advertentie. Welke formats zich daarvoor lenen staat in ons overzicht van [Reels-formats die het bij verhuisbedrijven doen](/blog/instagram-reels-verhuisbedrijf-5-formats). Let wel op wat je met klantbeelden mag: daar gelden regels voor, en die staan in het artikel onderaan deze pagina.
+Het beeldmateriaal hoef je niet apart te maken. De video's en foto's die je toch al voor je kanalen schiet, werken vaak beter als advertentie dan iets dat eruitziet als een advertentie. Welke formats zich daarvoor lenen staat in ons overzicht van [Reels-formats die het bij verhuisbedrijven doen](/blog/instagram-reels-verhuisbedrijf-5-formats). Let wel op wat je met klantbeelden mag: daar gelden regels voor, en die staan in ons stuk over [klantfoto's posten en de AVG](/blog/avg-klantfotos-verhuisbedrijf-instagram).
 
 ## Waar de klik landt
 
