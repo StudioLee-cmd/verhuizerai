@@ -71,6 +71,6 @@ Scoort een aanbieder op vijf of zes punten, dan heb je een werkpaard. Blijft het
 
 Een chatbot is pas waardevol als hij uitvraagt, foto's verzamelt, kwalificeert en de aanvraag compleet doorgeeft aan je planner, precies zoals jij dat aan de telefoon zou doen. Kan hij dat niet, dan is het een duur contactformulier. Kan hij het wel, dan vangt hij de aanvragen op die nu 's avonds en in het weekend langs je heen lopen.
 
-Benieuwd hoeveel offerteaanvragen er nu op je site blijven liggen? Vraag de [gratis AI-scan voor verhuisbedrijven](/gratis-scan) aan. We laten precies zien waar je aanvragen weglekken en hoe je dat dichtzet, met onze Groei-of-Geld-Terug Garantie: levert het systeem aantoonbaar niets op, dan betaal je niet. Jij verhuist, wij regelen de rest.
+Benieuwd hoeveel offerteaanvragen er nu op je site blijven liggen? Vraag de [gratis AI-scan voor verhuisbedrijven](/gratis-scan) aan. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij verhuist, wij regelen de rest.
 
 <div class="lees-ook" style="background-color: rgba(37, 99, 235, 0.10); border-radius: 12px; padding: 16px 20px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/live-chat-vs-ai-chatbot-verhuisbedrijf-offerteaanvragen">Live chat of AI chatbot op je verhuisbedrijf-website?</a> &rarr;</div>

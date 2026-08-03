@@ -64,7 +64,7 @@ Specifieke verhuissoftware (US-basis, NL-versie beschikbaar). Sterk in offerte-p
 
 Volledige stack inclusief CRM, voice-AI telefonist, chatbot, review-automation en social-media planner. Geen losse offerte-calculator zoals MovingPro maar wel een chatbot-gebaseerde intake.
 
-**Sterke punten:** complete dekking (klant-contact plus offerte plus planning plus marketing), AI-modules ingebouwd, NL-talig, gemiste-oproep-opvolging, review-automation op autopilot, GroeiOfGeld-Terug Garantie. Zie de [tarieven VerhuizerAI](/tarieven) voor het complete overzicht.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Zie de [tarieven VerhuizerAI](/tarieven) voor het complete overzicht.
 
 **Zwakke punten:** route-optimalisatie minder diep dan MovingPro of Vonigo, geen ingebouwde m3-calculator met postcode-data (wel chatbot-intake die de info verzamelt).
 

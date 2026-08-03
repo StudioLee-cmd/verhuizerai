@@ -55,7 +55,7 @@ Verhuisbedrijven die hun opvolging structureren:
 
 Met 5 aanvragen per week kun je alles handmatig doen. Maar in de piek verwerkt een druk verhuisbedrijf 20-40 aanvragen per week. Zonder automatisering vallen er leads door de mazen.
 
-Een managed service als [StudioLee](/tarieven) richt het volledig in: automatische bevestigingen, opvolgsequenties, een [chatbot](/chatbot) die 24/7 vragen beantwoordt en [review-verzoeken](/reviews) na de verhuizing. Jij besteedt er [15 minuten per maand](/gratis-scan) aan. Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen meetbare groei? Geld terug.
+Een managed service als [StudioLee](/tarieven) richt het volledig in: automatische bevestigingen, opvolgsequenties, een [chatbot](/chatbot) die 24/7 vragen beantwoordt en [review-verzoeken](/reviews) na de verhuizing. Jij besteedt er [15 minuten per maand](/gratis-scan) aan. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Veelgestelde vragen
 

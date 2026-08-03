@@ -78,4 +78,4 @@ Een paar valkuilen die de meeste verhuisbedrijven laten struikelen:
 
 Je hoeft geen marketeer te worden. Zet bij je volgende verhuizing gewoon je telefoon een paar keer aan en verzamel materiaal. Bouw daarna de route naar boekingen: een bio-link die klopt, en een systeem dat de leads opvangt als je zelf aan het tillen bent.
 
-Wil je weten waar bij jouw verhuisbedrijf nu opdrachten weglekken tussen aandacht en boeking? Doe de [gratis AI-scan voor verhuisbedrijven](/gratis-scan), dan zie je precies waar je kansen laat liggen. En omdat wij bij VerhuizerAI achter onze aanpak staan, werken we met de Groei-of-Geld-Terug Garantie: levert het geen meetbaar resultaat op, dan krijg je je geld terug.
+Wil je weten waar bij jouw verhuisbedrijf nu opdrachten weglekken tussen aandacht en boeking? Doe de [gratis AI-scan voor verhuisbedrijven](/gratis-scan), dan zie je precies waar je kansen laat liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

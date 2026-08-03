@@ -105,4 +105,4 @@ Naast omzetgenererende activiteiten is de winter de enige periode waarin je echt
 
 Bekijk de [Groei-of-Geld-Terug Garantie en tarieven](/tarieven) als je dit jaar serieus stappen wilt zetten met een managed service die je marketing, agenda, telefoon en reviews uit handen neemt. We werken speciaal met seizoensbedrijven aan een systeem dat in de winter zaait wat in de zomer geoogst wordt.
 
-Wil je een eerste gratis blik op je positie? [Plan een gratis scan](/gratis-scan) en we tonen je waar in deze dalperiode de meeste omzetkansen liggen, en wat een complete winter-aanpak je oplevert. Werkt het niet, dan krijg je je geld terug binnen 90 dagen.
+Wil je een eerste gratis blik op je positie? [Plan een gratis scan](/gratis-scan) en we tonen je waar in deze dalperiode de meeste omzetkansen liggen, en wat een complete winter-aanpak je oplevert. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

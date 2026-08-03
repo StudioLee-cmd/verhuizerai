@@ -106,6 +106,6 @@ Pak de laatste offerte die je hebt verstuurd. Loop de zeven onderdelen langs en 
 
 Vul de ontbrekende aan, sla hem op als je vaste sjabloon, en gebruik vanaf morgen alleen die. Meer is het niet, en het scheelt je de eerstvolgende discussie over een lift die niet werkte.
 
-Wil je dat het template zichzelf vult vanuit je intake en dat de opvolging erachter automatisch loopt? Dat bouwen wij, met de Groei-of-Geld-Terug Garantie: levert het niet op wat we afspreken, dan krijg je je geld terug. Begin met een [gratis scan van je huidige offerteproces](/gratis-scan), dan zie je zwart op wit waar je aanvragen blijven liggen.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Begin met een [gratis scan van je huidige offerteproces](/gratis-scan), dan zie je zwart op wit waar je aanvragen blijven liggen.
 
 <div class="lees-ook" style="background-color: rgba(37, 99, 235, 0.10); border-radius: 12px; padding: 16px 20px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/digitale-werkbon-verhuisbedrijf-bus-naar-crm">Digitale werkbon verhuisbedrijf: van de bus naar je CRM</a> →</div>

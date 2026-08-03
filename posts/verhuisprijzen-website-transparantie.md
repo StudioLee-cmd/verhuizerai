@@ -64,6 +64,6 @@ Begin simpel. Kies je drie populairste verhuistypes (studentenverhuizing, appart
 
 Bij VerhuizerAI helpen we verhuisbedrijven met het optimaliseren van hun website en prijzenstrategie. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan.

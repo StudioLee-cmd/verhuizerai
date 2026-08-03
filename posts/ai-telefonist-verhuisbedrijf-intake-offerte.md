@@ -173,4 +173,4 @@ Niet zelf. De AI verzamelt info en stuurt die door naar een planner of een offer
 
 Een goede AI telefonist verhoogt de offertesnelheid en de conversie van een verhuisbedrijf significant. De setup is een paar weken werk, daarna draait het. Wij regelen dit standaard voor onze verhuis-klanten, inclusief scripts, foto-upload-flow en doorlopende optimalisatie.
 
-Vraag een [gratis scan](/gratis-scan) aan en we kijken samen hoeveel offerte-aanvragen je nu nog laat liggen of te traag opvolgt. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Vraag een [gratis scan](/gratis-scan) aan en we kijken samen hoeveel offerte-aanvragen je nu nog laat liggen of te traag opvolgt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
