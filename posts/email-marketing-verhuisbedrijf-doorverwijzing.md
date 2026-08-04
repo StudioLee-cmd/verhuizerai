@@ -39,7 +39,7 @@ Na de initiële follow-up verschuif je de focus naar doorverwijzingen.
 
 **Bedankje bij doorverwijzing**: als een eerdere klant iemand doorverwijst en dat leidt tot een boeking, stuur een bedankje. Een fles wijn, een cadeaubon of een handgeschreven kaart. Dat kleine gebaar zorgt ervoor dat ze het opnieuw doen.
 
-**[Social media](/blog/social-media-voor-verhuizers) koppelen**: verwijs in je e-mails naar je Instagram of Facebook waar je foto's deelt van tevreden klanten bij hun nieuwe woning. Dit versterkt je geloofwaardigheid.
+**[Social media](/blog/social-media-verhuisbedrijven-boekingen) koppelen**: verwijs in je e-mails naar je Instagram of Facebook waar je foto's deelt van tevreden klanten bij hun nieuwe woning. Dit versterkt je geloofwaardigheid.
 
 ## Seizoenstips sturen
 

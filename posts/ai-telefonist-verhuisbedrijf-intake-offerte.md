@@ -167,7 +167,7 @@ Vraag het na de gesprek. Een korte SMS of WhatsApp na het gesprek: "Hoe was de i
 
 Niet zelf. De AI verzamelt info en stuurt die door naar een planner of een offerte-engine. De finale offerte komt nog van een mens of een berekening-systeem.
 
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-telefoniste-voor-verhuizers" class="text-dark fw-semibold"></a> →</p></div></div></div>
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-telefonist-verhuisbedrijf-intake-offerte" class="text-dark fw-semibold"></a> →</p></div></div></div>
 
 ## Klaar om je intake te laten draaien?
 

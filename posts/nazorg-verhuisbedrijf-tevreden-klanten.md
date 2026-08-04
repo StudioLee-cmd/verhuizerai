@@ -60,7 +60,7 @@ Nazorg is ook een commerciële kans. Na een verhuizing hebben mensen vaak behoef
 
 Door deze diensten aan te bieden, help je de klant en creëer je extra omzet. Win-win.
 
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/nazorg-verhuisbedrijf-klantbehoud" class="text-dark fw-semibold">Nazorg als verhuisbedrijf: van eenmalige klant naar ambassadeur</a> →</p></div></div></div>
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klantbehoud-verhuisbedrijf-doorverwijzingen" class="text-dark fw-semibold">Nazorg als verhuisbedrijf: van eenmalige klant naar ambassadeur</a> →</p></div></div></div>
 
 ## Een nazorg-systeem opzetten
 

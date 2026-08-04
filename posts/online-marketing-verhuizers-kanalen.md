@@ -47,7 +47,7 @@ Maar er zitten haken aan. Je deelt de lead met andere bedrijven, dus je concurre
 
 Veel mensen weten maanden van tevoren dat ze gaan verhuizen. Ze zijn nog niet aan het zoeken, maar wel aan het oriënteren. Op Facebook en Instagram kun je in die fase al zichtbaar zijn: een tijdige tip, een voor-en-na van een nette verhuizing, een tevreden klant. Dat bouwt herkenning en vertrouwen op ruim voordat iemand een offerte aanvraagt.
 
-De directe intentie is lager dan bij Google, dus verwacht er niet meteen aanvragen uit. Wat social wél doet: als de klant straks gaat zoeken, kent hij jouw naam al. En dat is precies het duwtje dat bepaalt of jij als eerste gebeld wordt of helemaal niet in beeld komt. Het hoeft geen dagtaak te zijn; de kunst is consistentie zonder er je avonden aan kwijt te zijn. Hoe je dat praktisch aanpakt, staat in ons stuk over [social media zonder dat het een tweede baan wordt](/blog/social-media-voor-verhuizers) en op onze pagina over [social media voor verhuizers](/social-media).
+De directe intentie is lager dan bij Google, dus verwacht er niet meteen aanvragen uit. Wat social wél doet: als de klant straks gaat zoeken, kent hij jouw naam al. En dat is precies het duwtje dat bepaalt of jij als eerste gebeld wordt of helemaal niet in beeld komt. Het hoeft geen dagtaak te zijn; de kunst is consistentie zonder er je avonden aan kwijt te zijn. Hoe je dat praktisch aanpakt, staat in ons stuk over [social media zonder dat het een tweede baan wordt](/blog/social-media-verhuisbedrijven-boekingen) en op onze pagina over [social media voor verhuizers](/social-media).
 
 ## Zo verdeel je je budget
 

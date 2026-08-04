@@ -47,7 +47,7 @@ Als je team arriveert en de klant is niet klaar of niet aanwezig, volg dan een v
 
 Met een [chatbot](/chatbot) op je website kunnen klanten ook last-minute nog wijzigingen doorgeven. Liever een bericht om 6:00 's ochtends dat ze niet klaar zijn dan een team dat om 8:00 voor een dichte deur staat.
 
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-verhuizing-kosten-voorkomen" class="text-dark fw-semibold">Wat kost een no-show je als verhuisbedrijf?</a> →</p></div></div></div>
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-verhuisbedrijf-kosten" class="text-dark fw-semibold">Wat kost een no-show je als verhuisbedrijf?</a> →</p></div></div></div>
 
 ## Voorkom het structureel
 

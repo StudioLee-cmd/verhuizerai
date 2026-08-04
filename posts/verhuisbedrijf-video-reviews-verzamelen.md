@@ -104,4 +104,4 @@ Het mooie aan video-reviews: je kunt deze week al beginnen. Vraag je volgende vi
 
 Wil je weten hoe een [complete reviews-aanpak voor je verhuisbedrijf](https://www.verhuizerai.nl/reviews) eruit kan zien — inclusief tekst- én video-reviews? Plan een vrijblijvend gesprek of bekijk de [gratis website voor verhuisbedrijven](https://www.verhuizerai.nl/gratis-website) inclusief Groei-of-Geld-Terug Garantie.
 
-Lees ook onze [andere artikelen over verhuisbedrijf-marketing en groei](https://www.verhuizerai.nl/blog) of de specifieke gids over [reviews automatisch verzamelen voor verhuisbedrijven](https://www.verhuizerai.nl/blog/reviews-automatisch-verzamelen-verhuisbedrijf).
+Lees ook onze [andere artikelen over verhuisbedrijf-marketing en groei](https://www.verhuizerai.nl/blog) of de specifieke gids over [reviews automatisch verzamelen voor verhuisbedrijven](https://www.verhuizerai.nl/blog/reviews-verzamelen-verhuisbedrijf-automatisch).

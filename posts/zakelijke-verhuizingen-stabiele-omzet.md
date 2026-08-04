@@ -112,7 +112,7 @@ Werk met projectfacturering:
 | 40% | Zakelijk regulier | Stabiliteit, hogere marge |
 | 20% | Zakelijk specialistisch | Premium marge, expertise |
 
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-verhuizing-voorkomen" class="text-dark fw-semibold">No-shows bij verhuizingen voorkomen</a> →</p></div></div></div>
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/verhuisbedrijf-no-shows-voorkomen-bevestiging" class="text-dark fw-semibold">No-shows bij verhuizingen voorkomen</a> →</p></div></div></div>
 
 ## Conclusie
 
