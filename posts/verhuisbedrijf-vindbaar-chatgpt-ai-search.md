@@ -82,7 +82,7 @@ AI-modellen extraheren content op een hele specifieke manier. Drie regels die he
 
 **Vermijd promotie-taal.** ChatGPT is getraind om reclame eruit te filteren. Een zin als "Bij ons krijg je het beste vakmanschap" wordt overgeslagen. Een zin als "Onze verhuizers werken sinds 2018 met FAIM-gecertificeerde internationale procedures en hebben sindsdien meer dan 240 internationale verhuizingen begeleid" wordt opgepakt omdat het feitelijk en verifieerbaar is.
 
-Een aanvullende technische tip: zie ook onze gids over [lokale vindbaarheid als verhuisbedrijf](/blog/lokale-vindbaarheid-verhuisbedrijf) want je Google Bedrijfsprofiel is één van de belangrijkste structured-data bronnen die AI-modellen oppakken.
+Een aanvullende technische tip: zie ook onze gids over [lokale vindbaarheid als verhuisbedrijf](/blog/hoe-verhuisbedrijven-meer-boekingen-binnenhalen-via-google) want je Google Bedrijfsprofiel is één van de belangrijkste structured-data bronnen die AI-modellen oppakken.
 
 ## Hoe meet je vindbaarheid in ChatGPT?
 

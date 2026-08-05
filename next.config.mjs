@@ -27,6 +27,8 @@ const nextConfig = {
             { source: '/blog/ai-telefoniste-voor-verhuizers', destination: '/blog/ai-telefonist-verhuisbedrijf-intake-offerte', permanent: true },
             { source: '/blog/social-media-voor-verhuizers', destination: '/blog/social-media-verhuisbedrijven-boekingen', permanent: true },
             { source: '/blog/nazorg-verhuisbedrijf-klantbehoud', destination: '/blog/klantbehoud-verhuisbedrijf-doorverwijzingen', permanent: true },
+            { source: '/blog/meer-verhuizingen-met-ai', destination: '/blog/meer-google-reviews-verhuisbedrijf', permanent: true },
+            { source: '/blog/lokale-vindbaarheid-verhuisbedrijf', destination: '/blog/hoe-verhuisbedrijven-meer-boekingen-binnenhalen-via-google', permanent: true },
         ];
     },
 };
