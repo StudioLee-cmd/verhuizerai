@@ -71,13 +71,13 @@ Elke post houdt je profiel actief en geeft Google het signaal dat je bedrijf lee
 
 ## Veelgestelde vragen beantwoorden
 
-Voeg Q&A toe aan je profiel met vragen die klanten vaak stellen:
+De vragensectie waarin klanten iets op je profiel konden vragen bestaat niet meer. Google stopte op 3 november 2025 de koppeling ernaartoe en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen blijven, alleen stelt Google het antwoord nu zelf samen uit je profiel, je website en je reviews. Zorg dus dat deze drie antwoorden echt ergens staan:
 
-- "Hoeveel kost een verhuizing?" — Geef een indicatie: "Prijzen variëren afhankelijk van afstand en volume. Een gemiddelde huishoudverhuizing binnen de stad kost €600-€1.200. Vraag een gratis offerte aan voor een exacte prijs."
-- "Hoe lang duurt een verhuizing?" — "Een gemiddelde woning is in 4-6 uur verhuisd. Grotere woningen of verhuizingen over langere afstand kunnen een volledige dag duren."
-- "Zijn mijn spullen verzekerd?" — "Ja, wij zijn volledig verzekerd voor transportschade tot €[bedrag]."
+- "Hoeveel kost een verhuizing?" — op je tarieven- of offertepagina: "Prijzen variëren afhankelijk van afstand en volume. Een gemiddelde huishoudverhuizing binnen de stad kost €600-€1.200. Vraag een gratis offerte aan voor een exacte prijs."
+- "Hoe lang duurt een verhuizing?" — bij de dienst zelf op je site: "Een gemiddelde woning is in 4-6 uur verhuisd. Grotere woningen of verhuizingen over langere afstand kunnen een volledige dag duren."
+- "Zijn mijn spullen verzekerd?" — in je bedrijfsomschrijving en op je voorwaardenpagina, met het verzekerde bedrag er echt bij.
 
-Deze antwoorden verschijnen direct in je profiel en beantwoorden vragen die potentiële klanten hebben voordat ze contact opnemen.
+Deze antwoorden staan daarmee op de plek waar Google ze leest, en beantwoorden de vragen die potentiële klanten hebben voordat ze contact opnemen. Wat er precies veranderd is staat in [Google Q&A verhuisbedrijf: weg, dit bepaalt nu je antwoord](/blog/google-qa-verhuisbedrijf-prijs-en-spoed-vooraf).
 
 ## Je profiel koppelen aan je website
 
