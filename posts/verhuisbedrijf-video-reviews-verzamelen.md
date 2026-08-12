@@ -92,7 +92,7 @@ Voor een verhuisbedrijf met €600.000 jaaromzet betekent dit €120.000 tot €
 
 ## Wat het kost om dit op te zetten
 
-- **Geautomatiseerd verzendsysteem:** €49-149 per maand (zie [tarieven voor verhuisbedrijven](https://www.verhuizerai.nl/tarieven))
+- **Geautomatiseerd verzendsysteem:** hier zit geen losse moduleprijs op — het gaat mee in je maandbedrag, en dat staat op de [tarieven voor verhuisbedrijven](https://www.verhuizerai.nl/tarieven)
 - **Upload-tool:** €0-€29 per maand (gratis Google Drive-link, of betaalde Cloudinary-koppeling)
 - **Video-bewerking voor website-integratie:** €30-€90 per video uitbesteed, of zelf 15 min per video
 
