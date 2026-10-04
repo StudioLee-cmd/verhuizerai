@@ -19,13 +19,13 @@ De meeste verhuisbedrijven hebben geen taalprobleem, ze hebben een momentproblee
 
 Wat er dan gebeurt is elke keer hetzelfde. Je belooft terug te bellen, je noteert een nummer op de achterkant van een vrachtbrief, en om zes uur is die brief in de bus blijven liggen. Of je doet het gesprek toch, en er staat achteraf een adres in je systeem waar de postcode niet bij het land past.
 
-Een [ai telefonist voor verhuisbedrijven](/voice-ai) lost dat op aan de kant waar het misgaat: de opname. Niet door slimmer te zijn dan jij, maar door altijd te kunnen zitten. Hij neemt op in de taal waarin er tegen hem gepraat wordt, stelt jouw vragen in die taal, en zet het resultaat in het Nederlands in je systeem. Jij leest een nette aanvraag terug in plaats van een halve naam.
+Een [ai telefonist voor verhuisbedrijven](/voice-ai) lost dat op aan de kant waar het misgaat: de opname. Niet door slimmer te zijn dan jij, maar door altijd te kunnen zitten. Stel de ondersteunde talen, jouw intakevragen en de taal van de samenvatting vooraf in en test ze met echte voorbeeldgesprekken. Jij leest een nette aanvraag terug in plaats van een halve naam.
 
 ## Waar die internationale zoeker vandaan komt
 
 Deze aanvragen komen niet toevallig binnen. Er zit een hele zoekwereld achter die grotendeels buiten je eigen zoekwoorden valt.
 
-Kijk naar wat vergelijkingssites in dit vak doen. Sirelo bouwt een compleet cluster over internationale verhuizingen. Volgens Ahrefs-data van 1 augustus 2026 staat die site op positie 1 voor "emigreren naar spanje", goed voor 2.000 zoekopdrachten per maand, en op positie 21 voor "is denemarken duur" met 1.000 per maand. Dat zijn geen verhuis-zoekwoorden. Dat zijn mensen die hun vertrek aan het uitzoeken zijn.
+Kijk naar wat vergelijkingssites in dit vak doen. Sirelo bouwt een compleet cluster over internationale verhuizingen. Volgens Ahrefs-data van 1 augustus 2026 staat die site op positie 1 voor "emigreren naar spanje", met een geschat zoekvolume van 2.000 per maand. Dat is geen directe zoekvraag naar een verhuisbedrijf: iemand kan eerst zijn vertrek aan het uitzoeken zijn.
 
 Die reis eindigt bij een telefoontje naar een verhuizer, en dat telefoontje is vaak in het Engels. Niet omdat de beller geen Nederlands wil spreken, maar omdat die het niet kan, of omdat de partner die belt hier pas net woont. Bij een vertrekkende expat komt daar nog iets bij: die zit vaak al in een andere tijdzone, dus het gesprek valt buiten je kantooruren.
 
@@ -33,11 +33,11 @@ Die reis eindigt bij een telefoontje naar een verhuizer, en dat telefoontje is v
 
 ## Hoe taalherkenning in de praktijk werkt
 
-Taalherkenning klinkt ingewikkelder dan het is. In de eerste seconden van het gesprek hoort het systeem in welke taal er gesproken wordt en schakelt het daarnaartoe. De rest van het gesprek blijft in die taal, inclusief de bevestiging en de afsluiting.
+Taalherkenning klinkt ingewikkelder dan het is. Of een systeem automatisch een taal herkent en kan wisselen, hangt af van de gekozen stemdienst en configuratie. Test de talen die je aanbiedt, inclusief bevestiging, afsluiting en overdracht naar een medewerker.
 
 Drie dingen bepalen of dat in de praktijk goed gaat.
 
-**Je kiest de talen zelf, en houd het kort.** Nederlands en Engels dekt de meeste aanvragen. Zit je in een regio met veel Poolse of Duitse klanten, dan is dat je derde. Tien talen aanzetten klinkt indrukwekkend en levert vooral gesprekken op die je zelf niet kunt opvolgen.
+**Je kiest de talen zelf, en houdt het kort.** Nederlands en Engels dekt de meeste aanvragen. Zit je in een regio met veel Poolse of Duitse klanten, dan is dat je derde. Tien talen aanzetten klinkt indrukwekkend en levert vooral gesprekken op die je zelf niet kunt opvolgen.
 
 **Je bepaalt wat er gebeurt bij een taal die je niet hebt.** Dit is het stukje dat mensen vergeten in te stellen. De veilige route is: het systeem gaat over op het Engels, noteert het nummer en zegt eerlijk dat er iemand terugbelt. Beter een duidelijke doorverwijzing dan een gesprek dat halverwege vastloopt.
 
@@ -49,11 +49,11 @@ Waar je realistisch in moet zijn: herkenning werkt op wat er gezegd wordt, niet 
 
 Je binnenlandse intake is hier te kort. Dit zijn de vijf punten die er bij een rit over de grens bij horen, en die je dus in het gespreksscript moet zetten.
 
-1. **Het bestemmingsadres en het land, plus of dat binnen of buiten de EU ligt.** Buiten de EU betekent douanepapieren en een inventarislijst. Dat verandert je hele planning, dus die vraag hoort in het eerste gesprek en niet in mail nummer drie.
+1. **Het bestemmingsadres en het land, plus of dat binnen of buiten de EU ligt.** Controleer voor de concrete vertrek- en bestemmingslanden welke douaneformaliteiten en documenten nodig zijn. Dat verandert je hele planning, dus die vraag hoort in het eerste gesprek en niet in mail nummer drie.
 2. **Het volume, en of er opslag tussen zit.** Bij internationale verhuizingen zit er vaak weken tussen het leveren van de oude sleutel en de nieuwe. Vraag dat uit, anders staat de bus bij vertrek al ingepland en de opslag niet.
 3. **De marge op de leverdatum.** Een rit naar Denemarken is een venster, geen tijdstip. Als de klant denkt dat het een tijdstip is, wordt jouw goede rit alsnog een slechte review.
 4. **Wie er ter plaatse aanwezig is, en in welke taal.** De persoon die in Nederland belt is lang niet altijd degene die de deur opendoet op de bestemming.
-5. **Wat er niet mee mag.** Spuitbussen, planten, bepaalde vloeistoffen. Dit één keer aan de telefoon noemen scheelt een discussie op de stoep.
+5. **Welke goederen extra controle vragen.** Denk aan spuitbussen, planten of vloeistoffen. Laat een medewerker de regels van vervoerder en bestemmingsland controleren; de bot mag geen algemeen invoerverbod of toestemming verzinnen.
 
 Leg de voorkeurstaal van de klant meteen vast op zijn kaart in je [crm voor verhuisbedrijven](/crm). Dan gaat de bevestiging, de herinnering en het reviewverzoek daarna in dezelfde taal de deur uit, en hoeft niemand dat opnieuw uit te zoeken.
 
@@ -80,8 +80,8 @@ Dan valt de [ai telefoonbeantwoorder voor verhuisbedrijven](/voice-ai) terug op 
 
 ## Conclusie: de taal mag de klus niet kosten
 
-Een verhuizing naar het buitenland is een van de grootste opdrachten die je krijgt, en de meeste ervan beginnen met een telefoontje in een andere taal op een moment dat jou niet uitkomt. Een [ai voice agent voor verhuisbedrijven](/voice-ai) is daar niet voor de show, maar omdat hij die tien seconden opvangt waarin het nu misgaat.
+Een internationale verhuizing kan een omvangrijke opdracht zijn. Als een aanvraag in een andere taal binnenkomt wanneer jij niet kunt opnemen, wil je die wel goed vastleggen. Een [ai voice agent voor verhuisbedrijven](/voice-ai) is daar niet voor de show, maar omdat hij die tien seconden opvangt waarin het nu misgaat.
 
-Begin klein. Twee talen, één script, en de vijf extra vragen hierboven erin. Kijk na een maand hoeveel aanvragen er via die lijn binnenkwamen die je anders had opgehangen. Dat getal is je hele businesscase, en wat het kost staat op onze [tarieven VerhuizerAI](/tarieven).
+Begin klein. Twee talen, één script, en de vijf extra vragen hierboven erin. Meet hoeveel aanvragen via die lijn binnenkomen, hoeveel opdrachten worden en wat de afhandeling kost. Of je ze zonder die lijn zou hebben gemist, weet je pas met een vergelijking, en wat het kost staat op onze [tarieven VerhuizerAI](/tarieven).
 
 Wij regelen het instellen, het inspreken en het bijsturen zodra de eerste gesprekken binnen zijn. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug. Ahrefs is het onafhankelijke meetprogramma waarin we je zichtbaarheid volgen, zodat het geen kwestie van elkaar geloven is.
