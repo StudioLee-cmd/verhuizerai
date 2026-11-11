@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Werkt dit samen met mijn huidige software?",
-        answer: "Ja, wij koppelen met systemen zoals Moneybird, e-Boekhouden, Exact en Outlook. Zo worden facturen en afspraken direct goed gezet zonder dat jij iets hoeft over te typen.",
+        answer: "Offerteaanvragen komen direct bij je binnen, zonder overtypen. Je verhuissoftware (Softmoving, Bas of Move Solutions) blijft je planning; aanvragen zetten we er via hun eigen aanvraagkoppeling in of als export die wij inladen. Je boekhouding (Exact, SnelStart, Twinfield) blijft gekoppeld aan je verhuissoftware.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
