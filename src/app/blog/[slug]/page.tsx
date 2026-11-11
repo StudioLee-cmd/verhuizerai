@@ -122,24 +122,24 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                         {post.title}
                     </h1>
 
-                    <div className="flex items-center gap-6 text-sm text-[var(--foreground-accent)] mb-8 pb-8 border-b border-[var(--card-border)]">
+                    <div className="flex flex-wrap items-center gap-x-6 gap-y-3 text-sm text-[var(--foreground-accent)] mb-8 pb-8 border-b border-[var(--card-border)]">
                         {author && (
-                            <Link href={`/author/${author.slug}`} className="flex items-center gap-2 hover:text-[var(--secondary)] transition-colors">
+                            <Link href={`/author/${author.slug}`} className="flex shrink-0 items-center gap-2 whitespace-nowrap hover:text-[var(--secondary)] transition-colors">
                                 <Image
                                     src={author.image}
                                     alt={author.name}
                                     width={32}
                                     height={32}
-                                    className="rounded-full"
+                                    className="shrink-0 rounded-full"
                                 />
                                 <span>{author.name}</span>
                             </Link>
                         )}
-                        <div className="flex items-center gap-2">
+                        <div className="flex shrink-0 items-center gap-2 whitespace-nowrap">
                             <FiClock size={18} />
                             <span>{new Date(post.date).toLocaleDateString("nl-NL", { timeZone: "Europe/Amsterdam", year: 'numeric', month: 'long', day: 'numeric' })}</span>
                         </div>
-                        <div className="flex gap-2">
+                        <div className="flex flex-wrap gap-2">
                             {post.tags.map(tag => (
                                 <span key={tag} className="text-xs font-semibold text-[var(--secondary)] bg-[var(--secondary)]/10 px-2 py-1 rounded-full">
                                     {tag}
