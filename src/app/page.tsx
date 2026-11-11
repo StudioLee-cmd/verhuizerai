@@ -24,7 +24,11 @@ import type { Metadata } from 'next';
 
 import SiteSchema from "@/components/SiteSchema";
 
+// The home page is the page that ranks for "online marketing verhuizers" (Search Console, position 19, 45 impressions):
+// its own title and description name that query; every other page keeps the site default from siteDetails.
 export const metadata: Metadata = {
+  title: 'Online marketing voor verhuizers, draaiend opgeleverd | VerhuizerAI',
+  description: 'Je website, telefoon, afspraken en vindbaarheid: VerhuizerAI zet de online marketing van je verhuisbedrijf aan vanaf dag één en houdt hem bij.',
   alternates: { canonical: '/' },
 };
 
