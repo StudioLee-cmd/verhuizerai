@@ -76,7 +76,7 @@ De winter is niet per se stil — maar je moet er wel aan werken:
 
 Piekperiodes zijn het moment waarop je als verhuisbedrijf het meeste verdient — mits je georganiseerd bent. De sleutel is voorbereiding, automatisering en realistische planning.
 
-Met [VerhuizerAI](/) automatiseer je offertes, klantcommunicatie en opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [VerhuizerAI](/) automatiseer je offertes, klantcommunicatie en opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en bereid je voor op het volgende hoogseizoen.
 

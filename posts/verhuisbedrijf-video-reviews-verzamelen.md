@@ -102,6 +102,6 @@ ROI: voor de meeste verhuisbedrijven is het systeem binnen één maand terugverd
 
 Het mooie aan video-reviews: je kunt deze week al beginnen. Vraag je volgende vijf afgeronde verhuizingen handmatig om een video-review op dag 5. Zelfs zonder geautomatiseerd systeem haal je 1-2 reviews binnen — die direct op je website kunnen. Die eerste paar video's bewijzen het concept en geven je de visuele basis om het te schalen.
 
-Wil je weten hoe een [complete reviews-aanpak voor je verhuisbedrijf](https://www.verhuizerai.nl/reviews) eruit kan zien — inclusief tekst- én video-reviews? Plan een vrijblijvend gesprek of bekijk de [gratis website voor verhuisbedrijven](https://www.verhuizerai.nl/gratis-website) inclusief Groei-of-Geld-Terug Garantie.
+Wil je weten hoe een [complete reviews-aanpak voor je verhuisbedrijf](https://www.verhuizerai.nl/reviews) eruit kan zien — inclusief tekst- én video-reviews?
 
 Lees ook onze [andere artikelen over verhuisbedrijf-marketing en groei](https://www.verhuizerai.nl/blog) of de specifieke gids over [reviews automatisch verzamelen voor verhuisbedrijven](https://www.verhuizerai.nl/blog/reviews-verzamelen-verhuisbedrijf-automatisch).

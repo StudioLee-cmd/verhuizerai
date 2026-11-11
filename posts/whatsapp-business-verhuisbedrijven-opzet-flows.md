@@ -109,7 +109,6 @@ Bij VerhuizerAI helpen we verhuisbedrijven hun WhatsApp Business professioneel o
 - Automatische timeline-flow (14 dagen / 7 dagen / 1 dag voor verhuizing)
 - Verhuisdag-update-flow gekoppeld aan je planning-systeem
 - Een [voice ai voor verhuisbedrijven](/voice-ai) voor klanten die toch liever bellen
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor verhuisbedrijven](/gratis-scan) of bekijk onze [tarieven VerhuizerAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

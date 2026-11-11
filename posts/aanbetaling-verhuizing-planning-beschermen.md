@@ -69,4 +69,4 @@ Bij twijfelgevallen kun je een kleinere aanbetaling aanbieden (10% in plaats van
 
 Een aanbetaling is geen bureaucratische hobbel. Het is een teken van professionaliteit. Het laat klanten zien dat je je tijd serieus neemt en dat je een betrouwbaar bedrijf runt. De meeste klanten respecteren dat.
 
-Wil je weten hoe je je hele boekingsproces kunt stroomlijnen, van offerte tot verhuisdag? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je werkwijze, je online zichtbaarheid en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele boekingsproces kunt stroomlijnen, van offerte tot verhuisdag? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je werkwijze, je online zichtbaarheid en concrete verbeterpunten.

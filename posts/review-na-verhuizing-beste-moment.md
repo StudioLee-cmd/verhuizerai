@@ -53,4 +53,4 @@ Reageer ook op elke review. Een kort "Bedankt, fijn dat de verhuizing goed is ve
 
 De volgende keer dat je een verhuizing succesvol afrondt: stuur om 20:00 het bericht. Het kost je 30 seconden en het effect stapelt maand na maand.
 
-Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan.

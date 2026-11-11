@@ -77,7 +77,7 @@ Wat je de makelaar vooral levert, is zekerheid. Zijn klant wordt binnen een dag 
 
 Kies twee makelaars waar je al eens mee geschakeld hebt en stel de flow voor. Zet de intake-links live, laat de opvolging en de maandelijkse terugkoppeling automatisch lopen en meet één kwartaal. Daarna weet je precies wat een verwijzing waard is en welk kantoor je erbij wilt hebben.
 
-De techniek hoeft geen project van maanden te zijn: een [crm systeem voor verhuisbedrijven](/crm) met de juiste flows staat met VerhuizerAI in dagen, met onze Groei-of-Geld-Terug Garantie als zekerheid. Jij verhuist, wij regelen de rest.
+Jij verhuist, wij regelen de rest.
 
 ## Conclusie: de makelaar kent je volgende klant al
 

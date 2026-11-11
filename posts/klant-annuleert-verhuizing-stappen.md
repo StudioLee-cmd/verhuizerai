@@ -66,4 +66,4 @@ Elke annulering is een les. Drie aanpassingen die het aantal annuleringen struct
 
 Je kunt niet elke annulering voorkomen. Maar je kunt wel zorgen dat ze je bedrijf niet ontwrichten. Met duidelijke voorwaarden, een aanbetaling en een plan B voor lege dagen beperk je de schade tot een minimum.
 
-Wil je weten hoe je je hele proces van offerte tot verhuisdag kunt stroomlijnen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je werkwijze en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele proces van offerte tot verhuisdag kunt stroomlijnen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je werkwijze en concrete verbeterpunten.

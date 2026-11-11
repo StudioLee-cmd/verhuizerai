@@ -124,4 +124,4 @@ Dan batch je je content op een rustige dag of besteed je het uit. Een paar uur p
 
 De reden dat verhuisbedrijven onzichtbaar blijven op social media is bijna nooit gebrek aan materiaal, maar gebrek aan een plan. Dat plan heb je nu. Sla deze kalender op, maak op je eerstvolgende klus een voor-en-na-foto en zet hem vanavond online met je locatie-tag. Dat is dag 1.
 
-Wil je weten waar voor jouw verhuisbedrijf de meeste winst zit in social media, vindbaarheid en reviews? Doe dan de vrijblijvende [gratis scan](/gratis-scan). We laten precies zien wat er beter kan, met onze Groei-of-Geld-Terug Garantie. Meer opdrachten, minder handmatig werk.
+Wil je weten waar voor jouw verhuisbedrijf de meeste winst zit in social media, vindbaarheid en reviews? Doe dan de vrijblijvende [gratis scan](/gratis-scan). Meer opdrachten, minder handmatig werk.

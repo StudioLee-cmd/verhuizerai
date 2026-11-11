@@ -63,4 +63,4 @@ Eenmaal ingesteld, loopt het voor elke klant. Je hoeft alleen nog te reageren al
 
 De verhuizers die het beste scoren op Google hebben niet per se de mooiste trucks of de laagste prijzen. Ze hebben de beste nazorg. Elke klant die een opvolgbericht krijgt, voelt zich gewaardeerd. En gewaardeerde klanten zijn de beste ambassadeurs die je kunt hebben.
 
-Wil je weten hoe jouw verhuisbedrijf sterker kan staan online? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw verhuisbedrijf sterker kan staan online? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

@@ -111,4 +111,4 @@ Eén schakel heb je vaak binnen een week live. Een volledige flow bouw je rustig
 
 Je verliest klanten zelden door een slechte verhuizing. Je verliest ze in de stilte tussen de stappen: de offerte die geen opvolging krijgt, de klant die wekenlang niets hoort, de review die nooit gevraagd wordt. Een [chatbot voor verhuisbedrijven](/chatbot) die via WhatsApp het hele traject meeloopt, verandert die stiltes in vanzelfsprekende contactmomenten.
 
-Jij verhuist, wij regelen de rest. Wil je zien waar jouw flow nu lekt? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan, dan zie je zwart op wit welke overdrachten je klanten kosten en wat één doorlopende flow je oplevert. En alles wat we bij VerhuizerAI bouwen valt onder onze Groei-of-Geld-Terug Garantie, dus de enige die risico loopt zijn wij.
+Jij verhuist, wij regelen de rest. Wil je zien waar jouw flow nu lekt? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan, dan zie je zwart op wit welke overdrachten je klanten kosten en wat één doorlopende flow je oplevert.

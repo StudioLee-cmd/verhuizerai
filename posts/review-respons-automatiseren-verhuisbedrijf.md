@@ -68,6 +68,6 @@ Zo wordt reageren op reviews geen avondkarwei meer, maar iets dat gewoon gebeurt
 
 Begin klein. Stel één keer je toon in, spreek af dat elke review binnen een uur een reactie krijgt, en laat de AI de eerste versie schrijven. Het grootste lek (verse reviews die wekenlang onbeantwoord blijven) dicht je daarmee meteen.
 
-Wij richten die review-opvolging volledig voor je in, getraind op jouw verhuisbedrijf en jouw manier van werken, met onze Groei-of-Geld-Terug Garantie. Benieuwd hoeveel reviews jij nu laat liggen en hoe je online reputatie ervoor staat? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan en je weet binnen een dag waar de winst zit. Jij verhuist, wij regelen de rest.
+Benieuwd hoeveel reviews jij nu laat liggen en hoe je online reputatie ervoor staat? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan en je weet binnen een dag waar de winst zit. Jij verhuist, wij regelen de rest.
 
 <div class="lees-ook" style="background-color: rgba(37, 99, 235, 0.10); border-radius: 12px; padding: 16px 20px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/review-hardware-verhuisbus-nfc-qr-display">Review-hardware in de verhuisbus: NFC, QR of display?</a> &rarr;</div>

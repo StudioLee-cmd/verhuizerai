@@ -57,7 +57,7 @@ Dat je dit moment goed timet, maakt echt uit. In [reviews na een verhuizing op h
 
 ## Aan de slag: van tevreden klant naar zichtbare review
 
-Begin klein. Kies één instrument dat past bij hoe jouw verhuisdag eindigt, en voeg pas daarna het vangnet toe. Wil je eerst weten waar je nu reviews laat liggen, vraag dan een [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan. VerhuizerAI laat zien hoeveel reviews je met je huidige aanpak mist en welke hardware bij jouw situatie past, inclusief onze Groei-of-Geld-Terug Garantie: levert het geen extra reviews op, dan krijg je je investering terug.
+Begin klein. Kies één instrument dat past bij hoe jouw verhuisdag eindigt, en voeg pas daarna het vangnet toe. Wil je eerst weten waar je nu reviews laat liggen, vraag dan een [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan.
 
 Jij verhuist, wij regelen de rest, ook die vijfsterrenreview die anders de oprit af was gelopen.
 

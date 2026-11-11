@@ -84,7 +84,6 @@ Bij VerhuizerAI zetten we deze mailflow voor je op, gekoppeld aan je planning en
 - De complete 4-mail flow na de verhuizing, geschreven in jouw toon en gekoppeld aan je [crm voor verhuisbedrijven](/crm)
 - Een [reviews automatisch verzamelen als verhuisbedrijf](/reviews)-flow die meeloopt in mail 2
 - Segmentatie tussen particuliere en zakelijke klanten, zodat het aanbod altijd klopt
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 Benieuwd wat blijft liggen in jouw bedrijf? Doe de [gratis ai scan voor verhuisbedrijven](/gratis-scan) of [plan een gesprek met Tim](https://cal.com/studiolee). Jij verhuist, wij regelen de rest.
 

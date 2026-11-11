@@ -80,6 +80,6 @@ Reken ook op wat het niet doet. Een AI-telefonist gaat geen lastige klant kalmer
 
 Begin bij de jargonlijst. Niet bij het script, niet bij de techniek, en niet bij het vergelijken van aanbieders. Ga een uur zitten met vijf oude offertes en schrijf op welke woorden erin staan die een buitenstaander niet zou snappen. Dat lijstje is negentig procent van het verschil tussen een AI die je vertrouwt en een die je elke ochtend nacontroleert.
 
-Bij VerhuizerAI zetten we die intake volledig voor je op, inclusief de vaktermenlijst en de grenzen van wat het systeem wel en niet zelf mag afhandelen, met onze Groei-of-Geld-Terug Garantie. Benieuwd hoeveel aanvragen je nu daadwerkelijk misloopt buiten kantooruren? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan, dan zie je binnen een dag waar het weglekt. Jij verhuist, wij regelen de rest.
+Benieuwd hoeveel aanvragen je nu daadwerkelijk misloopt buiten kantooruren? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan, dan zie je binnen een dag waar het weglekt. Jij verhuist, wij regelen de rest.
 
 <div class="lees-ook" style="background-color: rgba(37, 99, 235, 0.10); border-radius: 12px; padding: 16px 20px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/spoedtarief-automatiseren-verhuisbedrijf">Spoedtarief automatiseren als verhuisbedrijf: AI legt uit</a> →</div>

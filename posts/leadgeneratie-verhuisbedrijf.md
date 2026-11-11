@@ -83,8 +83,6 @@ De rustige periodes (november-februari) kun je vullen met:
 
 Bij StudioLee nemen we de complete online marketingaanpak over. Van [reputatiemanagement](/blog/online-reputatie-verhuisbedrijf) tot content die boekingen oplevert. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek welke kanalen voor jou het best werken.
 
 ## Conclusie
