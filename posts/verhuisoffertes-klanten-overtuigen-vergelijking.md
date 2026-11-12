@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisoffertes-klanten-overtuigen-vergelijking.jpg"
-tags: ["Lead opvolging", "Verhuizer", "Offertes"]
+tags: ["Leadopvolging", "Offertes"]
 ---
 ## Drie offertes: dat is je concurrentie
 

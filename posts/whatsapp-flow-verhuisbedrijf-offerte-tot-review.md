@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Een scherpe offerte wint de klant, de stilte erna kost je de review. Zo verbind je je losse appjes tot een WhatsApp-flow van offerte tot review."
 image: "/images/blog/whatsapp-flow-verhuisbedrijf-offerte-tot-review.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["WhatsApp", "Chatbot", "Klantcommunicatie"]
+tags: ["WhatsApp", "Chatbot"]
 cluster: "chatbot"
 ---
 

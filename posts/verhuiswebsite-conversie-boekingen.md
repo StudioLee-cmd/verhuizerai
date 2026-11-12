@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als verhuisbedrijf je website omzet in een boekingsmachine
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuiswebsite-conversie-boekingen.png"
-tags: ["Website", "Conversie", "Online boeken"]
+tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 

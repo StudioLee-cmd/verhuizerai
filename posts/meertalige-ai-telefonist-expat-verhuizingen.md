@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "Een Engelstalige aanvraag voor een verhuizing naar het buitenland hoeft geen gemiste klus te zijn. Zo vangt een meertalige AI-telefonist die op."
 image: "/images/blog/meertalige-ai-telefonist-expat-verhuizingen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Intake", "Meertalig"]
+tags: ["Voice AI", "Intake", "AI"]
 cluster: "voice-ai"
 ---
 

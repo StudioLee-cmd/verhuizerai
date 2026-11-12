@@ -5,7 +5,7 @@ date: "2026-07-31"
 excerpt: "Binnen jouw straal verhuist bijna niemand deze maand. Zo zet je een klein advertentiebudget in op het moment dat het wel zo is."
 image: "/images/blog/facebook-advertenties-verhuisbedrijf-klein-budget.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Advertenties", "Lokale marketing"]
+tags: ["Social Media", "Lokaal"]
 cluster: "social-media"
 ---
 

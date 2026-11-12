@@ -5,7 +5,7 @@ excerpt: "De eerste verhuizer die reageert, krijgt de klus. Zo digitaliseer je j
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offerte-proces-verhuisbedrijf-verbeteren.png"
-tags: ["Verhuisbedrijf", "Offertes", "Conversie"]
+tags: ["Offertes", "Conversie"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Verhuisbedrijven verliezen offertes als de telefoon op voicemail gaat. Een voice AI vangt aanvragen wel op. Vergelijking, kosten en stappenplan."
 image: "/images/blog/voice-ai-vs-voicemail-verhuisbedrijf-opdrachten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Offerte"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

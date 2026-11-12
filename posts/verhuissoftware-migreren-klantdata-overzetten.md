@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "Overstappen van verhuissoftware zonder klantdata te verliezen: welke data mee moet, het stappenplan van proefexport tot big bang en 3 valkuilen."
 image: "/images/blog/verhuissoftware-migreren-klantdata-overzetten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Verhuissoftware", "CRM", "Automatisering"]
+tags: ["CRM", "Automatisering"]
 cluster: "automatisering"
 ---
 

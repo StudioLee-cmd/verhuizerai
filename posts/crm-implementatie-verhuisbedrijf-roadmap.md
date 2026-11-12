@@ -5,7 +5,7 @@ date: "2026-06-28"
 excerpt: "Een CRM invoeren zonder dat je planning stilvalt? Met dit stappenplan staat je systeem in vijf werkdagen live, van klantdata tot ingewerkte ploeg."
 image: "/images/blog/crm-implementatie-verhuisbedrijf-roadmap.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Implementatie", "Automatisering", "Verhuisbedrijf"]
+tags: ["CRM", "Automatisering"]
 cluster: "automatisering"
 ---
 

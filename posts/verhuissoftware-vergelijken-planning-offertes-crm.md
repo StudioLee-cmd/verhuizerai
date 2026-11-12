@@ -5,7 +5,7 @@ date: "2026-05-18"
 excerpt: "Welke software werkt voor verhuisbedrijven? Eerlijke vergelijking van planning, offerte-modules en CRM voor de Nederlandse markt in 2026."
 image: "/images/blog/verhuissoftware-vergelijken-planning-offertes-crm.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Software-vergelijking", "CRM", "Planning", "Offertes", "Verhuisbedrijf"]
+tags: ["Vergelijking", "CRM", "Planning"]
 cluster: "automatisering"
 ---
 

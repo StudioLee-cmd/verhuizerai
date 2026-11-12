@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-verhuizing-klant-behouden.jpg"
-tags: ["Nazorg", "Klantrelatie", "Verhuizer Tips"]
+tags: ["Nazorg", "Klantrelatie"]
 ---
 ## Na de verhuizing begint het echte werk
 

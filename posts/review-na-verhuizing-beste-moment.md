@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-na-verhuizing-beste-moment.jpg"
-tags: ["Reviews", "Klanttevredenheid", "Groei"]
+tags: ["Reviews", "Klanttevredenheid"]
 ---
 ## Verhuisklanten schrijven de beste reviews
 

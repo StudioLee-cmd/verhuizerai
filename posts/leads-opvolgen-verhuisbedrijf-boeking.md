@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-verhuisbedrijf-boeking.jpg"
-tags: ["Leads", "Opvolging", "Verhuisbedrijf"]
+tags: ["Leads", "Leadopvolging"]
 ---
 ## Waarom verhuisbedrijven leads verliezen
 

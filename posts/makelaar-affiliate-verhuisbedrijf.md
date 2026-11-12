@@ -5,7 +5,7 @@ date: "2026-07-10"
 excerpt: "Makelaars verwijzen dagelijks mensen die gaan verhuizen. Met een affiliate-flow en een gedeelde intake-link maak je daar een vaste leadstroom van."
 image: "/images/blog/makelaar-affiliate-verhuisbedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Leadgeneratie", "Makelaars"]
+tags: ["Automatisering", "Leads"]
 cluster: "automatisering"
 ---
 

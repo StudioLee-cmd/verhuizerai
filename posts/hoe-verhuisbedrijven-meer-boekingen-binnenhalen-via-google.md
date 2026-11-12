@@ -4,7 +4,7 @@ excerpt: "Mensen die gaan verhuizen, zoeken online naar een betrouwbaar verhuisb
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-verhuisbedrijven-meer-boekingen-binnenhalen-via-google.png"
-tags: ["Vindbaarheid", "Google", "Boekingen", "Verhuizen"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 ## Verhuizen begint online — en jij moet daar zijn

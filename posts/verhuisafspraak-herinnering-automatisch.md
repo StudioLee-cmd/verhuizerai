@@ -5,7 +5,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisafspraak-herinnering-automatisch.jpg"
-tags: ["Herinneringen", "Verhuizen", "Planning"]
+tags: ["Planning", "Automatisering"]
 ---
 ## De klant die niet klaar was
 

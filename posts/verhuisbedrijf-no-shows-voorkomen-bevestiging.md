@@ -6,7 +6,7 @@ date: "2026-04-08"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-no-shows-voorkomen-bevestiging.jpg"
-tags: ["No-shows", "Verhuisbedrijf", "Klantcommunicatie"]
+tags: ["No-shows"]
 ---
 ## Wat een no-show jou echt kost
 

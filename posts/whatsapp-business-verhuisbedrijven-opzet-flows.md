@@ -5,7 +5,7 @@ date: "2026-05-17"
 excerpt: "WhatsApp Business voor verhuisbedrijven: 5 essentiele flows, broadcast-setup, spoed-protocol en tools voor 2026. Minder telefoon, meer geboekte verhuizingen."
 image: "/images/blog/whatsapp-business-verhuisbedrijven-opzet-flows.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantcommunicatie", "WhatsApp", "Automatisering", "Verhuisbedrijf"]
+tags: ["Klantcommunicatie"]
 cluster: "automatisering"
 ---
 

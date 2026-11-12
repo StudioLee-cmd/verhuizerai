@@ -5,7 +5,7 @@ excerpt: "Google is niet het enige kanaal voor nieuwe boekingen. Ontdek welke le
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-verhuisbedrijf.png"
-tags: ["leadgeneratie", "verhuisbedrijf", "klanten werven"]
+tags: ["Leads", "Automatisering"]
 cluster: "automatisering"
 ---
 

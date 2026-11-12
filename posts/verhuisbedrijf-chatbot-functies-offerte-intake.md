@@ -5,7 +5,7 @@ date: "2026-07-14"
 excerpt: "Een chatbot die alleen belooft dat je contact opneemt, levert niets op. Dit zijn de functies die een verhuisbedrijf-chatbot echt nodig heeft."
 image: "/images/blog/verhuisbedrijf-chatbot-functies-offerte-intake.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Offerte-intake", "Verhuisbedrijf"]
+tags: ["Chatbot", "Offertes"]
 cluster: "chatbot"
 ---
 

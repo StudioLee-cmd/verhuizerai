@@ -5,7 +5,7 @@ date: "2026-04-22"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-meten-verhuisbedrijf-nps-score.jpg"
-tags: ["Verhuisbedrijf", "Klanttevredenheid", "NPS", "Retentie"]
+tags: ["Klanttevredenheid"]
 ---
 De meeste verhuisbedrijven weten aan het eind van een verhuizing niet of de klant echt tevreden was. Ze zien een vriendelijke zwaai, krijgen de factuur betaald en gaan door naar de volgende opdracht. Of de klant twee maanden later alsnog een negatieve Google-review plaatst of juist iemand anders naar jou doorverwijst, is een open vraag. En die open vraag kost gemiddeld een verhuisbedrijf tussen de 15 en 30 procent potentiële doorverwijsomzet per jaar.
 

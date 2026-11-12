@@ -5,7 +5,7 @@ date: "2026-05-16"
 excerpt: "Een CRM voor verhuisbedrijven elimineert Excel-chaos en versnelt offerte-tot-boeking met 35 procent. Welk systeem past en wat kost setup in 2026."
 image: "/images/blog/crm-voor-verhuisbedrijven-alle-klantdata.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Klantbeheer", "Software", "Verhuisbedrijf", "Admin"]
+tags: ["CRM", "Klantrelatie", "Software"]
 cluster: "automatisering"
 ---
 

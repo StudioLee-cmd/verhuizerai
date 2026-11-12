@@ -5,7 +5,7 @@ excerpt: "In een markt vol verhuisbedrijven win je op herkenbaarheid. Leer hoe j
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-verhuisbedrijf.png"
-tags: ["branding", "verhuisbedrijf", "marketing"]
+tags: ["Branding", "Marketing"]
 cluster: "branding"
 ---
 

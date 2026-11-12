@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-automatiseren.jpg"
-tags: ["Automatisering", "Verhuisbedrijf", "Efficiëntie"]
+tags: ["Automatisering"]
 ---
 ## Van de eerste aanvraag tot de laatste doos
 

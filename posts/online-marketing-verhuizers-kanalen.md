@@ -5,7 +5,7 @@ date: "2026-07-16"
 excerpt: "Welke online marketing kanalen leveren als verhuisbedrijf echt verhuisklussen op? SEO, Google Ads, leadsites en social vergeleken, plus budgettips."
 image: "/images/blog/online-marketing-verhuizers-kanalen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Online marketing", "Vindbaarheid", "Leads", "Verhuisbedrijf"]
+tags: ["Vindbaarheid", "Leads"]
 cluster: "vindbaarheid"
 ---
 

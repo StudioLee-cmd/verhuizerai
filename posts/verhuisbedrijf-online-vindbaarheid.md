@@ -6,7 +6,7 @@ date: "2026-04-06"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-online-vindbaarheid.jpg"
-tags: ["SEO", "Verhuisbedrijf", "Marketing"]
+tags: ["Vindbaarheid", "Marketing"]
 ---
 ## 90 procent begint bij Google
 

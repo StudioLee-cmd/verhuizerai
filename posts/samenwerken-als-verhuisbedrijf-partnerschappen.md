@@ -5,7 +5,7 @@ excerpt: "Strategische samenwerkingen met makelaars, schoonmaakbedrijven en opsl
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-verhuisbedrijf-partnerschappen.png"
-tags: ["samenwerkingen", "verhuisbedrijf", "groei"]
+tags: ["Groei", "Branding"]
 cluster: "branding"
 ---
 

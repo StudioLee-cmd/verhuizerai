@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "TikTok is goud voor een verhuisbedrijf, maar alleen als je kijkers omzet in boekingen. Ontdek welke formats werken en hoe je van views echte opdrachten maakt."
 image: "/images/blog/tiktok-voor-verhuisbedrijven.jpg"
 authorSlug: tim-van-der-lee
-tags: ["Social media", "TikTok", "Marketing", "Verhuisbedrijf"]
+tags: ["Social Media", "Marketing"]
 cluster: social-media
 ---
 

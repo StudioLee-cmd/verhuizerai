@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "Een AI-telefonist die kuub, etage en opgang niet verstaat noteert je aanvraag fout. Dit lever je aan, en zo krijg je het vakjargon eroverheen."
 image: "/images/blog/voice-ai-trainen-verhuisbedrijf-hoeveel-data.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Intake", "Automatisering"]
+tags: ["Voice AI", "Intake"]
 cluster: "voice-ai"
 ---
 

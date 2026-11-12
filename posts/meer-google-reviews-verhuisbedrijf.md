@@ -5,7 +5,7 @@ excerpt: "Google reviews zijn goud waard voor verhuisbedrijven. Ontdek hoe je au
 date: "2026-03-08"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-google-reviews-verhuisbedrijf.png"
-tags: ["Reviews", "Google", "Automatisering"]
+tags: ["Reviews", "Google"]
 cluster: "reviews"
 ---
 ## Waarom Google reviews cruciaal zijn voor verhuisbedrijven

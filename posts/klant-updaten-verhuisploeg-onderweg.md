@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "De verhuisploeg is onderweg, maar de klant hoort niks en belt: waar blijven jullie? Zo stuur je dat we-komen-eraan-bericht volledig automatisch."
 image: "/images/blog/klant-updaten-verhuisploeg-onderweg.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Klantcommunicatie", "Planning", "Verhuisbedrijf"]
+tags: ["Automatisering", "Planning"]
 cluster: "automatisering"
 ---
 

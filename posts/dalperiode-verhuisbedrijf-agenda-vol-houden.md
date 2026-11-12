@@ -5,7 +5,7 @@ date: "2026-04-16"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dalperiode-verhuisbedrijf-agenda-vol-houden.jpg"
-tags: ["Verhuizen", "Seizoen", "Bedrijfsvoering"]
+tags: ["Automatisering"]
 ---
 ## De dalperiode is geen stilstand, het is een kans
 

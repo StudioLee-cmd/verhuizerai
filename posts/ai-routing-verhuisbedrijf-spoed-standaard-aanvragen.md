@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "Een spoedaanvraag voor een weekendverhuizing verdrinkt in de gewone offertestroom. Zo laat je AI-routing spoed en standaard automatisch uit elkaar halen."
 image: "/images/blog/ai-routing-verhuisbedrijf-spoed-standaard-aanvragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Leadopvolging"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

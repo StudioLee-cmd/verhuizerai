@@ -4,7 +4,7 @@ excerpt: "Zet particuliere verhuizing, kantoorverhuizing, internationaal en opsl
 date: "2026-05-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-diensten-verhuisbedrijf.jpg"
-tags: ["Google", "Vindbaarheid", "Marketing", "Verhuisbedrijf"]
+tags: ["Google", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 ## In het kort

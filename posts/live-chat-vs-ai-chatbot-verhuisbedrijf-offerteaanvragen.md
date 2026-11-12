@@ -5,7 +5,7 @@ date: "2026-07-03"
 excerpt: "Offerteaanvragen komen binnen terwijl jouw ploeg staat te tillen. Live chat of een AI chatbot op je website: dit past bij een verhuisbedrijf."
 image: "/images/blog/live-chat-vs-ai-chatbot-verhuisbedrijf-offerteaanvragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Live chat", "Offerteaanvragen"]
+tags: ["Chatbot", "Website", "AI"]
 cluster: "chatbot"
 ---
 

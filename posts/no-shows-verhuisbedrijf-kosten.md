@@ -6,7 +6,7 @@ date: "2026-04-17"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verhuisbedrijf-kosten.jpg"
-tags: ["No-shows", "Omzet", "Planning"]
+tags: ["No-shows", "Planning"]
 ---
 ## De verhuiswagen staat klaar maar de klant niet
 

@@ -5,7 +5,7 @@ date: "2026-11-12"
 excerpt: "Wie vraagt de review bij een verhuisbedrijf: de ploeg of kantoor? Zo verdeel je het verzoek, en zo houd je het vol met een ploeg die elke week wisselt."
 image: "/images/blog/wie-vraagt-de-review-verhuisbedrijf-ploeg-of-kantoor.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Verhuizers", "Ploeg"]
+tags: ["Reviews"]
 cluster: "reviews"
 ---
 

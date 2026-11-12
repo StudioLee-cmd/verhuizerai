@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-verhuisbedrijf-automatisch.jpg"
-tags: ["Reviews", "Verhuisbedrijf", "Automatisering"]
+tags: ["Reviews", "Automatisering"]
 ---
 ## Vertrouwen is alles in de verhuisbranche
 

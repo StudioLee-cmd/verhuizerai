@@ -5,7 +5,7 @@ excerpt: "Klanten vergelijken verhuisbedrijven op prijs. Leer hoe je als verhuiz
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisprijzen-website-transparantie.png"
-tags: ["prijzen communiceren", "verhuisbedrijf", "website"]
+tags: ["Prijzen", "Website"]
 cluster: "website"
 ---
 

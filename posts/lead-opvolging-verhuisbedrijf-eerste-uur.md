@@ -4,7 +4,7 @@ excerpt: "Waarom het eerste uur na een verhuisaanvraag bepaalt of de klant bij j
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-verhuisbedrijf-eerste-uur.jpg"
-tags: ["Lead-opvolging", "Verhuisbedrijf", "Conversie"]
+tags: ["Leadopvolging", "Conversie"]
 cluster: "automatisering"
 ---
 ## In het kort

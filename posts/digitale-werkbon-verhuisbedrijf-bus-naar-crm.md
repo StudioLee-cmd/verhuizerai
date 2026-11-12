@@ -5,7 +5,7 @@ date: "2026-07-24"
 excerpt: "Wat je ploeg na de klus vastlegt bepaalt je factuur. Zo ziet een werkbon voor een verhuizing eruit en hoe die dezelfde dag in je systeem komt."
 image: "/images/blog/digitale-werkbon-verhuisbedrijf-bus-naar-crm.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Administratie", "CRM"]
+tags: ["Automatisering", "CRM"]
 cluster: "automatisering"
 ---
 

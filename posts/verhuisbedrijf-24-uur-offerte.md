@@ -4,7 +4,7 @@ excerpt: "Klanten vragen 3 tot 5 verhuisoffertes aan en kiezen de snelste bruikb
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-24-uur-offerte.jpg"
-tags: ["Offertes", "Snelheid", "Verhuisbedrijf"]
+tags: ["Offertes", "Automatisering"]
 cluster: "automatisering"
 ---
 

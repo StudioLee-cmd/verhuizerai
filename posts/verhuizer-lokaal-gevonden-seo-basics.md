@@ -5,7 +5,7 @@ excerpt: "Verhuizers concurreren in een winner-takes-most-markt. Deze 5 SEO-basi
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuizer-lokaal-gevonden-seo-basics.jpg"
-tags: ["SEO", "Local", "Verhuizer"]
+tags: ["Vindbaarheid", "Lokaal"]
 cluster: "vindbaarheid"
 ---
 "Verhuizer Utrecht". "Verhuisbedrijf Amsterdam-West". Deze zoekopdrachten gaan bijna allemaal naar de top-3 in Google Maps. Sta je op pagina 2 of lager? Dan krijg je minder dan 2 procent van de klikken en dus bijna geen leads uit Google. Voor verhuizers die vooral particuliere klussen draaien, is dat de snelste weg naar een lege agenda.

@@ -4,7 +4,7 @@ excerpt: "Hoe AI verhuisbedrijven helpt bij aanvraagverwerking, routeplanning en
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-verhuisbedrijven-meer-boekingen-minder-noshows.png"
-tags: ["AI", "Automatisering", "Verhuizers"]
+tags: ["AI", "Automatisering"]
 cluster: "automatisering"
 ---
 

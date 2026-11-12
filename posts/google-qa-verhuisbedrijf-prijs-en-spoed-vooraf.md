@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "De Q en A op je Google Bedrijfsprofiel bestaat niet meer. Waar je antwoorden over prijs, volume en spoed nu moeten staan om de aanvraag binnen te halen."
 image: "/images/blog/google-qa-verhuisbedrijf-prijs-en-spoed-vooraf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Google Bedrijfsprofiel", "Offertes"]
+tags: ["Vindbaarheid", "Offertes"]
 cluster: "vindbaarheid"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-06-07"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/route-optimalisatie-verhuisbedrijf-lege-ritten.jpg"
-tags: ["Automatisering", "Ritplanning", "Verhuisbedrijf", "Efficiëntie"]
+tags: ["Automatisering", "Planning"]
 ---
 
 ## In het kort

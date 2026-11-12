@@ -4,7 +4,7 @@ excerpt: "ChatGPT kan verhuisbedrijven helpen met teksten en communicatie, maar 
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-verhuisbedrijf.png"
-tags: ["Tools", "ChatGPT", "Verhuizers"]
+tags: ["ChatGPT", "Automatisering"]
 cluster: "automatisering"
 ---
 ChatGPT is de populairste AI-tool ter wereld. Miljoenen mensen gebruiken het voor teksten, antwoorden en zelfs afbeeldingen. Maar kan het je verhuisbedrijf écht laten groeien? In dit artikel leggen we uit wat ChatGPT is, hoe je het slim inzet als verhuizer, en waarom een gespecialiseerd managed platform als VerhuizerAI structureel meer oplevert.

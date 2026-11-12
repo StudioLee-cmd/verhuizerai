@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als verhuisbedrijf tevreden klanten omzet in actieve doo
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mond-verhuisbedrijf.png"
-tags: ["Mond-tot-mond", "Marketing", "Groei"]
+tags: ["Marketing", "Groei", "Branding"]
 cluster: "branding"
 ---
 

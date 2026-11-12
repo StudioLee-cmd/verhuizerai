@@ -4,7 +4,7 @@ excerpt: "Zo wordt jouw verhuisbedrijf genoemd door ChatGPT, Perplexity en Googl
 date: "2026-04-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-vindbaar-chatgpt-ai-search.jpg"
-tags: ["SEO", "AI Search", "ChatGPT", "Verhuisbedrijf"]
+tags: ["Vindbaarheid", "ChatGPT", "AI"]
 cluster: "vindbaarheid"
 ---
 

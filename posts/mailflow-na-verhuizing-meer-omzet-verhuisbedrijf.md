@@ -5,7 +5,7 @@ date: "2026-06-30"
 excerpt: "De meeste verhuisbedrijven sturen één factuur en horen nooit meer iets. Met deze 4-mail flow na de verhuizing haal je herhaalomzet en cross-sell binnen."
 image: "/images/blog/mailflow-na-verhuizing-meer-omzet-verhuisbedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["E-mail", "Automatisering", "Klantbehoud", "Cross-sell", "Verhuisbedrijf"]
+tags: ["E-mail", "Automatisering"]
 cluster: "automatisering"
 ---
 

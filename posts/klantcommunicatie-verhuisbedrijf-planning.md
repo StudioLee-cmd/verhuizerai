@@ -7,7 +7,7 @@ excerpt: "Een verhuizing is stressvol. Goede communicatie neemt onzekerheid weg 
 image: "/images/blog/klantcommunicatie-verhuisbedrijf-planning.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["klantcommunicatie", "verhuisbedrijf", "planning"]
+tags: ["Klantcommunicatie"]
 cluster: "automatisering"
 ---
 

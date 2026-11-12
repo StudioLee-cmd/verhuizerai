@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/blog-schrijven-verhuisbedrijf-seo-content.jpg"
-tags: ["Vindbaarheid", "Verhuizer", "SEO"]
+tags: ["Vindbaarheid"]
 ---
 ## Waarom een blog als verhuisbedrijf
 
