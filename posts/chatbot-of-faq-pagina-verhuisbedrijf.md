@@ -5,7 +5,7 @@ date: "2026-07-27"
 excerpt: "Een chatbot vervangt je FAQ-pagina niet. Zo verdeel je de vragen van je verhuisklanten over allebei, zodat je meer offerteaanvragen overhoudt."
 image: "/images/blog/chatbot-of-faq-pagina-verhuisbedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Website"]
+tags: ["Website", "Leadopvolging"]
 cluster: "chatbot"
 ---
 

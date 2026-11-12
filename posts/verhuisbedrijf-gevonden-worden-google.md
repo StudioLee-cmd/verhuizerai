@@ -5,7 +5,7 @@ date: "2026-04-19"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-gevonden-worden-google.jpg"
-tags: ["Vindbaarheid", "Google", "Groei"]
+tags: ["Vindbaarheid", "Google"]
 ---
 ## Klanten zoeken, maar vinden ze jou?
 

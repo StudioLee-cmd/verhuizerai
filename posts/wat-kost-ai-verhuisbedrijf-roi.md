@@ -5,7 +5,7 @@ date: "2026-05-31"
 excerpt: "Wat kost AI voor een verhuisbedrijf echt? Concrete prijsbanden per module, een ROI-rekensom in 4 stappen en het break-even moment voor 2-8 chauffeurs."
 image: "/images/blog/wat-kost-ai-verhuisbedrijf-roi.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "AI"]
+tags: ["ROI", "AI-automatisering"]
 cluster: "automatisering"
 ---
 

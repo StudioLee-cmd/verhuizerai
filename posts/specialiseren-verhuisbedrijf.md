@@ -5,7 +5,7 @@ excerpt: "Niet elk verhuisbedrijf hoeft alles te doen. Ontdek hoe specialisatie 
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-verhuisbedrijf.png"
-tags: ["Groei", "Branding"]
+tags: ["Specialisatie"]
 cluster: "branding"
 ---
 

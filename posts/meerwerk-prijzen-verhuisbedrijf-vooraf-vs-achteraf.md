@@ -5,7 +5,7 @@ date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meerwerk-prijzen-verhuisbedrijf-vooraf-vs-achteraf.jpg"
-tags: ["Prijzen", "Klantcommunicatie"]
+tags: ["Prijzen", "Meerwerk"]
 ---
 Een Nederlandse verhuiseigenaar weet uit eigen ervaring: de offerte was €1.200, de eindfactuur is €1.580, en de klant belt diezelfde avond met "ik dacht dat het een vaste prijs was". Wie heeft gelijk? Allebei half. De verhuizer leverde extra dozen, drie steile trappen die niet stonden in de offerte, een parkeerontheffing buiten 50 meter en een uur uitloop omdat de klant op het laatste moment de wasmachine ook nog mee wilde. De klant zag een totaalprijs en ging er vanuit dat alles inbegrepen was. Iedereen voelt zich tekortgedaan, en het kost je een review of een vervolgklus.
 

@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als verhuisbedrijf via nazorg meer reviews en doorverwijzi
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-verhuisbedrijf-tevreden-klanten.jpg"
-tags: ["Nazorg", "Klantrelatie", "Groei"]
+tags: ["Nazorg", "Klantrelatie"]
 cluster: "automatisering"
 ---
 ## Waarom nazorg loont voor verhuisbedrijven

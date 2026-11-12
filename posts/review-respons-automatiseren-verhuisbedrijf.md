@@ -5,7 +5,7 @@ date: "2026-07-15"
 excerpt: "Na een zware verhuizing komen er twee reviews binnen: een goede en een kritische. Zo laat je AI ze allebei binnen een uur netjes beantwoorden."
 image: "/images/blog/review-respons-automatiseren-verhuisbedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Reputatie", "AI"]
+tags: ["Reviews", "Reputatie"]
 cluster: "reviews"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "Vijf Reels-formats die voor verhuisbedrijven altijd werken: laden-timelapse, voor-en-na, takel-actie, klant-uitleg en team-portret. Met hooks."
 image: "/images/blog/instagram-reels-verhuisbedrijf-5-formats.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Instagram", "Social Media"]
+tags: ["Instagram", "Reels"]
 cluster: "social-media"
 ---
 

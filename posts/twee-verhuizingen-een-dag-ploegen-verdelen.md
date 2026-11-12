@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "De eerste verhuizing loopt uit en de tweede klant staat te wachten. Zo verdeel je je ploegen over meerdere klussen zonder dat je dag omvalt."
 image: "/images/blog/twee-verhuizingen-een-dag-ploegen-verdelen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Planning"]
+tags: ["Planning", "Werkdruk"]
 cluster: "automatisering"
 ---
 

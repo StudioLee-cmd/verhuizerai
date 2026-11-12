@@ -7,7 +7,7 @@ excerpt: "Een verhuizing is eenmalig, maar de mensen eromheen verhuizen ook. Sli
 image: "/images/blog/email-marketing-verhuisbedrijf-doorverwijzing.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["E-mail", "Automatisering"]
+tags: ["E-mail", "Doorverwijzing"]
 cluster: "automatisering"
 ---
 

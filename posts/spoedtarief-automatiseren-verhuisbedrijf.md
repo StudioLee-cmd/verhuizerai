@@ -5,7 +5,7 @@ excerpt: "Een spoedaanvraag op zaterdagavond is goede omzet, tot de toeslag-disc
 date: "2026-07-21"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedtarief-automatiseren-verhuisbedrijf.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "AI"]
+tags: ["Voice AI", "Spoedtarief"]
 cluster: "voice-ai"
 ---
 

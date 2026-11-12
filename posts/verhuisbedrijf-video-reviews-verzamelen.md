@@ -5,7 +5,7 @@ date: "2026-05-01"
 excerpt: "Tekst-reviews zijn standaard. Video-reviews bouwen 6× meer vertrouwen op. Hoe verzamel je ze als verhuisbedrijf zonder klanten ongemakkelijk te maken?"
 image: "/images/blog/verhuisbedrijf-video-reviews-verzamelen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reputatie", "Conversie"]
+tags: ["Video Reviews", "Vertrouwen"]
 cluster: "reviews"
 ---
 

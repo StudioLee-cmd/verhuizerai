@@ -6,7 +6,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klant-annuleert-verhuizing-stappen.jpg"
-tags: ["No-shows", "Planning", "Groei"]
+tags: ["No-shows", "Planning"]
 ---
 ## Het telefoontje dat je niet wilt krijgen
 

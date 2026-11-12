@@ -6,7 +6,7 @@ date: "2026-04-18"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-verhuisbedrijf-optimaliseren.jpg"
-tags: ["Google", "Vindbaarheid"]
+tags: ["Google", "Boekingen"]
 ---
 ## Waarom je Google profiel belangrijker is dan je website
 

@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Een verhuisbus die 4 uur in een straat staat is een live billboard voor 50-200 mensen. Zo zet je elke verhuizing om in 3 nieuwe aanvragen uit dezelfde buurt."
 image: "/images/blog/buurtwerk-activeren-als-verhuisbedrijf-3-aanvragen-per-klus.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Branding", "Marketing"]
+tags: ["Buurtmarketing", "Branding"]
 cluster: "branding"
 ---
 

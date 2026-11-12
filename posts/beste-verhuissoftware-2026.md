@@ -5,7 +5,7 @@ excerpt: "Welke software helpt jouw verhuisbedrijf groeien? Een eerlijke vergeli
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-verhuissoftware-2026.png"
-tags: ["Software", "Vergelijking"]
+tags: ["Software", "Tools"]
 cluster: "automatisering"
 ---
 

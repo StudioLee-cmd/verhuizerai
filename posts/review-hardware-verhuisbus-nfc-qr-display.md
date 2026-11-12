@@ -5,7 +5,7 @@ date: "2026-07-08"
 excerpt: "NFC-kaart, QR-sticker of dashboard-display: welke review-hardware past bij hoe een verhuisdag echt eindigt? Een nuchtere vergelijking voor verhuizers."
 image: "/images/blog/review-hardware-verhuisbus-nfc-qr-display.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews"]
+tags: ["Reviews", "NFC"]
 cluster: "reviews"
 ---
 

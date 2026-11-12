@@ -5,7 +5,7 @@ date: "2026-04-11"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/aanbetaling-verhuizing-planning-beschermen.jpg"
-tags: ["No-shows", "Planning", "Groei"]
+tags: ["No-shows", "Planning"]
 ---
 ## Waarom een aanbetaling logisch is als verhuizer
 

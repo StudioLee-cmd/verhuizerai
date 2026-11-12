@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Geen idee wat je deze maand op Instagram moet zetten? Met deze 30-dagen contentkalender voor je verhuisbedrijf weet je elke dag precies wat je post."
 image: "/images/blog/instagram-contentkalender-verhuisbedrijf.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram"]
+tags: ["Instagram", "Contentkalender"]
 cluster: "social-media"
 ---
 Je hebt net een wasmachine drie hoog naar beneden gedragen en een volle bus gelost. 's Avonds op de bank bedenk je dat je eigenlijk al twee weken niets op Instagram hebt gezet. Je pakt je telefoon, opent de app, tikt op het plusje en dan blijf je hangen. Wat moet ik hier nou op zetten? Scherm dicht, morgen weer een volle dag.

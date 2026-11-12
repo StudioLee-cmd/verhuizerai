@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Je bedrijfs-Instagram valt onder de AVG zodra klanten herkenbaar in beeld zijn. Zo post je verhuisfotos veilig, met 3 toestemming-templates en een checklist."
 image: "/images/blog/avg-klantfotos-verhuisbedrijf-instagram.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram"]
+tags: ["Social Media", "AVG", "Instagram"]
 cluster: "social-media"
 ---
 

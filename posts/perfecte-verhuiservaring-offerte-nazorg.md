@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als verhuisbedrijf een klantbeleving biedt die leidt tot r
 date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/perfecte-verhuiservaring-offerte-nazorg.png"
-tags: ["Klanttevredenheid", "Groei"]
+tags: ["Klanttevredenheid", "Service"]
 cluster: "automatisering"
 ---
 Een verhuizing is voor de meeste mensen een stressvolle gebeurtenis. Ze [vertrouwen](/reviews) hun hele inboedel toe aan vreemden en hopen dat alles goed gaat. Verhuisbedrijven die dat begrijpen en er actief op inspelen, bouwen een reputatie op die zorgt voor volle agenda's en wachtlijsten.

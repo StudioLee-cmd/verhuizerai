@@ -7,7 +7,7 @@ excerpt: "Een verhuizing is eenmalig, de waarde van een tevreden klant niet. Zo 
 image: "/images/blog/klantbehoud-verhuisbedrijf-doorverwijzingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering"]
+tags: ["Doorverwijzing"]
 cluster: "automatisering"
 ---
 

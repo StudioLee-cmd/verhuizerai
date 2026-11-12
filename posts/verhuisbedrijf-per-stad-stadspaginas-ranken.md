@@ -4,7 +4,7 @@ excerpt: "Je verhuisbedrijf werkt in zes steden, maar je wordt maar in één gev
 date: "2026-06-21"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verhuisbedrijf-per-stad-stadspaginas-ranken.jpg"
-tags: ["Vindbaarheid", "Lokale SEO"]
+tags: ["Lokale SEO", "Website"]
 cluster: "vindbaarheid"
 ---
 

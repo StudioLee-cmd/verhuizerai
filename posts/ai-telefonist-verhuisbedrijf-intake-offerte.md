@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefonist-verhuisbedrijf-intake-offerte.jpg"
 cluster: "voice-ai"
-tags: ["Voice AI", "Intake", "Offertes"]
+tags: ["Intake", "Offerte Process"]
 ---
 Een gezin gaat over twee maanden verhuizen en belt drie verhuisbedrijven voor offertes. Bedrijf één neemt op, vraagt naar adres en datum, en zegt: "We sturen vanavond een offerte." Bedrijf twee gaat naar voicemail. Bedrijf drie laat een AI telefonist opnemen die in vier minuten de woonoppervlakte, het aantal verdiepingen, de bezittingen, de afstand en de datum uitvraagt, plus om foto's vraagt van de inboedel via WhatsApp. Het gezin krijgt twee uur later een gedetailleerde offerte van bedrijf drie, een korte van bedrijf één, en niets van bedrijf twee. Drie keer raden welk bedrijf de opdracht krijgt.
 

@@ -5,7 +5,7 @@ excerpt: "Zomer en einde maand: als verhuisbedrijf word je platgebeld. Maar hoe 
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/piekperiodes-verhuisbedrijf-zomer.png"
-tags: ["Planning", "Automatisering"]
+tags: ["Piekperiodes", "Planning"]
 cluster: "automatisering"
 ---
 

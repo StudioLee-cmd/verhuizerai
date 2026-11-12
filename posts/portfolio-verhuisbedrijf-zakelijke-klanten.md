@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-verhuisbedrijf-zakelijke-klanten.jpg"
-tags: ["Conversie", "Website"]
+tags: ["Portfolio", "Conversie"]
 ---
 De meeste verhuisbedrijven hebben ergens op hun website een rijtje foto's onder de naam "portfolio" of "ons werk". Vrijwel altijd zijn het dezelfde zes plaatjes: een verhuiswagen met het logo erop, twee mannen die een bank dragen, een hoop dozen op een oprit, en een close-up van folie rond een tafel. Die foto's verkopen nul klussen. Ze bevestigen alleen dat je inderdaad een verhuisbedrijf bent, maar laten niet zien waarom jij het betere verhuisbedrijf bent.
 

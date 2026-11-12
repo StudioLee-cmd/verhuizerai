@@ -5,7 +5,7 @@ date: "2026-07-17"
 excerpt: "Een verhuis-chatbot zonder jouw tarieven en inboedel-data is een duurder contactformulier. Met deze vier databronnen offreert hij wel, ook om 21 uur."
 image: "/images/blog/chatbot-trainen-verhuisbedrijf-databronnen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Offertes", "AI"]
+tags: ["Chatbot", "AI trainen"]
 cluster: "chatbot"
 ---
 

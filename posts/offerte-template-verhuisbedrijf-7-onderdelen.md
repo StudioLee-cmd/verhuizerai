@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Je offerte wordt vergeleken met een checklist die je nooit hebt gelezen. Dit zijn de 7 onderdelen die erop horen, en waarom elk ervan ruzie voorkomt."
 image: "/images/blog/offerte-template-verhuisbedrijf-7-onderdelen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Offertes", "Automatisering"]
+tags: ["Offertes", "Administratie"]
 cluster: "automatisering"
 ---
 

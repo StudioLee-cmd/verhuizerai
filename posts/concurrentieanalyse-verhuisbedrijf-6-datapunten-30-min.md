@@ -5,7 +5,7 @@ date: "2026-05-02"
 excerpt: "Concurrentieanalyse voor verhuisbedrijven hoeft geen weken te duren. Met 6 datapunten weet je in 30 minuten waar je staat lokaal."
 image: "/images/blog/concurrentieanalyse-verhuisbedrijf-6-datapunten-30-min.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Lokale SEO", "Strategie"]
+tags: ["Marktonderzoek", "Lokale SEO"]
 cluster: "branding"
 ---
 
