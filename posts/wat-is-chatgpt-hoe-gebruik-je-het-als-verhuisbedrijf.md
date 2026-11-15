@@ -74,8 +74,6 @@ Lees ook: [hoe verhuisbedrijven meer boekingen binnenhalen](/blog/ai-voor-verhui
 
 Met onze managed service hoef je zelf niets te doen. We houden alles draaiend — van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 ## Conclusie
 
 ChatGPT is een handig hulpmiddel dat elke verhuizer gratis kan uitproberen. Maar het vervangt geen [automatisering](/automatisering). Voor een compleet systeem dat je boekingen opvangt, no-shows vermindert, reviews verzamelt en je vindbaarheid verbetert, heb je een gespecialiseerd platform nodig.

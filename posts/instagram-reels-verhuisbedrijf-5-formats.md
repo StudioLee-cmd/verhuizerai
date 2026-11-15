@@ -69,6 +69,6 @@ Ten tweede: haal het plannen en maken bij jezelf weg. Met [ai social media voor 
 
 Vijf formats, één filmdag per maand, en je verhuisbedrijf is opeens zichtbaar op de plek waar je klanten elke avond scrollen. De timelapse en de voor-en-na bewijzen je resultaat, de takel-actie geeft bereik, de klant-uitleg en het team-portret maken van kijkers aanvragers.
 
-Wil je de formats wel, maar het gedoe niet? Bij VerhuizerAI nemen we het [social media beheer voor verhuisbedrijven](/social-media) volledig uit handen, van montage tot planning, met onze Groei-of-Geld-Terug Garantie. En sluit de funnel: een [gratis website voor verhuisbedrijven](/gratis-website) zorgt dat al die kijkers ook ergens kunnen boeken. Jij verhuist, wij regelen de rest.
+Wil je de formats wel, maar het gedoe niet? En sluit de funnel: een [gratis website voor verhuisbedrijven](/gratis-website) zorgt dat al die kijkers ook ergens kunnen boeken. Jij verhuist, wij regelen de rest.
 
 <div class="lees-ook" style="background-color: rgba(37, 99, 235, 0.10); border-radius: 12px; padding: 16px 20px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/tiktok-voor-verhuisbedrijven">TikTok voor verhuisbedrijven: van video tot volle agenda</a> →</div>

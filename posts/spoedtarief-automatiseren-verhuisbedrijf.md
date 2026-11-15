@@ -80,4 +80,4 @@ Dan doet de AI wat jij om 21:14 niet opbrengt: vriendelijk bij het beleid blijve
 
 Terug naar die storingsmonteur. Zijn nachttarief staat op de website, zijn planner noemt het bedrag, en niemand belt hem persoonlijk om erover te praten. Dat is geen brutaliteit, dat is een systeem dat de eigenaar beschermt. Jouw spoedtarief verdient dezelfde behandeling: één vaste regel, overal zichtbaar, uitgelegd door een telefonist die nooit moe is.
 
-Bij VerhuizerAI zetten we die keten in één keer neer: AI-telefonist, offerte-flow en opvolging, met een Groei-of-Geld-Terug Garantie. Benieuwd hoeveel avondaanvragen er nu langs je heen lopen? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan, dan zie je het zwart op wit. Jij verhuist, wij regelen de rest.
+Benieuwd hoeveel avondaanvragen er nu langs je heen lopen? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan, dan zie je het zwart op wit. Jij verhuist, wij regelen de rest.

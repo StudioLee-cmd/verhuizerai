@@ -88,4 +88,4 @@ Die herkent de bot aan de datum en de toon, en daar geef je hem aparte regels vo
 
 De aanvraag van 19:42 wacht niet tot jouw bus leeg is. Met een WhatsApp-chatbot is jouw bedrijf het bedrijf dat die avond nog antwoordt, de intake afrondt en de klus in de planning zet, terwijl jij de schuifdeur dichttrekt en naar huis rijdt.
 
-Jij verhuist, wij regelen de rest. Benieuwd hoeveel avondaanvragen er nu langs je heen lopen? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan, dan zie je zwart op wit waar je bereikbaarheid lekt en wat automatische intake jou per seizoen oplevert. En alles wat we bij VerhuizerAI bouwen valt onder onze Groei-of-Geld-Terug Garantie, dus de enige die risico loopt zijn wij.
+Jij verhuist, wij regelen de rest. Benieuwd hoeveel avondaanvragen er nu langs je heen lopen? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan, dan zie je zwart op wit waar je bereikbaarheid lekt en wat automatische intake jou per seizoen oplevert.

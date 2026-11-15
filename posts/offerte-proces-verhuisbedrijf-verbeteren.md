@@ -82,7 +82,7 @@ Reduceer stappen. Hoe minder de klant hoeft te doen, hoe sneller de boeking:
 
 In de verhuisbranche wint snelheid. Het verhuisbedrijf dat als eerste reageert met een professionele offerte, en vervolgens consistent opvolgt, boekt de meeste verhuizingen.
 
-Met [VerhuizerAI](/) automatiseren we je offerteproces van aanvraag tot boeking. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [VerhuizerAI](/) automatiseren we je offerteproces van aanvraag tot boeking. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel boekingen je nu mist.
 

@@ -90,7 +90,7 @@ En na de overstap? Dan begint het echte werk: je nieuwe systeem inrichten op off
 
 Een softwaremigratie is geen sprong in het diepe, het is een verhuizing met een checklist. Inventariseer, maak een proefexport, schoon op, test, stap in één keer over en controleer. Wie zijn klantdata behandelt zoals hij andermans inboedel behandelt, verliest onderweg niets.
 
-Bij VerhuizerAI begeleiden we de overstap naar ons [alles-in-één crm voor verhuisbedrijven](/crm) van export tot controle, met onze Groei-of-Geld-Terug Garantie. Jij verhuist, wij regelen de rest.
+Jij verhuist, wij regelen de rest.
 
 Eerst weten waar je huidige systeem en werkwijze punten laten liggen? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan en je ziet het binnen een paar minuten.
 

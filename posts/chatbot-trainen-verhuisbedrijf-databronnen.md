@@ -64,7 +64,7 @@ Houd daarom de gesprekken bij. Elke week zie je terug welke vragen de bot niet g
 
 Minder dan het lijkt. Je hebt geen datateam nodig, je hebt je eigen tariefkaart en je vaste antwoorden nodig, en die heb je al. In de praktijk is een set veelgestelde vragen plus je tarief- en volume-logica genoeg om de bot het leeuwendeel van de aanvragen zelf te laten offreren. Het inrichten kost eerder een dag dan een maand.
 
-Wat telt is de kwaliteit van je cijfers, niet de hoeveelheid documenten. Een korte, kloppende tariefstructuur traint een betere bot dan een dikke stapel papier vol uitzonderingen. En dat inrichten is precies waar wij bij VerhuizerAI van zijn. We trainen je [ai chatbot voor jouw verhuisbedrijf](/chatbot) op je eigen tarieven, postcodegebied en volume-logica, en houden hem actueel, met onze Groei-of-Geld-Terug Garantie. Belt een klant toch liever, dan vangt een op dezelfde data getrainde [ai telefonist voor verhuisbedrijven](/voice-ai) dat op.
+Wat telt is de kwaliteit van je cijfers, niet de hoeveelheid documenten. Een korte, kloppende tariefstructuur traint een betere bot dan een dikke stapel papier vol uitzonderingen. En dat inrichten is precies waar wij bij VerhuizerAI van zijn. Belt een klant toch liever, dan vangt een op dezelfde data getrainde [ai telefonist voor verhuisbedrijven](/voice-ai) dat op.
 
 Benieuwd hoeveel aanvragen je website nu laat liggen omdat er geen prijs uit komt? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan en je weet het binnen een dag. Jij verhuist, wij regelen de rest.
 

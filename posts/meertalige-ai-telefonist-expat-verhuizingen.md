@@ -84,4 +84,4 @@ Een internationale verhuizing kan een omvangrijke opdracht zijn. Als een aanvraa
 
 Begin klein. Twee talen, één script, en de vijf extra vragen hierboven erin. Meet hoeveel aanvragen via die lijn binnenkomen, hoeveel opdrachten worden en wat de afhandeling kost. Of je ze zonder die lijn zou hebben gemist, weet je pas met een vergelijking, en wat het kost staat op onze [tarieven VerhuizerAI](/tarieven).
 
-Wij regelen het instellen, het inspreken en het bijsturen zodra de eerste gesprekken binnen zijn. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug. Ahrefs is het onafhankelijke meetprogramma waarin we je zichtbaarheid volgen, zodat het geen kwestie van elkaar geloven is.
+Wij regelen het instellen, het inspreken en het bijsturen zodra de eerste gesprekken binnen zijn. Ahrefs is het onafhankelijke meetprogramma waarin we je zichtbaarheid volgen, zodat het geen kwestie van elkaar geloven is.

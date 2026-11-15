@@ -94,6 +94,6 @@ Staat er nog helemaal geen fatsoenlijke vragenpagina op je site, dan hoort dat b
 
 De vraag is nooit geweest of je een chatbot of een FAQ-pagina moet hebben. De vraag is welke vraag waar terechtkomt. Zet de vaste antwoorden op een pagina die Google en de AI-zoekmachines kunnen lezen, en laat alles waar een offerte in verstopt zit door de chat lopen.
 
-Met VerhuizerAI richten wij die verdeling voor je in, van de vragenpagina tot het intake-script, met onze Groei-of-Geld-Terug Garantie. Meer opdrachten, minder handmatig werk. Jij verhuist, wij regelen de rest.
+Meer opdrachten, minder handmatig werk. Jij verhuist, wij regelen de rest.
 
 <div class="lees-ook" style="background-color: rgba(37, 99, 235, 0.10); border-radius: 12px; padding: 16px 20px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/chatbot-trainen-verhuisbedrijf-databronnen">Chatbot trainen voor je verhuisbedrijf: 4 databronnen</a> →</div>

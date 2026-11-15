@@ -79,7 +79,7 @@ Wel goed: één zin die het antwoord geeft, één zin die uitlegt waar het van a
 
 Het echte werk zit in het bedenken van de antwoorden, niet in het invoeren. Als je weet wat je wilt zeggen over prijs, volume en termijn, staat het er in een kwartier. Alleen niet meer in een vakje op een profiel dat je niet bezit, maar op je eigen site waar het blijft staan en waar Google het kan vinden.
 
-Wil je weten wat er nu van jouw bedrijf in Google staat en welke van deze drie antwoorden nergens te vinden zijn? Vraag dan een [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan. We kijken mee naar je Bedrijfsprofiel, je vindbaarheid en je opvolging, en je krijgt terug wat er ontbreekt. Alles wat we bij VerhuizerAI bouwen valt onder onze Groei-of-Geld-Terug Garantie vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Wil je weten wat er nu van jouw bedrijf in Google staat en welke van deze drie antwoorden nergens te vinden zijn? Vraag dan een [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan. We kijken mee naar je Bedrijfsprofiel, je vindbaarheid en je opvolging, en je krijgt terug wat er ontbreekt.
 
 De klant die zijn vragen al beantwoord ziet, belt niet om te vragen wat het kost. Die belt om een datum te prikken. Dat is een ander gesprek, en het is het gesprek dat je wilt voeren.
 

@@ -64,6 +64,6 @@ Vanuit dat opgenomen gesprek loopt de rest vanzelf. De AI kwalificeert, sorteert
 
 Je hoeft hier geen groot systeem voor om te bouwen. Begin met de vraag: welke aanvragen mag ik nooit missen? Dat zijn bijna altijd de spoedgevallen. Zorg dat die binnenkomende oproepen altijd worden opgenomen en op urgentie worden gesorteerd, dan heb je het grootste lek al gedicht. De reguliere stroom loopt daarna gewoon zijn nette route.
 
-Wij richten die routing volledig voor je in, getraind op jouw werkgebied en jouw manier van werken, met onze Groei-of-Geld-Terug Garantie. Benieuwd hoeveel aanvragen jouw verhuisbedrijf nu laat liggen buiten kantooruren? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan en je weet binnen een dag waar je opdrachten verliest. Jij verhuist, wij regelen de rest.
+Benieuwd hoeveel aanvragen jouw verhuisbedrijf nu laat liggen buiten kantooruren? Vraag de [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan en je weet binnen een dag waar je opdrachten verliest. Jij verhuist, wij regelen de rest.
 
 <div class="lees-ook" style="background-color: rgba(37, 99, 235, 0.10); border-radius: 12px; padding: 16px 20px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/voice-ai-vs-voicemail-verhuisbedrijf-opdrachten">Voice AI vs voicemail verhuisbedrijf: voicemail kost je opdrachten</a> &rarr;</div>
