@@ -110,6 +110,6 @@ Bij VerhuizerAI helpen we verhuisbedrijven hun WhatsApp Business professioneel o
 - Verhuisdag-update-flow gekoppeld aan je planning-systeem
 - Een [voice ai voor verhuisbedrijven](/voice-ai) voor klanten die toch liever bellen
 
-[Plan een gratis AI-scan voor verhuisbedrijven](/gratis-scan) of bekijk onze [tarieven VerhuizerAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor verhuisbedrijven](/gratis-scan) of bekijk onze [tarieven VerhuizerAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klantcommunicatie-verhuisbedrijf-planning" class="text-dark fw-semibold">Klantcommunicatie als verhuisbedrijf: van eerste contact tot verhuisdag</a> →</p></div></div></div>

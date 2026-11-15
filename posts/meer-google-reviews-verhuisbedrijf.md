@@ -85,4 +85,4 @@ Lees ook hoe je [meer boekingen via Google](/blog/hoe-verhuisbedrijven-meer-boek
 
 Google reviews zijn geen "nice to have" — ze zijn essentieel voor elke verhuizer die online gevonden wil worden. Met de juiste aanpak en automatisering hoef je er zelf geen tijd aan te besteden en stromen de reviews vanzelf binnen.
 
-Wil je weten hoe wij dit voor jouw bedrijf kunnen opzetten? [Plan een gratis gesprek](https://cal.com/studiolee) en we laten je precies zien hoe het werkt. Of lees meer over [hoe verhuisbedrijven AI inzetten](/blog/ai-voor-verhuisbedrijven-meer-boekingen-minder-noshows) om hun hele bedrijfsvoering te verbeteren.
+Wil je weten hoe wij dit voor jouw bedrijf kunnen opzetten? [Plan een gratis gesprek](/demo) en we laten je precies zien hoe het werkt. Of lees meer over [hoe verhuisbedrijven AI inzetten](/blog/ai-voor-verhuisbedrijven-meer-boekingen-minder-noshows) om hun hele bedrijfsvoering te verbeteren.
