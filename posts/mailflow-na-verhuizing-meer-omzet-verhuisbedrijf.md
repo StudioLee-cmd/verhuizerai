@@ -85,6 +85,6 @@ Bij VerhuizerAI zetten we deze mailflow voor je op, gekoppeld aan je planning en
 - Een [reviews automatisch verzamelen als verhuisbedrijf](/reviews)-flow die meeloopt in mail 2
 - Segmentatie tussen particuliere en zakelijke klanten, zodat het aanbod altijd klopt
 
-Benieuwd wat blijft liggen in jouw bedrijf? Doe de [gratis ai scan voor verhuisbedrijven](/gratis-scan) of [plan een gesprek met Tim](https://cal.com/studiolee). Jij verhuist, wij regelen de rest.
+Benieuwd wat blijft liggen in jouw bedrijf? Doe de [gratis ai scan voor verhuisbedrijven](/gratis-scan) of [plan een gesprek met Tim](/demo). Jij verhuist, wij regelen de rest.
 
 <div class="lees-ook" style="background-color: rgba(37, 99, 235, 0.10); border-radius: 12px; padding: 16px 20px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/crm-implementatie-verhuisbedrijf-roadmap">CRM-implementatie verhuisbedrijf: roadmap in 5 dagen</a> →</div>
