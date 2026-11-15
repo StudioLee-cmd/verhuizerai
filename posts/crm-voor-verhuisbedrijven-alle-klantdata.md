@@ -141,7 +141,6 @@ Bij VerhuizerAI helpen we verhuisbedrijven hun klantbeheer professionaliseren me
 - WhatsApp Business-koppeling zodat alle klant-correspondentie in het CRM-dossier landt
 - Factuur-automatisering gekoppeld aan je boekhouding (Exact, MoneyMonk, Twinfield)
 - Team-training plus 30-dagen-follow-up coaching
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor verhuisbedrijven](/gratis-scan) of bekijk onze [tarieven VerhuizerAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

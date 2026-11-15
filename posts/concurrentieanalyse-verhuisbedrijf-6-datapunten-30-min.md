@@ -184,7 +184,7 @@ Het mooie aan deze 30-min-analyse is dat je het meteen kan toepassen:
 - **Overmorgen:** verzamel datapunt 4-5 (dienstaanbod, online aanwezigheid) — 10 minuten
 - **Volgende week:** stuur de test-aanvragen voor datapunt 6 en wacht reacties af
 
-Tegen het eind van volgende week heb je een complete concurrentie-snapshot en weet je precies welke 2-3 acties het meeste impact gaan hebben in jouw kwartaal. Voor een [website met geintegreerde lead-respons-flow](https://www.verhuizerai.nl/gratis-website) en automatische review-verzameling, zie de pagina hierboven — Groei-of-Geld-Terug Garantie.
+Tegen het eind van volgende week heb je een complete concurrentie-snapshot en weet je precies welke 2-3 acties het meeste impact gaan hebben in jouw kwartaal.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/verhuisbedrijf-video-reviews-verzamelen" class="text-dark fw-semibold">Video-reviews verzamelen als verhuisbedrijf: het verschil tussen 4 en 5 sterren</a> →</p></div></div></div>
 

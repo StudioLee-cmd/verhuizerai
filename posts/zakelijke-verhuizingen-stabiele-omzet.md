@@ -118,7 +118,7 @@ Werk met projectfacturering:
 
 Zakelijke verhuizingen zijn de sleutel tot een stabieler en winstgevender verhuisbedrijf. Ze vullen de dalmaanden, leveren hogere marges en bouwen langdurige klantrelaties op.
 
-Met [VerhuizerAI](/) helpen we verhuisbedrijven bij hun online presentatie en klantwerving. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [VerhuizerAI](/) helpen we verhuisbedrijven bij hun online presentatie en klantwerving. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je de zakelijke markt betreedt.
 

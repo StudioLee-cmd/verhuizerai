@@ -74,7 +74,7 @@ De keuze op een rij:
 - **Klein team, ploeg de hele dag onderweg?** Kies de AI chatbot. Een leeg chatvenster kost je meer klussen dan geen chatvenster.
 - **Twijfel?** Start met de bot als eerste filter en houd de persoonlijke gesprekken zelf.
 
-Die aanvrager van dinsdagavond boekt ergens een verhuizing. De enige vraag is bij wie. Wij richten de [ai chatbot voor jouw verhuisbedrijf](/chatbot) volledig in, getraind op jouw werkgebied en tarieven-opbouw, met onze Groei-of-Geld-Terug Garantie.
+Die aanvrager van dinsdagavond boekt ergens een verhuizing. De enige vraag is bij wie.
 
 En terwijl je toch bezig bent: een chatbot presteert zo goed als de website waar hij op staat. Bekijk daarom ook de [gratis website voor verhuisbedrijven](/gratis-website), dan klopt de hele funnel in een keer. Jij verhuist, wij regelen de rest.
 

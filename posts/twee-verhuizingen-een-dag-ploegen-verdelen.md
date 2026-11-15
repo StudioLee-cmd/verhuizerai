@@ -103,4 +103,4 @@ Je krijgt je verhuisdagen nooit helemaal voorspelbaar. Er zal altijd een lift st
 
 Jij verhuist, wij regelen de rest. Ook op de dag dat het tegenzit.
 
-Wil je weten waar in jouw huidige dag de meldingen blijven hangen? Vraag een [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan. We lopen je planning, je klantcommunicatie en je opvolging door en laten zien welke stap je vandaag al kunt laten lopen zonder jou. Wat dat kost staat gewoon bij de [tarieven](/tarieven), en alles wat we bouwen valt onder onze Groei-of-Geld-Terug Garantie.
+Wil je weten waar in jouw huidige dag de meldingen blijven hangen? Vraag een [gratis ai scan voor verhuisbedrijven](/gratis-scan) aan. We lopen je planning, je klantcommunicatie en je opvolging door en laten zien welke stap je vandaag al kunt laten lopen zonder jou.
