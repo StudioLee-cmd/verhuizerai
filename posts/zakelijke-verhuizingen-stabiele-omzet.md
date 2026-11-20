@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Waarom zakelijke verhuizingen aantrekkelijker zijn
 
-De meeste verhuisbedrijven richten zich op particulieren. Logisch — iedereen verhuist. Maar particuliere verhuizingen hebben nadelen:
+De meeste verhuisbedrijven richten zich op particulieren. Logisch, want iedereen verhuist. Maar particuliere verhuizingen hebben nadelen:
 
 - **Seizoensgebonden**: 60% van de verhuizingen valt in mei-september
 - **Prijsgevoelig**: klanten vergelijken 3-5 offertes en kiezen vaak de goedkoopste
@@ -84,7 +84,7 @@ De eerste zakelijke verhuizing is je visitekaartje. Lever:
 - Zonder schade (documenteer alles met foto's voor en na)
 - Met nazorg: "Is alles goed aangekomen? Kunnen we nog iets voor u betekenen?"
 
-Een tevreden zakelijke klant is goud — ze vertellen het door aan andere bedrijven.
+Een tevreden zakelijke klant is goud, want ze vertellen het door aan andere bedrijven.
 
 ## De operationele kant
 

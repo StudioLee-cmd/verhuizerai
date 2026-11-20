@@ -9,7 +9,7 @@ tags: ["Prijzen", "Website"]
 cluster: "website"
 ---
 
-"Wat kost een verhuizing?" Het is de eerste vraag die elke potentiele klant stelt. Toch tonen de meeste verhuisbedrijven geen prijzen op hun website. "Elke verhuizing is anders." Klopt — maar klanten willen op z'n minst weten of ze in de juiste prijsklasse zitten.
+"Wat kost een verhuizing?" Het is de eerste vraag die elke potentiele klant stelt. Toch tonen de meeste verhuisbedrijven geen prijzen op hun website. "Elke verhuizing is anders." Klopt, maar klanten willen op z'n minst weten of ze in de juiste prijsklasse zitten.
 
 In dit artikel lees je hoe je als verhuisbedrijf prijstransparantie inzet als concurrentievoordeel.
 
@@ -36,7 +36,7 @@ De ultieme optie: een online calculator waar klanten het type woning, het aantal
 
 ### Pakketten aanbieden
 
-Bied keuze: basis (transport), standaard (transport + inpak), premium (alles inclusief). Klanten die pakketten zien, kiezen vaak het middelste — dat is doorgaans de hoogste marge.
+Bied keuze: basis (transport), standaard (transport + inpak), premium (alles inclusief). Klanten die pakketten zien, kiezen vaak het middelste, en dat is doorgaans de hoogste marge.
 
 ## Transparantie en vertrouwen
 
@@ -46,7 +46,7 @@ Klanten die vooraf weten wat het kost, klagen minder achteraf. Ze zijn realistis
 
 ## Veelgestelde bezwaren
 
-"Dan kiezen klanten altijd de goedkoopste optie." Nee — ze kiezen de optie die het meeste vertrouwen wekt. Met goede [Google reviews](/blog/meer-google-reviews-verhuisbedrijf) kiezen klanten jou, zelfs als je niet de goedkoopste bent.
+"Dan kiezen klanten altijd de goedkoopste optie." Nee, ze kiezen de optie die het meeste vertrouwen wekt. Met goede [Google reviews](/blog/meer-google-reviews-verhuisbedrijf) kiezen klanten jou, zelfs als je niet de goedkoopste bent.
 
 "Concurrenten zien mijn prijzen." Je concurrenten weten al wat je vraagt. Klanten niet.
 
@@ -54,7 +54,7 @@ Klanten die vooraf weten wat het kost, klagen minder achteraf. Ze zijn realistis
 
 Prijsgerelateerde zoekopdrachten hebben hoge volumes: "verhuizing kosten", "verhuisbedrijf prijzen", "wat kost een verhuizing." Door deze informatie op je website te tonen, word je beter gevonden voor precies de klanten die klaar zijn om te boeken.
 
-Een goede prijspagina levert niet alleen meer bezoekers op, maar ook betere bezoekers — mensen die actief op zoek zijn naar een verhuisbedrijf en willen weten wat het kost.
+Een goede prijspagina levert niet alleen meer bezoekers op, maar ook betere bezoekers: mensen die actief op zoek zijn naar een verhuisbedrijf en willen weten wat het kost.
 
 ## De eerste stap
 

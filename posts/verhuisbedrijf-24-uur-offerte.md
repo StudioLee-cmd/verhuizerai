@@ -59,7 +59,7 @@ Dit model is niet accuraat voor elk huishouden, maar geeft wel een realistische 
 
 Waar voorheen een fysiek bezoek nodig was om de eindprijs vast te stellen, volstaat in 2026 vaak een 10-minuten-videobel via WhatsApp of Zoom. De klant loopt door de woning, jij zie alles via scherm, je stelt gerichte vragen ("hoe zwaar voelt deze kast?", "is deze trap breed genoeg voor dat meubel?"), en je hebt een accurate eindprijs zonder te rijden.
 
-Voor 70 tot 85 procent van verhuizingen werkt dit prima. Voor speciale situaties (monumentale panden, zeer grote inboedels, complexe logistiek) blijft een fysiek bezoek de standaard. Dat is echter slechts 15 tot 30 procent van aanvragen — geen algemene norm meer.
+Voor 70 tot 85 procent van verhuizingen werkt dit prima. Voor speciale situaties (monumentale panden, zeer grote inboedels, complexe logistiek) blijft een fysiek bezoek de standaard. Dat is echter slechts 15 tot 30 procent van aanvragen, dus geen algemene norm meer.
 
 ## Verandering 4: offerte-template gevuld in 5 minuten
 
@@ -87,7 +87,7 @@ In euro's: bij een gemiddelde verhuis-opdracht van 1.400 euro en 8 extra opdrach
 
 **Geen videobel-optie aanbieden.** Veel verhuizers blijven fysiek langsgaan uit gewoonte. Probeer videobel-inspectie bij 10 klanten, meet de uitkomst-kwaliteit, je zult verrast zijn hoe accuraat het is.
 
-**Te voorzichtige bandbreedtes.** 900 tot 2.500 euro is geen bandbreedte — dat is een bereik waar de klant op afhaakt. 1.100 tot 1.400 met duidelijke nuance is bruikbaar. Bekijk onze aanpak voor [verhuisoffertes vergelijken overtuigend maken](/blog/verhuisoffertes-klanten-overtuigen-vergelijking) voor hoe je de offerte zelf presenteert.
+**Te voorzichtige bandbreedtes.** 900 tot 2.500 euro is geen bandbreedte. Dat is een bereik waar de klant op afhaakt. 1.100 tot 1.400 met duidelijke nuance is bruikbaar. Bekijk onze aanpak voor [verhuisoffertes vergelijken overtuigend maken](/blog/verhuisoffertes-klanten-overtuigen-vergelijking) voor hoe je de offerte zelf presenteert.
 
 ## Waar begin je
 

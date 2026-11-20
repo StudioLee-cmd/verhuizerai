@@ -13,9 +13,9 @@ cluster: "automatisering"
 
 ## Waarom klantbehoud anders werkt bij verhuizen
 
-Bij de meeste bedrijven draait klantbehoud om herhaalaankopen. Maar niemand verhuist elke maand. Een verhuizing is typisch een eenmalige gebeurtenis — mensen verhuizen gemiddeld vijf keer in hun leven.
+Bij de meeste bedrijven draait klantbehoud om herhaalaankopen. Maar niemand verhuist elke maand. Een verhuizing is typisch een eenmalige gebeurtenis: mensen verhuizen gemiddeld vijf keer in hun leven.
 
-Dat betekent niet dat klantbehoud irrelevant is. Het betekent dat het anders werkt. Bij verhuisbedrijven gaat klantbehoud niet over terugkerende klanten, maar over doorverwijzingen. Een tevreden klant die jouw naam noemt bij drie vrienden, levert je drie nieuwe opdrachten op — zonder advertentiekosten.
+Dat betekent niet dat klantbehoud irrelevant is. Het betekent dat het anders werkt. Bij verhuisbedrijven gaat klantbehoud niet over terugkerende klanten, maar over doorverwijzingen. Een tevreden klant die jouw naam noemt bij drie vrienden, levert je drie nieuwe opdrachten op, zonder advertentiekosten.
 
 En iedereen kent mensen die gaan verhuizen. Collega's, familie, buren. De vraag "ken jij een goed verhuisbedrijf?" wordt vaker gesteld dan je denkt. Als jouw naam het antwoord is, heb je goud in handen.
 
@@ -33,11 +33,11 @@ De verhuizing is klaar, de dozen zijn binnen en je team vertrekt. Dit is het mom
 
 De meeste verhuisbedrijven vragen nooit om een doorverwijzing. Ze hopen dat het vanzelf gebeurt. Maar hopen is geen strategie.
 
-**Timing is alles**. Vraag niet tijdens de verhuizing (te druk) en niet twee maanden later (te laat). Het ideale moment is drie tot zeven dagen na de verhuizing — als de klant opgelucht is, de stress weg is en de ervaring nog vers in het geheugen zit.
+**Timing is alles**. Vraag niet tijdens de verhuizing (te druk) en niet twee maanden later (te laat). Het ideale moment is drie tot zeven dagen na de verhuizing, als de klant opgelucht is, de stress weg is en de ervaring nog vers in het geheugen zit.
 
 **Wees direct maar niet opdringerig**. "We vonden het leuk om jullie te helpen met de verhuizing. Mochten jullie vrienden of familie kennen die binnenkort gaan verhuizen, we werken graag op aanbeveling." Simpel, eerlijk, effectief.
 
-**Koppel het aan de [review](/blog/meer-google-reviews-verhuisbedrijf)**. "Zouden jullie een review willen schrijven op Google? Dat helpt ons enorm. En als jullie iemand kennen die gaat verhuizen, deel gerust onze naam." Twee vragen in een — de review versterkt je [Google-profiel](/blog/google-bedrijfsprofiel-verhuisbedrijf) en de doorverwijzing brengt nieuwe klanten.
+**Koppel het aan de [review](/blog/meer-google-reviews-verhuisbedrijf)**. "Zouden jullie een review willen schrijven op Google? Dat helpt ons enorm. En als jullie iemand kennen die gaat verhuizen, deel gerust onze naam." Twee vragen in een: de review versterkt je [Google-profiel](/blog/google-bedrijfsprofiel-verhuisbedrijf) en de doorverwijzing brengt nieuwe klanten.
 
 ## Een verwijzingsprogramma opzetten
 

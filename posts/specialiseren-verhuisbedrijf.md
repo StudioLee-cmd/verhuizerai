@@ -37,10 +37,10 @@ De beste keuze hangt af van je markt, expertise en wagenpark.
 
 ## Hoe communiceer je je specialisatie?
 
-- **Website** — maak je niche direct duidelijk op je [homepage](/blog/verhuiswebsite-conversie-boekingen)
-- **Google** — optimaliseer je [bedrijfsprofiel](/blog/google-bedrijfsprofiel-verhuisbedrijf) met de juiste categorieen
-- **Reviews** — vraag klanten specifiek over hun ervaring met je specialisatie via [Google reviews](/blog/meer-google-reviews-verhuisbedrijf)
-- **Content** — schrijf over je niche (kantoorverhuizing tips, seniorenverhuizing checklist)
+- **Website**: maak je niche direct duidelijk op je [homepage](/blog/verhuiswebsite-conversie-boekingen)
+- **Google**: optimaliseer je [bedrijfsprofiel](/blog/google-bedrijfsprofiel-verhuisbedrijf) met de juiste categorieen
+- **Reviews**: vraag klanten specifiek over hun ervaring met je specialisatie via [Google reviews](/blog/meer-google-reviews-verhuisbedrijf)
+- **Content**: schrijf over je niche (kantoorverhuizing tips, seniorenverhuizing checklist)
 
 ## Specialisatie en je merk
 
@@ -48,7 +48,7 @@ Een gespecialiseerd verhuisbedrijf bouwt een sterker [merk](/blog/branding-verhu
 
 ## De valkuil van te breed blijven
 
-Door alles aan te bieden, val je nergens op. Specialisatie betekent niet dat je stopt met reguliere verhuizingen — het betekent dat je ergens de expert bent en dat actief communiceert. De reguliere verhuizingen blijven je brood-en-boterwerk, maar je specialisatie is wat je onderscheidt.
+Door alles aan te bieden, val je nergens op. Specialisatie betekent niet dat je stopt met reguliere verhuizingen. Het betekent dat je ergens de expert bent en dat actief communiceert. De reguliere verhuizingen blijven je brood-en-boterwerk, maar je specialisatie is wat je onderscheidt.
 
 ## Specialisatie en je online vindbaarheid
 
@@ -56,7 +56,7 @@ Google beloont specifieke content. Een pagina over "kantoorverhuizing Amsterdam"
 
 ## Begin vandaag
 
-Kies de specialisatie die het best aansluit bij je huidige sterke punten. Heb je al ervaring met kantoorverhuizingen? Maak dat je focus. Heb je een team dat goed is met kwetsbare items? Richt je op piano's en kunst. Pas je website, Google profiel en offertes aan — en communiceer je expertise consistent.
+Kies de specialisatie die het best aansluit bij je huidige sterke punten. Heb je al ervaring met kantoorverhuizingen? Maak dat je focus. Heb je een team dat goed is met kwetsbare items? Richt je op piano's en kunst. Pas je website, Google profiel en offertes aan, en communiceer je expertise consistent.
 
 ## Hulp nodig?
 

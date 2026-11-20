@@ -15,38 +15,38 @@ ChatGPT is een AI-chatbot van OpenAI. Je geeft een opdracht en het genereert tek
 
 ## Wat ChatGPT kan voor verhuisbedrijven
 
-**Offertes formuleren** — Geef de verhuisdetails (afstand, volume, verdieping, lift aanwezig) en ChatGPT maakt een professionele offerte die je kunt aanpassen en versturen.
+**Offertes formuleren**: geef de verhuisdetails (afstand, volume, verdieping, lift aanwezig) en ChatGPT maakt een professionele offerte die je kunt aanpassen en versturen.
 
-**Klantcommunicatie** — Bevestigingsmails, follow-ups na een verhuizing, en zelfs klachtenafhandeling. ChatGPT formuleert het, jij verstuurt het.
+**Klantcommunicatie**: bevestigingsmails, follow-ups na een verhuizing, en zelfs klachtenafhandeling. ChatGPT formuleert het, jij verstuurt het.
 
-**Social media content** — "Schrijf een Instagram-post met 5 verhuistips voor de zomer." Handig als je niet graag schrijft.
+**Social media content**: "Schrijf een Instagram-post met 5 verhuistips voor de zomer." Handig als je niet graag schrijft.
 
-**Checklijsten maken** — Verhuisinstructies voor klanten, inpaklijsten, en dag-van-de-verhuizing checklists. Professioneel materiaal dat je kunt delen met klanten.
+**Checklijsten maken**: verhuisinstructies voor klanten, inpaklijsten, en dag-van-de-verhuizing checklists. Professioneel materiaal dat je kunt delen met klanten.
 
-**Afbeeldingen genereren** — Met DALL-E kun je afbeeldingen laten maken voor social media of je website. Denk aan visuals voor seizoensacties of verhuistips.
+**Afbeeldingen genereren**: met DALL-E kun je afbeeldingen laten maken voor social media of je website. Denk aan visuals voor seizoensacties of verhuistips.
 
 ## Waar ChatGPT tekortschiet
 
-ChatGPT is een teksttool — en dat is precies de beperking. Het kan een perfecte bevestigingsmail schrijven, maar het verstuurt hem niet. Het kan een social media post bedenken, maar het plant hem niet in. Elke actie vereist dat jij:
+ChatGPT is een teksttool, en dat is precies de beperking. Het kan een perfecte bevestigingsmail schrijven, maar het verstuurt hem niet. Het kan een social media post bedenken, maar het plant hem niet in. Elke actie vereist dat jij:
 
 - Inlogt en de juiste prompt formuleert
 - Het resultaat kopieert en handmatig verwerkt
 - Zelf bijhoudt welke klant je wanneer moet herinneren
 - Zelf social media inplant en publiceert
 - Zelf klanten om reviews vraagt na een verhuizing
-- Zelf de telefoon opneemt — ook 's avonds en in het weekend
+- Zelf de telefoon opneemt, ook 's avonds en in het weekend
 
-En de kwaliteit van de output? Die hangt af van jouw prompts. Zonder ervaring met AI-prompting krijg je generieke teksten die niet klinken als jouw bedrijf. Een gespecialiseerd systeem kent je branche, je tone of voice en je klanttype — ChatGPT niet.
+En de kwaliteit van de output? Die hangt af van jouw prompts. Zonder ervaring met AI-prompting krijg je generieke teksten die niet klinken als jouw bedrijf. Een gespecialiseerd systeem kent je branche, je tone of voice en je klanttype. ChatGPT niet.
 
 ## Waarom een managed systeem meer oplevert
 
 Het verschil tussen ChatGPT en VerhuizerAI gaat verder dan functies. Het gaat om resultaat.
 
-**Consistente output** — VerhuizerAI levert elke week content in jouw stijl, met jouw branding. ChatGPT levert elke keer iets anders, tenzij je complexe prompts schrijft en opslaat.
+**Consistente output**: VerhuizerAI levert elke week content in jouw stijl, met jouw branding. ChatGPT levert elke keer iets anders, tenzij je complexe prompts schrijft en opslaat.
 
-**Branchekennis** — VerhuizerAI begrijpt dat januari en juni piekmaanden zijn, dat studenten andere needs hebben dan gezinnen, en dat spoedverhuizingen een ander communicatiepatroon vragen. ChatGPT weet dit niet tenzij jij het vertelt — elke keer opnieuw.
+**Branchekennis**: VerhuizerAI begrijpt dat januari en juni piekmaanden zijn, dat studenten andere needs hebben dan gezinnen, en dat spoedverhuizingen een ander communicatiepatroon vragen. ChatGPT weet dit niet tenzij jij het vertelt, elke keer opnieuw.
 
-**Compounding effect** — SEO, reviews, social media en AI-vindbaarheid versterken elkaar. Een losse ChatGPT-post doet niets voor je Google-positie. VerhuizerAI laat al deze kanalen samenwerken.
+**Compounding effect**: SEO, reviews, social media en AI-vindbaarheid versterken elkaar. Een losse ChatGPT-post doet niets voor je Google-positie. VerhuizerAI laat al deze kanalen samenwerken.
 
 ## VerhuizerAI: het complete systeem
 
@@ -72,7 +72,7 @@ Lees ook: [hoe verhuisbedrijven meer boekingen binnenhalen](/blog/ai-voor-verhui
 
 ## Managed service: jij focust op verhuizingen
 
-Met onze managed service hoef je zelf niets te doen. We houden alles draaiend — van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
+Met onze managed service hoef je zelf niets te doen. We houden alles draaiend, van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
 
 ## Conclusie
 

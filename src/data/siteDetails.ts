@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Verhuisbedrijven',
     siteUrl: 'https://www.verhuizerai.nl/',
     metadata: {
-        title: 'VerhuizerAI - AI voor verhuisbedrijven',
+        title: 'VerhuizerAI | AI voor verhuisbedrijven',
         description: 'VerhuizerAI helpt verhuisbedrijven groeien met AI. Van automatische telefoonbeantwoording tot slimme planning & offertes.',
     },
     language: 'nl-NL',

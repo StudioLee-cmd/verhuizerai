@@ -10,7 +10,7 @@ tags: ["No-shows"]
 ---
 ## Wat een no-show jou echt kost
 
-Het is dinsdagochtend 7:30. Jij staat met twee verhuizers en een bakwagen voor een huis. De afspraak: 8:00 uur, complete inboedelverhuizing. Je belt aan. Niemand thuis. Geen reactie op je telefoon. Geen sleutelafspraak. Een uur later rij je terug naar de werkplaats. Drie mensen, een bakwagen, een halve dag — voor niets.
+Het is dinsdagochtend 7:30. Jij staat met twee verhuizers en een bakwagen voor een huis. De afspraak: 8:00 uur, complete inboedelverhuizing. Je belt aan. Niemand thuis. Geen reactie op je telefoon. Geen sleutelafspraak. Een uur later rij je terug naar de werkplaats. Drie mensen, een bakwagen, een halve dag: voor niets.
 
 Een no-show kost een gemiddeld verhuisbedrijf tussen 600 en 1.200 euro per geval. Eén no-show per maand kost je dus minimaal 7.200 euro per jaar. Plus de stress, de irritatie bij je personeel, en het feit dat je die dag een andere klant had kunnen bedienen.
 
@@ -20,9 +20,9 @@ Het goede nieuws: 80 procent van de no-shows is te voorkomen met een vaste beves
 
 Bij een verhuisbedrijf zijn er drie soorten no-shows:
 
-1. **De pure no-show** — klant is er niet, neemt niet op, geen vooraankondiging
-2. **De verstoorde verhuizing** — klant is er wel, maar is niet klaar (niets ingepakt, geen sleutelafspraak gemaakt, vergeten dat het vandaag was)
-3. **De last-minute annulering** — klant zegt 's ochtends af, ondertussen sta jij al klaar
+1. **De pure no-show**: klant is er niet, neemt niet op, geen vooraankondiging
+2. **De verstoorde verhuizing**: klant is er wel, maar is niet klaar (niets ingepakt, geen sleutelafspraak gemaakt, vergeten dat het vandaag was)
+3. **De last-minute annulering**: klant zegt 's ochtends af, ondertussen sta jij al klaar
 
 Alle drie kosten je geld. Alle drie zijn ze deels te voorkomen met goede communicatie.
 
@@ -38,7 +38,7 @@ Drie problemen die je met communicatie oplost. Niet door harder te werken zelf, 
 
 ## De ideale bevestigingsketen voor verhuizingen
 
-### Bij het inplannen — directe bevestiging
+### Bij het inplannen: directe bevestiging
 
 Zodra de afspraak in je systeem zit, ontvangt de klant binnen één minuut een SMS of WhatsApp:
 
@@ -46,15 +46,15 @@ Zodra de afspraak in je systeem zit, ontvangt de klant binnen één minuut een S
 
 Dit zet de afspraak op zijn telefoon en geeft hem vertrouwen dat alles is geregeld.
 
-### 14 dagen vooraf — de inpakherinnering
+### 14 dagen vooraf: de inpakherinnering
 
 Twee weken voor de verhuizing stuur je een belangrijke herinnering:
 
-> "Hi [naam], over twee weken is je verhuizing. Belangrijk om nu te beginnen met inpakken — onderschat de hoeveelheid niet! Tip: pak één doos per dag in en zorg dat alles is gelabeld. Hulp nodig met inpakken? We kunnen een [inpakservice] aanbieden."
+> "Hi [naam], over twee weken is je verhuizing. Belangrijk om nu te beginnen met inpakken. Onderschat de hoeveelheid niet! Tip: pak één doos per dag in en zorg dat alles is gelabeld. Hulp nodig met inpakken? We kunnen een [inpakservice] aanbieden."
 
 Dit is misschien wel het belangrijkste bericht van de hele keten. Veel klanten beginnen veel te laat. Door ze 14 dagen vooraf te wijzen, voorkom je verhuizingen waarbij de bakwagen klaar staat en de klant nog half ingepakt is.
 
-### 7 dagen vooraf — checklist
+### 7 dagen vooraf: checklist
 
 Een week voor de verhuizing stuur je een praktische checklist:
 
@@ -69,13 +69,13 @@ Een week voor de verhuizing stuur je een praktische checklist:
 
 Dit voorkomt een groot deel van de "we waren niet klaar" verhalen.
 
-### 48 uur vooraf — bevestiging
+### 48 uur vooraf: bevestiging
 
 Twee dagen voor de verhuizing:
 
 > "Hi [naam], over 2 dagen is het zover. We komen op [datum] om [tijd] op [adres]. Met [aantal] verhuizers en een [type voertuig]. Mocht er iets veranderen, hoor het direct. Tot snel!"
 
-### 24 uur vooraf — laatste herinnering
+### 24 uur vooraf: laatste herinnering
 
 Een dag van tevoren:
 
@@ -106,15 +106,15 @@ Mijn advies: pas dit alleen toe bij grote verhuizingen (bijvoorbeeld vanaf 1.500
 
 Het overkomt iedereen, ook met perfecte automatisering. Wat doe je dan?
 
-1. **Direct bellen** — soms zit de klant gewoon te slapen of is even weg
+1. **Direct bellen**: soms zit de klant gewoon te slapen of is even weg
 2. **Een berichtje sturen** met "Wij staan voor de deur, ben je er?"
-3. **Vijftien minuten wachten** — daarna doorrijden
+3. **Vijftien minuten wachten**, daarna doorrijden
 4. **Nog dezelfde dag een berichtje sturen** met de optie om te verzetten
 5. **Bij ernstige onverantwoordelijkheid** een no-show fee in rekening brengen (alleen als je dat vooraf hebt gecommuniceerd)
 
 Een no-show hoeft niet een verloren klant te zijn. Veel mensen verzetten en komen alsnog. Maar dat lukt alleen als je het netjes oppakt.
 
-## Automatisering — hoe je dit zonder werk regelt
+## Automatisering: hoe je dit zonder werk regelt
 
 Het beste systeem is er een dat je niet zelf hoeft te bedienen. Je hebt twee opties:
 

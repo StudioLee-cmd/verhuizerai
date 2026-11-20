@@ -11,7 +11,7 @@ tags: ["Herinneringen", "Planning"]
 
 Je team staat om 8:00 voor de deur. De klant doet open in pyjama. "Was dat vandaag?" De helft is nog niet ingepakt. Je team staat twee uur te wachten terwijl de klant paniekert met dozen.
 
-Of erger: de klant had de datum verwisseld en is op vakantie. Je hebt een team, een bus en een hele dag gereserveerd — voor niks.
+Of erger: de klant had de datum verwisseld en is op vakantie. Je hebt een team, een bus en een hele dag gereserveerd, voor niks.
 
 ## Waarom herinneringen cruciaal zijn voor verhuizers
 
@@ -57,12 +57,12 @@ Dit voorkomt niet alleen no-shows maar ook vertragingen op de dag zelf.
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als verhuisbedrijf.
 
-Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [reviews](/reviews) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [reviews](/reviews): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 ## Conclusie
 
-Automatische herinneringen zijn voor verhuisbedrijven geen luxe — ze zijn essentieel. Met een reeks berichten op de juiste momenten voorkom je no-shows, onvoorbereide klanten en lege dagplanningen.
+Automatische herinneringen zijn voor verhuisbedrijven geen luxe. Ze zijn essentieel. Met een reeks berichten op de juiste momenten voorkom je no-shows, onvoorbereide klanten en lege dagplanningen.
 
 Wil je dit automatiseren? [Vraag een gratis scan aan](/gratis-scan) en we zetten het voor je op.

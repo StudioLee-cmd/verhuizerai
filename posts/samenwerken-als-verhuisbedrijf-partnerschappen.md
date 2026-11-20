@@ -25,7 +25,7 @@ Voordelen:
 
 | Partner | Samenwerking | Kans |
 |---------|-------------|------|
-| Makelaar | Doorverwijzing bij woningverkoop | Zeer hoog — elke verkoop leidt tot verhuizing |
+| Makelaar | Doorverwijzing bij woningverkoop | Zeer hoog, want elke verkoop leidt tot verhuizing |
 | Schoonmaakbedrijf | Verhuispakket (verhuizen + schoonmaken) | Hoog |
 | Opslagbedrijf | Tijdelijke opslag bij verhuizing | Hoog |
 | Inboedelverzekering | Samenwerking bij schade | Gemiddeld |
@@ -51,7 +51,7 @@ Klanten die tijdelijk opslag nodig hebben (bij overbrugging, verbouwing, scheidi
 
 ## Zakelijke verhuizingen
 
-[Zakelijke verhuizingen](/blog/zakelijke-verhuizingen-stabiele-omzet) zijn een segment met veel samenwerkingskansen. Facility managers, kantoorinrichters en ICT-bedrijven — allemaal betrokken bij een kantoorverhuizing. Word hun vaste verhuispartner.
+[Zakelijke verhuizingen](/blog/zakelijke-verhuizingen-stabiele-omzet) zijn een segment met veel samenwerkingskansen. Facility managers, kantoorinrichters en ICT-bedrijven: allemaal betrokken bij een kantoorverhuizing. Word hun vaste verhuispartner.
 
 ## Online zichtbaar als partner
 
@@ -59,9 +59,9 @@ Vermeld je samenwerkingen op je [website](/blog/verhuiswebsite-conversie-boeking
 
 ## Het verschil tussen groeien en overleven
 
-Verhuisbedrijven zonder samenwerkingen zijn volledig afhankelijk van seizoenspieken en online advertenties. In de wintermaanden daalt de vraag en de omzet. Verhuisbedrijven met sterke partnerships — makelaars, schoonmaakbedrijven, opslagbedrijven — hebben het hele jaar door een stabielere stroom boekingen. De investering in relaties kost geen geld, alleen tijd en wederkerigheid.
+Verhuisbedrijven zonder samenwerkingen zijn volledig afhankelijk van seizoenspieken en online advertenties. In de wintermaanden daalt de vraag en de omzet. Verhuisbedrijven met sterke partnerships (makelaars, schoonmaakbedrijven, opslagbedrijven) hebben het hele jaar door een stabielere stroom boekingen. De investering in relaties kost geen geld, alleen tijd en wederkerigheid.
 
-Begin met de makelaar die de meeste woningen verkoopt in je regio. Een koffieafspraak kan het begin zijn van je beste groeikanaal. De meest succesvolle verhuisbedrijven hebben drie tot vijf vaste partners die regelmatig klanten doorsturen. Dat netwerk is hun fundament — onafhankelijk van Google, onafhankelijk van het seizoen, onafhankelijk van de concurrentie. Bouw dat netwerk op en je bedrijf wordt toekomstbestendig.
+Begin met de makelaar die de meeste woningen verkoopt in je regio. Een koffieafspraak kan het begin zijn van je beste groeikanaal. De meest succesvolle verhuisbedrijven hebben drie tot vijf vaste partners die regelmatig klanten doorsturen. Dat netwerk is hun fundament: onafhankelijk van Google, onafhankelijk van het seizoen, onafhankelijk van de concurrentie. Bouw dat netwerk op en je bedrijf wordt toekomstbestendig.
 
 ## Hulp nodig?
 
