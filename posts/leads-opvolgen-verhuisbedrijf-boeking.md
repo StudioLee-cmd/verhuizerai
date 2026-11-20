@@ -17,24 +17,24 @@ Het probleem is niet een gebrek aan aanvragen. Het probleem is dat de aanvragen 
 
 Wanneer iemand een verhuisofferte aanvraagt, is de intentie hoog. Ze hebben een datum, een huidige en nieuwe locatie, en een budget. Op dat moment vergelijken ze 3-5 verhuisbedrijven tegelijk. Het eerste bedrijf dat persoonlijk reageert, heeft een enorme voorsprong.
 
-Een automatisch bericht direct na de aanvraag — met een persoonlijke toon en een concreet vervolg — zet je meteen op voorsprong:
+Een automatisch bericht direct na de aanvraag, met een persoonlijke toon en een concreet vervolg, zet je meteen op voorsprong:
 
 "Bedankt voor je aanvraag! We bekijken de details en sturen je binnen 2 uur een indicatie. Heb je in de tussentijd vragen? Bel [nummer] of app ons."
 
 ## Na de offerte: het verschil maken
 
-De offerte is verstuurd. Nu begint de fase waarin de meeste verhuisbedrijven de fout maken van afwachten. De klant vergelijkt, twijfelt, vergeet. Zonder opvolging kiest hij de goedkoopste — of de eerste die terugbelt.
+De offerte is verstuurd. Nu begint de fase waarin de meeste verhuisbedrijven de fout maken van afwachten. De klant vergelijkt, twijfelt, vergeet. Zonder opvolging kiest hij de goedkoopste, of de eerste die terugbelt.
 
 - **Dag 0:** Offerte met persoonlijke toelichting
 - **Dag 2:** "Heb je de offerte ontvangen? Ik kan eventuele vragen telefonisch toelichten"
-- **Dag 5:** "Tip: boek vroeg voor [maand] — onze planning loopt snel vol in die periode"
+- **Dag 5:** "Tip: boek vroeg voor [maand], want onze planning loopt snel vol in die periode"
 - **Dag 8:** "Heb je al een keuze gemaakt? We reserveren graag je datum"
 
 ![Verhuiswagen met professionele uitrusting](/images/blog/leads-opvolgen-verhuisbedrijf-boeking-2.jpg)
 
 ### Schaarste als overtuigingsfactor
 
-Verhuisbedrijven hebben een natuurlijk schaarste-element: populaire verhuisdata raken snel vol. Dat eerlijk communiceren in je opvolging ("voor juli zijn nog maar 4 dagen beschikbaar") is geen druk — het is informatie die de klant helpt bij zijn beslissing.
+Verhuisbedrijven hebben een natuurlijk schaarste-element: populaire verhuisdata raken snel vol. Dat eerlijk communiceren in je opvolging ("voor juli zijn nog maar 4 dagen beschikbaar") is geen druk. Het is informatie die de klant helpt bij zijn beslissing.
 
 ## Seizoenspieken slim benutten
 
@@ -47,9 +47,9 @@ In de zomermaanden is de vraag groter dan het aanbod. Dat is het moment om je op
 Verhuisbedrijven die hun opvolging structureren:
 
 - **50-70% meer boekingen** uit dezelfde hoeveelheid aanvragen
-- **Minder prijsconcurrentie** — snelle opvolging wint vaker dan de laagste prijs
-- **Betere reviews** — klanten waarderen professionele communicatie
-- **Voorspelbaardere omzet** — minder afhankelijk van last-minute boekingen
+- **Minder prijsconcurrentie**: snelle opvolging wint vaker dan de laagste prijs
+- **Betere reviews**: klanten waarderen professionele communicatie
+- **Voorspelbaardere omzet**: minder afhankelijk van last-minute boekingen
 
 ## Automatisering maakt het schaalbaar
 

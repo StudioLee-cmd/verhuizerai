@@ -10,7 +10,7 @@ cluster: "website"
 
 ## Waarom je website je beste verkoper is
 
-Je verhuiswebsite is vaak het eerste contactmoment met potentiële klanten. Ze Googlen "verhuisbedrijf [plaatsnaam]", klikken op je website en beslissen in seconden of ze contact opnemen — of doorscroller naar de concurrent.
+Je verhuiswebsite is vaak het eerste contactmoment met potentiële klanten. Ze Googlen "verhuisbedrijf [plaatsnaam]", klikken op je website en beslissen in seconden of ze contact opnemen of doorscroller naar de concurrent.
 
 Een goed converterende website kan het verschil maken tussen 5 en 50 offerteaanvragen per maand. En het mooiste: je website werkt 24/7, ook 's avonds en in het weekend wanneer mensen hun verhuizing plannen. Zorg eerst dat je [goed vindbaar bent](/blog/hoe-verhuisbedrijven-meer-boekingen-binnenhalen-via-google), dan dat je website converteert.
 
@@ -25,7 +25,7 @@ Het offerteformulier is het hart van je verhuiswebsite. Houd het eenvoudig maar 
 
 Optioneel kun je vragen naar bijzonderheden (piano, kluis, smalle trappen). Maar beperk het totaal tot maximaal 6-8 velden. Hoe meer je vraagt, hoe minder mensen het invullen.
 
-Stuur direct een automatische bevestiging: "Bedankt voor je aanvraag! We nemen binnen 24 uur contact op." Die belofte moet je waarmaken — lees hoe je je [offerteproces verbetert](/blog/offerte-proces-verhuisbedrijf-verbeteren).
+Stuur direct een automatische bevestiging: "Bedankt voor je aanvraag! We nemen binnen 24 uur contact op." Die belofte moet je waarmaken, dus lees hoe je je [offerteproces verbetert](/blog/offerte-proces-verhuisbedrijf-verbeteren).
 
 ## Vertrouwen wekken met reviews
 
@@ -41,7 +41,7 @@ Combineer dit met je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-verhu
 
 70% van de verhuiszoekopdrachten gebeurt op een smartphone. Als je website niet snel en mobielvriendelijk is, verlies je het merendeel van je bezoekers:
 
-- **Laadtijd**: onder de 3 seconden — elke seconde vertraging kost je 7% conversie
+- **Laadtijd**: onder de 3 seconden, want elke seconde vertraging kost je 7% conversie
 - **Mobiel formulier**: grote invoervelden, duidelijke knoppen, geen zoomen nodig
 - **Click-to-call**: een telefoonknop die direct belt op mobiel
 

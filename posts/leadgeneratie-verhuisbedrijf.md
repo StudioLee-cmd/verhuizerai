@@ -9,15 +9,15 @@ tags: ["Leads", "Klanten werven"]
 cluster: "automatisering"
 ---
 
-De verhuisbranche draait op [seizoenen](/blog/piekperiodes-verhuisbedrijf-zomer) en aanbevelingen. In de zomer en rond de eerste van de maand is het druk — maar daarbuiten kan het stil zijn. Slimme leadgeneratie zorgt voor een constante stroom nieuwe boekingen.
+De verhuisbranche draait op [seizoenen](/blog/piekperiodes-verhuisbedrijf-zomer) en aanbevelingen. In de zomer en rond de eerste van de maand is het druk, maar daarbuiten kan het stil zijn. Slimme leadgeneratie zorgt voor een constante stroom nieuwe boekingen.
 
 ## Waarom diversificatie noodzakelijk is
 
 Te veel verhuisbedrijven vertrouwen op één kanaal:
 
-- **Alleen Google** — kwetsbaar voor algoritmewijzigingen
-- **Alleen mond-tot-mond** — onvoorspelbaar en niet schaalbaar
-- **Alleen platforms** — duur en prijsgedreven
+- **Alleen Google**: kwetsbaar voor algoritmewijzigingen
+- **Alleen mond-tot-mond**: onvoorspelbaar en niet schaalbaar
+- **Alleen platforms**: duur en prijsgedreven
 
 De verhuisbedrijven die het best presteren, combineren 3-4 kanalen die elkaar versterken.
 
@@ -33,7 +33,7 @@ Elke woningverkoop leidt tot een verhuizing. Makelaars en hypotheekadviseurs zij
 
 ### 2. Woningcorporaties
 
-Corporaties verhuizen regelmatig huurders — bij renovatie, sloop-nieuwbouw of herhuisvesting. Eén contract kan tientallen verhuizingen per jaar opleveren.
+Corporaties verhuizen regelmatig huurders, bij renovatie, sloop-nieuwbouw of herhuisvesting. Eén contract kan tientallen verhuizingen per jaar opleveren.
 
 ### 3. Bedrijfsverhuizingen
 

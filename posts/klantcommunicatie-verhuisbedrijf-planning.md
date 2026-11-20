@@ -13,13 +13,13 @@ cluster: "automatisering"
 
 ## Waarom communicatie het verschil maakt bij verhuizen
 
-Een verhuizing is een van de meest stressvolle gebeurtenissen in iemands leven. Klanten vertrouwen hun complete inboedel aan jou toe — meubels met herinneringen, breekbare spullen, alles wat ze bezitten.
+Een verhuizing is een van de meest stressvolle gebeurtenissen in iemands leven. Klanten vertrouwen hun complete inboedel aan jou toe: meubels met herinneringen, breekbare spullen, alles wat ze bezitten.
 
 De verhuisbedrijven die het beste scoren op [reviews](/blog/meer-google-reviews-verhuisbedrijf) en doorverwijzingen, zijn niet per se de snelste of goedkoopste. Het zijn de bedrijven die het beste communiceren. Die op elk moment duidelijkheid bieden en onzekerheid wegnemen.
 
 ## Het eerste contact: vertrouwen winnen
 
-**Reageer snel op aanvragen**. Of het via je [website](/blog/klantbehoud-verhuisbedrijf-doorverwijzingen), telefoon of mail is — reageer binnen een paar uur. Een klant die drie verhuisbedrijven benadert, kiest degene die het snelst en duidelijkst reageert.
+**Reageer snel op aanvragen**. Of het via je [website](/blog/klantbehoud-verhuisbedrijf-doorverwijzingen), telefoon of mail is, reageer binnen een paar uur. Een klant die drie verhuisbedrijven benadert, kiest degene die het snelst en duidelijkst reageert.
 
 **Stel de juiste vragen**. Niet alleen "wanneer en waarheen" maar ook: hoeveel kamers, bijzondere meubels, trap of lift, parkeermogelijkheden. Dit laat zien dat je ervaring hebt en meedenkt.
 
@@ -45,7 +45,7 @@ De verhuisdag zelf is waar het gebeurt. Communicatie op deze dag bepaalt de hele
 
 **Regelmatige updates**. "De bovenverdieping is klaar, we gaan nu naar de woonkamer." Klanten willen weten waar ze staan.
 
-**Problemen direct melden**. Past de bank niet door de deur? Meld het direct en bied een oplossing aan — nooit verrassen aan het eind van de dag.
+**Problemen direct melden**. Past de bank niet door de deur? Meld het direct en bied een oplossing aan, en verras nooit aan het eind van de dag.
 
 **Eindinspectie samen**. Loop aan het eind samen door het oude en het nieuwe huis. Check of alles mee is, of alles op de juiste plek staat en of er schade is.
 

@@ -57,7 +57,7 @@ Investeer in de kleine dingen: een welkomstkaartje bij het inpakmateriaal, een f
 
 ## Branding vs. prijsconcurrentie
 
-Veel verhuisbedrijven concurreren op prijs. Dat is een race naar de bodem. Er is altijd iemand goedkoper — vaak ten koste van kwaliteit.
+Veel verhuisbedrijven concurreren op prijs. Dat is een race naar de bodem. Er is altijd iemand goedkoper, vaak ten koste van kwaliteit.
 
 Met een sterk merk concurreer je op waarde. Klanten betalen graag meer voor een bedrijf dat ze vertrouwen. Je [online reputatie](/blog/online-reputatie-verhuisbedrijf) bevestigt dat vertrouwen.
 
@@ -76,6 +76,6 @@ Je hoeft niet alles tegelijk te doen. Begin met deze drie stappen:
 
 ## Hulp nodig?
 
-Bij VerhuizerAI helpen we verhuisbedrijven met het opbouwen van een sterk merk dat online opvalt. Van website tot Google-profiel — alles voor slechts 15 minuten per maand van jouw tijd.
+Bij VerhuizerAI helpen we verhuisbedrijven met het opbouwen van een sterk merk dat online opvalt. Van website tot Google-profiel: alles voor slechts 15 minuten per maand van jouw tijd.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek hoe jouw merk er online voor staat.

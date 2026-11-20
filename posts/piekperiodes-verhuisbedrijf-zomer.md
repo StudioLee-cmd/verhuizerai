@@ -11,7 +11,7 @@ cluster: "automatisering"
 
 ## De verhuispiek: zegen en uitdaging
 
-Als verhuisbedrijf ken je het ritme. De laatste week van de maand, de zomer, en vooral juli-augustus — dan piekt de vraag. Je telefoon staat roodgloeiend, je planning loopt vol en je team draait overuren.
+Als verhuisbedrijf ken je het ritme. De laatste week van de maand, de zomer, en vooral juli-augustus: dan piekt de vraag. Je telefoon staat roodgloeiend, je planning loopt vol en je team draait overuren.
 
 Klinkt goed, toch? Meer aanvragen betekent meer omzet. Maar zonder de juiste organisatie leidt een piekperiode juist tot problemen: dubbele boekingen, overwerkt personeel, en gestresste klanten.
 
@@ -21,7 +21,7 @@ Klinkt goed, toch? Meer aanvragen betekent meer omzet. Maar zonder de juiste org
 In de piek krijg je 3-5x meer aanvragen dan normaal. Maar je hebt dezelfde tijd om te reageren. Resultaat: offertes die te laat uitgaan en klanten die afhaken.
 
 ### 2. Planningschaos
-Meerdere verhuizingen op dezelfde dag, busjes die niet op tijd terug zijn, extra krachten die ingewerkt moeten worden — het is een logistieke puzzel.
+Meerdere verhuizingen op dezelfde dag, busjes die niet op tijd terug zijn, extra krachten die ingewerkt moeten worden: het is een logistieke puzzel.
 
 ### 3. Kwaliteit onder druk
 Als het team moe is en de planning strak, daalt de kwaliteit. Beschadigde spullen, vertraging en ontevreden klanten die negatieve reviews achterlaten.
@@ -51,7 +51,7 @@ Het is volledig geaccepteerd om in de piek hogere tarieven te hanteren. Communic
 - **Schoudermaanden (april-juni, september-oktober)**: +10-15%
 - **Hoogseizoen (juli-augustus, maandeinde)**: +20-30%
 
-Klanten die flexibel zijn, kiezen het laagseizoen — dat spreidt je werk.
+Klanten die flexibel zijn, kiezen het laagseizoen, en dat spreidt je werk.
 
 ### 4. Automatiseer de klantcommunicatie
 
@@ -66,7 +66,7 @@ Werk met een vaste pool van bijklussers die je kunt inzetten tijdens pieken. Tra
 
 ## De rustige maanden benutten
 
-De winter is niet per se stil — maar je moet er wel aan werken:
+De winter is niet per se stil, maar je moet er wel aan werken:
 - **Bedrijfsverhuizingen** lopen het hele jaar door
 - **Internationale verhuizingen** kennen andere pieken
 - **Opslag en transport** als aanvullende diensten
@@ -74,7 +74,7 @@ De winter is niet per se stil — maar je moet er wel aan werken:
 
 ## Conclusie
 
-Piekperiodes zijn het moment waarop je als verhuisbedrijf het meeste verdient — mits je georganiseerd bent. De sleutel is voorbereiding, automatisering en realistische planning.
+Piekperiodes zijn het moment waarop je als verhuisbedrijf het meeste verdient, mits je georganiseerd bent. De sleutel is voorbereiding, automatisering en realistische planning.
 
 Met [VerhuizerAI](/) automatiseer je offertes, klantcommunicatie en opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

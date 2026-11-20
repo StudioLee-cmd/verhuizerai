@@ -8,7 +8,7 @@ image: "/images/blog/online-reputatie-verhuisbedrijf.png"
 tags: ["Reputatie", "Reviews"]
 cluster: "reviews"
 ---
-Een verhuizing is voor de meeste mensen een van de stressvollste gebeurtenissen van het jaar. Ze [vertrouwen](/reviews) al hun bezittingen toe aan vreemden. Die drempel is enorm — en daarom is online reputatie voor verhuisbedrijven misschien wel belangrijker dan voor welke andere branche dan ook.
+Een verhuizing is voor de meeste mensen een van de stressvollste gebeurtenissen van het jaar. Ze [vertrouwen](/reviews) al hun bezittingen toe aan vreemden. Die drempel is enorm, en daarom is online reputatie voor verhuisbedrijven misschien wel belangrijker dan voor welke andere branche dan ook.
 
 Eén slechte review over beschadigde meubels kan tientallen potentiële klanten afschrikken. Maar een sterke reputatie met tientallen positieve reviews? Die verkoopt je dienst zonder dat je er ook maar iets voor hoeft te doen.
 
@@ -16,11 +16,11 @@ Eén slechte review over beschadigde meubels kan tientallen potentiële klanten 
 
 Klanten die een verhuisbedrijf zoeken, vergelijken drie dingen:
 
-1. **Reviews** — de ervaringen van anderen wegen zwaarder dan je eigen website
-2. **Prijs** — maar alleen als het vertrouwen er al is
-3. **Beschikbaarheid** — kan het bedrijf op de gewenste datum?
+1. **Reviews**: de ervaringen van anderen wegen zwaarder dan je eigen website
+2. **Prijs**, maar alleen als het vertrouwen er al is
+3. **Beschikbaarheid**: kan het bedrijf op de gewenste datum?
 
-Reviews komen eerst. Een verhuisbedrijf met 4,8 sterren en 80 reviews wint bijna altijd van een concurrent met 4,2 sterren en 15 reviews — zelfs als die concurrent goedkoper is.
+Reviews komen eerst. Een verhuisbedrijf met 4,8 sterren en 80 reviews wint bijna altijd van een concurrent met 4,2 sterren en 15 reviews, zelfs als die concurrent goedkoper is.
 
 ## Waar klanten je reviews lezen
 
@@ -55,7 +55,7 @@ Stuur automatisch een reviewverzoek 24 uur na elke verhuizing. Dit kan via e-mai
 
 ## Omgaan met negatieve reviews
 
-Negatieve reviews zijn onvermijdelijk — zelfs bij het beste verhuisbedrijf gaat er weleens iets mis. Het gaat niet om het voorkomen van negatieve reviews, maar om hoe je ermee omgaat.
+Negatieve reviews zijn onvermijdelijk: zelfs bij het beste verhuisbedrijf gaat er weleens iets mis. Het gaat niet om het voorkomen van negatieve reviews, maar om hoe je ermee omgaat.
 
 ### Reageer altijd
 
@@ -63,8 +63,8 @@ Een onbeantwoorde negatieve review is erger dan de review zelf. Reageer binnen 2
 
 1. **Bedank** voor de feedback
 2. **Erken** het probleem (zonder schuld toe te geven als dat niet terecht is)
-3. **Bied een oplossing** — "We willen dit graag rechtzetten, neem contact met ons op via..."
-4. **Houd het kort** — geen eindeloze discussies in de comments
+3. **Bied een oplossing**: "We willen dit graag rechtzetten, neem contact met ons op via..."
+4. **Houd het kort**: geen eindeloze discussies in de comments
 
 ### Leer van patronen
 
@@ -76,14 +76,14 @@ Goede [klantcommunicatie van begin tot eind](/blog/klantcommunicatie-verhuisbedr
 
 Naast reviews verzamelen, kun je je reputatie actief versterken:
 
-- **Portfolio met foto's** — toon nette verhuizingen, beschermde meubels, professionele vrachtwagens
-- **Social media** — deel tevreden klanten (met toestemming), projectfoto's en bedrijfsnieuws op [social media](/blog/social-media-verhuisbedrijven-boekingen)
-- **Website met testimonials** — integreer je beste Google Reviews op je website
-- **Certificeringen en verzekering** — vermeld je transportverzekering en eventuele keurmerken prominent
+- **Portfolio met foto's**: toon nette verhuizingen, beschermde meubels, professionele vrachtwagens
+- **Social media**: deel tevreden klanten (met toestemming), projectfoto's en bedrijfsnieuws op [social media](/blog/social-media-verhuisbedrijven-boekingen)
+- **Website met testimonials**: integreer je beste Google Reviews op je website
+- **Certificeringen en verzekering**: vermeld je transportverzekering en eventuele keurmerken prominent
 
 ## Laat reputatiemanagement voor je werken
 
-Zelf bijhouden welke reviews binnenkomen, wanneer je moet reageren, en hoe je meer reviews verzamelt — het is tijdrovend. Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Reviewmanagement, online zichtbaarheid en social media worden volledig voor je opgepakt.
+Zelf bijhouden welke reviews binnenkomen, wanneer je moet reageren, en hoe je meer reviews verzamelt: het is tijdrovend. Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Reviewmanagement, online zichtbaarheid en social media worden volledig voor je opgepakt.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je je online reputatie kunt versterken.
 

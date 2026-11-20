@@ -30,7 +30,7 @@ Bij een gemiddelde verhuiswaarde van €1.500-3.000 en 20 aanvragen per maand is
 
 ## Stap 1: Automatische ontvangstbevestiging
 
-Zodra een aanvraag binnenkomt — via je website, email of telefoon — stuurt het systeem automatisch:
+Zodra een aanvraag binnenkomt (via je website, email of telefoon), stuurt het systeem automatisch:
 
 "Bedankt voor je verhuisaanvraag! We hebben je gegevens ontvangen en nemen binnen 2 uur contact met je op om alles door te spreken. Alvast een indicatie: een verhuizing zoals jij beschrijft kost doorgaans tussen €[X] en €[Y]."
 

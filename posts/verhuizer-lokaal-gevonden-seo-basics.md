@@ -17,7 +17,7 @@ De goede kans: lokale SEO voor verhuizers is relatief simpel. De meeste concurre
 - Verhuizers die in Google Maps top-3 staan krijgen 4-5x meer oproepen dan #4-10.
 - Google Bedrijfsprofiel volledigheid en reviews zijn de zwaarste factoren.
 - Stad + wijk + "verhuizer" combinaties leveren de meeste gekwalificeerde leads.
-- 80% van verhuizers heeft geen stadspagina's op de website — dat is jouw kans.
+- 80% van verhuizers heeft geen stadspagina's op de website, en dat is jouw kans.
 - Realistische klimtijd: 2-3 maanden bij consistent werk.
 
 ## Basis 1: Zorg dat je Google Bedrijfsprofiel klopt

@@ -13,13 +13,13 @@ De klantbeleving begint niet op de verhuisdag. Het begint bij het eerste contact
 
 ## Waarom klantbeleving het verschil maakt
 
-Verhuisbedrijven concurreren vaak op prijs. Maar klanten die googlen naar [reviews van verhuisbedrijven](/blog/meer-google-reviews-verhuisbedrijf) kiezen niet altijd de goedkoopste — ze kiezen de betrouwbaarste. Een verhuisbedrijf met 4,9 sterren en enthousiaste reviews over de service wint het van een concurrent die 50 euro goedkoper is.
+Verhuisbedrijven concurreren vaak op prijs. Maar klanten die googlen naar [reviews van verhuisbedrijven](/blog/meer-google-reviews-verhuisbedrijf) kiezen niet altijd de goedkoopste. Ze kiezen de betrouwbaarste. Een verhuisbedrijf met 4,9 sterren en enthousiaste reviews over de service wint het van een concurrent die 50 euro goedkoper is.
 
 Klantbeleving is ook de motor achter mond-tot-mondreclame. Verhuizen is sociaal: iedereen vertelt erover. "Welk bedrijf heb je gebruikt? Waren ze goed?" Een uitstekende ervaring levert je gratis reclame op bij het hele sociale netwerk van je klant.
 
 ## Het eerste contact telt
 
-De meeste klanten bellen of mailen meerdere verhuisbedrijven tegelijk. Wie het snelst en vriendelijkst reageert, heeft direct een voorsprong. Neem binnen een uur contact op na een aanvraag — per telefoon of WhatsApp, niet alleen per e-mail.
+De meeste klanten bellen of mailen meerdere verhuisbedrijven tegelijk. Wie het snelst en vriendelijkst reageert, heeft direct een voorsprong. Neem binnen een uur contact op na een aanvraag, per telefoon of WhatsApp, niet alleen per e-mail.
 
 Stel vragen die laten zien dat je meedenkt: "Zijn er smalle trappen of een lastige parkeerplaats? Dan nemen we extra materiaal mee." Dit wekt vertrouwen en laat zien dat je ervaren bent. Een geautomatiseerde bevestigingsmail gevolgd door een persoonlijk telefoontje is de ideale combinatie.
 
@@ -53,6 +53,6 @@ Overweeg een klein attentie: een kaart met "Welkom in je nieuwe thuis" of een fl
 
 ## Conclusie
 
-Klantbeleving bij een verhuisbedrijf is geen luxe — het is je belangrijkste marketingkanaal. Van het eerste telefoontje tot de [nazorg na de verhuizing](/blog/nazorg-verhuizing-klant-behouden): elk contactmoment is een kans om indruk te maken. Die indruk vertaalt zich in reviews, aanbevelingen en een volle planning.
+Klantbeleving bij een verhuisbedrijf is geen luxe. Het is je belangrijkste marketingkanaal. Van het eerste telefoontje tot de [nazorg na de verhuizing](/blog/nazorg-verhuizing-klant-behouden): elk contactmoment is een kans om indruk te maken. Die indruk vertaalt zich in reviews, aanbevelingen en een volle planning.
 
 Wil je ontdekken hoe je jouw klantreis kunt verbeteren? Vraag een [gratis scan aan](/gratis-scan) en krijg direct inzicht.

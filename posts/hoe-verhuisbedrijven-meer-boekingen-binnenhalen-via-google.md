@@ -7,7 +7,7 @@ image: "/images/blog/hoe-verhuisbedrijven-meer-boekingen-binnenhalen-via-google.
 tags: ["Google", "Boekingen"]
 cluster: "vindbaarheid"
 ---
-## Verhuizen begint online — en jij moet daar zijn
+## Verhuizen begint online, en jij moet daar zijn
 
 Iemand heeft net een huis gekocht of een huurwoning gevonden. De verhuisdatum staat vast. Ze zoeken een verhuisbedrijf. Ze typen "verhuisbedrijf [stad]" in Google, vergelijken drie resultaten met reviews en een prijs, en boeken dezelfde dag.
 
@@ -32,7 +32,7 @@ Een volledig profiel scoort aantoonbaar hoger in Maps dan een leeg profiel.
 
 ## Stap 2: Reviews zijn je beste verkoper
 
-Mensen [vertrouwen](/reviews) een verhuisbedrijf met 60 reviews en 4,8 sterren veel meer dan een bedrijf met 10 reviews. Ze geven hun inboedel aan je mee — dat is een groot vertrouwen.
+Mensen [vertrouwen](/reviews) een verhuisbedrijf met 60 reviews en 4,8 sterren veel meer dan een bedrijf met 10 reviews. Ze geven hun inboedel aan je mee, en dat is een groot vertrouwen.
 
 Na elke verhuizing automatisch een WhatsApp sturen:
 
@@ -78,7 +78,7 @@ Elke specifieke pagina is een extra kans om gevonden te worden. Bouw ze één vo
 
 Mensen plannen verhuizingen in de avond. Ze zoeken 's avonds, ze sturen formulieren in 's avonds. Als jij de volgende ochtend pas reageert, is de aanvraag bij meerdere concurrenten ingediend.
 
-Een AI Chatbot op je website pakt die aanvragen op: vraagt het verhuisadres, de datum, het aantal kamers — en stuurt jou een melding. Jij belt de volgende ochtend als eerste terug.
+Een AI Chatbot op je website pakt die aanvragen op: vraagt het verhuisadres, de datum, het aantal kamers, en stuurt jou een melding. Jij belt de volgende ochtend als eerste terug.
 
 ---
 
@@ -87,7 +87,7 @@ Een AI Chatbot op je website pakt die aanvragen op: vraagt het verhuisadres, de 
 Verhuisbedrijven worden gekozen op vertrouwen. Gebruik je website om dat vertrouwen op te bouwen:
 
 - Laat het aantal verhuizingen zien dat je al hebt gedaan
-- Toon reviews prominent — niet verstopt onderaan
+- Toon reviews prominent, niet verstopt onderaan
 - Vertel hoe je werkt: intake, materialen, verzekering
 - Laat zien welk materiaal je gebruikt (goede dozen, beschermfolie)
 - Vermeld je verzekering en aansprakelijkheid

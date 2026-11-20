@@ -21,7 +21,7 @@ Drie systeemfouten houden de meeste verhuisbedrijven gevangen in een diep dal:
 - Diensten blijven beperkt tot pure zomerklussen (hele woning verhuizen in één dag), terwijl winterklanten andere behoeften hebben (gespreid verhuizen, opslag, deelverhuizing).
 - De rustige uren worden gevuld met busje wassen en kantoor opruimen, niet met systematisch werk dat in het voorjaar omzet oplevert.
 
-Wie dat omdraait — actief marketen, breder dienstenpakket, en de winter benutten voor SEO en automatisering — heeft tegen het volgende seizoen een merkbaar sterkere positie. Plan een [gratis scan van je online vindbaarheid](/gratis-scan) als je wilt weten waar je nu staat versus collega's die de winter wel benutten.
+Wie dat omdraait (actief marketen, breder dienstenpakket, en de winter benutten voor SEO en automatisering) heeft tegen het volgende seizoen een merkbaar sterkere positie. Plan een [gratis scan van je online vindbaarheid](/gratis-scan) als je wilt weten waar je nu staat versus collega's die de winter wel benutten.
 
 ## De verborgen doelgroepen die juist in de winter verhuizen
 
@@ -47,12 +47,12 @@ Februari is de tweede grote studentenverhuismaand (na september). Studenten die 
 
 Een concreet plan per maand voorkomt dat je drijft door de dal. Werk deze ritmische kalender af:
 
-- **Oktober** — alle reviews verzamelen van de zomerklussen die je nog niet hebt afgevangen. Doel: 30 nieuwe Google-reviews voor het einde van de maand.
-- **November** — content publicatie. Schrijf 4 tot 6 blogartikelen over winterverhuizingen, opslagopties en zakelijke verhuizingen. Dit indexeert in december en levert in januari traffic op.
-- **December** — onderhoud op alle voertuigen, kleine reparaties, materieel checken. Daarnaast: alle leads uit oktober en november die niet hebben geboekt, één opvolgbericht.
-- **Januari** — actief uitzoeken van scheidings- en zakelijke verhuisleads. Lokale advocatenkantoren bellen, bedrijfsmakelaars informeren over je beschikbaarheid in Q1.
-- **Februari** — SEO-werk en Google Bedrijfsprofiel optimaliseren met [lokale SEO voor verhuisbedrijven](/seo). Pagina's voor wijken, types verhuizingen en seizoenstips.
-- **Maart** — opwarmen voor het seizoen. Heractiveren oude leads, e-mail naar bestaande klanten met "uitbreiden of doorverhuizen" vraag, prijslijst herzien voor mei.
+- **Oktober**: alle reviews verzamelen van de zomerklussen die je nog niet hebt afgevangen. Doel: 30 nieuwe Google-reviews voor het einde van de maand.
+- **November**: content publicatie. Schrijf 4 tot 6 blogartikelen over winterverhuizingen, opslagopties en zakelijke verhuizingen. Dit indexeert in december en levert in januari traffic op.
+- **December**: onderhoud op alle voertuigen, kleine reparaties, materieel checken. Daarnaast: alle leads uit oktober en november die niet hebben geboekt, één opvolgbericht.
+- **Januari**: actief uitzoeken van scheidings- en zakelijke verhuisleads. Lokale advocatenkantoren bellen, bedrijfsmakelaars informeren over je beschikbaarheid in Q1.
+- **Februari**: SEO-werk en Google Bedrijfsprofiel optimaliseren met [lokale SEO voor verhuisbedrijven](/seo). Pagina's voor wijken, types verhuizingen en seizoenstips.
+- **Maart**: opwarmen voor het seizoen. Heractiveren oude leads, e-mail naar bestaande klanten met "uitbreiden of doorverhuizen" vraag, prijslijst herzien voor mei.
 
 ## Reactiveer oude leads uit je CRM met een simpel script
 
@@ -80,7 +80,7 @@ Eén of twee van deze diensten toevoegen kan je winterresultaat met 30 tot 50 pr
 
 In de winter is het zoekvolume voor verhuisbedrijven lager, maar wie dan rankt, rankt automatisch ook in mei en juni als de aanvragen verdrievoudigen. SEO-werk in de dal werkt door in de piek. Drie investeringen die in de winter renderen:
 
-- Lokale stadspagina's per gemeente in je werkgebied. Specifiek "verhuisbedrijf Almere", "verhuisbedrijf Amersfoort", etc. — niet één homepage met alles.
+- Lokale stadspagina's per gemeente in je werkgebied. Specifiek "verhuisbedrijf Almere", "verhuisbedrijf Amersfoort", etc. Dus niet één homepage met alles.
 - Lange-staart inhoudelijke artikelen ("hoe verhuis je een vleugel", "wat kost een seniorenverhuizing", "checklist zakelijke verhuizing").
 - AI-vindbaarheid in ChatGPT, Perplexity en Google AI Overviews. Wie nu opduikt in AI-antwoorden, heeft volgend seizoen een serieuze voorsprong.
 

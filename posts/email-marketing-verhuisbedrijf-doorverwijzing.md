@@ -13,9 +13,9 @@ cluster: "automatisering"
 
 ## Waarom verhuisbedrijven e-mail over het hoofd zien
 
-De meeste verhuisbedrijven denken: onze klanten verhuizen maar een keer. Waarom zou ik ze e-mailen? Dat klopt — dezelfde klant verhuist gemiddeld eens per zeven jaar. Maar die klant kent tientallen mensen die ook gaan verhuizen.
+De meeste verhuisbedrijven denken: onze klanten verhuizen maar een keer. Waarom zou ik ze e-mailen? Dat klopt: dezelfde klant verhuist gemiddeld eens per zeven jaar. Maar die klant kent tientallen mensen die ook gaan verhuizen.
 
-Collega's, familieleden, buren die hun huis verkopen — iedereen kent iemand die binnenkort verhuist. Als jij top-of-mind bent bij je eerdere klanten, word je aanbevolen. Zonder advertenties, zonder acquisitiekosten.
+Collega's, familieleden, buren die hun huis verkopen: iedereen kent iemand die binnenkort verhuist. Als jij top-of-mind bent bij je eerdere klanten, word je aanbevolen. Zonder advertenties, zonder acquisitiekosten.
 
 Email marketing voor verhuisbedrijven draait niet om herhaalaankopen, maar om doorverwijzingen. En dat maakt het uniek effectief.
 
@@ -27,7 +27,7 @@ Het perfecte moment om een relatie op te bouwen is direct na de verhuizing. De k
 
 **Week 1**: vraag om een [Google review](/blog/meer-google-reviews-verhuisbedrijf). Stuur een directe link zodat het twee klikken kost.
 
-**Maand 1**: stuur een checklist "Eerste maand in je nieuwe huis — 10 dingen die je niet moet vergeten." Adreswijziging, meterstanden, sleutels laten bijmaken. Nuttig en niet-commercieel.
+**Maand 1**: stuur een checklist "Eerste maand in je nieuwe huis: 10 dingen die je niet moet vergeten." Adreswijziging, meterstanden, sleutels laten bijmaken. Nuttig en niet-commercieel.
 
 Deze drie berichten kosten je vijf minuten per klant. Maar het effect is blijvend: je klant onthoudt je als het verhuisbedrijf dat meedacht, niet alleen verhuisde.
 
@@ -43,11 +43,11 @@ Na de initiële follow-up verschuif je de focus naar doorverwijzingen.
 
 ## Seizoenstips sturen
 
-Verhuizingen zijn seizoensgebonden — de [piekperiodes](/blog/piekperiodes-verhuisbedrijf-zomer) zijn in de zomer en rond einde maand. Speel daarop in:
+Verhuizingen zijn seizoensgebonden: de [piekperiodes](/blog/piekperiodes-verhuisbedrijf-zomer) zijn in de zomer en rond einde maand. Speel daarop in:
 
 **Januari**: "Nieuwjaarsvoornemen: dit jaar verhuizen? Begin nu met plannen en voorkom stress in het hoogseizoen."
 
-**Maart**: "Lente = verhuisseizoen. Deel deze mail met iemand die gaat verhuizen — wij regelen de rest."
+**Maart**: "Lente = verhuisseizoen. Deel deze mail met iemand die gaat verhuizen. Wij regelen de rest."
 
 **September**: "Herfstverhuizing? Minder drukte, betere beschikbaarheid en vaak scherpere tarieven."
 
@@ -67,7 +67,7 @@ De sleutel is consistentie, niet complexiteit. Liever elke maand een handmatige 
 
 - **Geen klantgegevens bewaren**: als je geen e-mailadressen verzamelt, kun je niemand benaderen
 - **Te commercieel communiceren**: een e-mail die aanvoelt als reclame wordt genegeerd
-- **Alleen mailen als het rustig is**: juist in drukke periodes is e-mail waardevol — je plant hiermee vooruit
+- **Alleen mailen als het rustig is**: juist in drukke periodes is e-mail waardevol, want je plant hiermee vooruit
 - **[Offerte-opvolging](/blog/offerte-proces-verhuisbedrijf-verbeteren) en marketing verwarren**: offerte-opvolging is verkoop, marketing is relatie onderhouden. Beide zijn belangrijk, maar het zijn andere berichten
 
 ## Aan de slag
